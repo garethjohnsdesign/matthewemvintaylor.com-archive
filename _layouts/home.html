@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="grid-container">
+  
+<!-- Content -->
+<div class="grid-x grid-padding-x">
+	<div class="cell">
+		<h1>{{site.description}}</h1>
+	</div>
+</div>
+<!-- End Content -->
+
+<!-- Projects -->
+<div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-1 large-up-1 xxlarge-up-1">
+  {% assign projects = site.projects | sort: 'position' | where: "is-front", "true" %}
+  {% for project in projects limit:8 %}
+    <div class="cell projects__list" data-aos="fade-in">
+    {% include item.html %}
+    </div>
+  {% endfor %}
+</div>
+<!-- End Projects -->
+
+</div>
