@@ -153,6 +153,13 @@
 		"oAP": "\/_layouts\/narrative.html",
 		"oF": 0
 		},
+	"\/_layouts\/page.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/page.html",
+		"oF": 0
+		},
 	"\/_layouts\/project.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -7076,6 +7083,13 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/info.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/info.html",
+		"oF": 0
 		},
 	"\/info.md": {
 		"cB": 0,
