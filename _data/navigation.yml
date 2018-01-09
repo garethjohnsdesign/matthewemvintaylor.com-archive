@@ -1,17 +1,14 @@
+main:
 - title: Narrative
-  url: /narrative/
-      
+  url: /narrative/    
 - title: Commercial
   url: /commercial/
-  
 - title: Promo
   url: /promo/
-
+secondary:
 - title: CV
   url: /cv/
-
 - title: Info
-  url: /info/
-  
+  url: /info/ 
 - title: Stills
   url: /stills/
