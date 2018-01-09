@@ -9,7 +9,7 @@ image: "/uploads/the-maltese-fighter.jpg"
 vimeo: 236598377
 director: Arev Manoukian
 production-company: Malta Film + Spy Films
-camera: Arri Alexa
+equipment: Arri Alexa
 award: Best Cinematography Award MACC 2015
 layout: project
 ---

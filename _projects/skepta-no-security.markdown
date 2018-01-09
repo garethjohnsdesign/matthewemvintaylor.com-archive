@@ -9,6 +9,6 @@ image: "/uploads/skepta-no-security.jpg"
 vimeo: 206030256
 director: Matthew Walker + Skepta
 production-company: Kode Media
-camera: Arri 416 - Kodak 500T
+equipment: Arri 416 - Kodak 500T
 layout: project
 ---

@@ -9,6 +9,6 @@ image: "/uploads/unicef-end-violence.jpg"
 vimeo: 194352066
 director: Jonas McQuiggin
 production-company: Absolute Post + Blind Pig
-camera: Arri Alexa
+equipment: Arri Alexa
 layout: project
 ---

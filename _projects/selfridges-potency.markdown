@@ -9,6 +9,6 @@ image: "/uploads/selfridges-potency.jpg"
 vimeo: 132857269
 director: Elisha Smith-Leverock
 production-company: Knucklehead
-camera: Arri Alexa
+equipment: Arri Alexa
 layout: project
 ---

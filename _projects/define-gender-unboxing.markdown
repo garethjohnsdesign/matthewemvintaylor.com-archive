@@ -9,6 +9,6 @@ image: "/uploads/define-gender-unboxing.jpg"
 vimeo: 225679917
 director: Kate Cox
 production-company: Nowness & Just So
-camera: Arri Alexa + Panavision Primo's
+equipment: Arri Alexa + Panavision Primo's
 layout: project
 ---

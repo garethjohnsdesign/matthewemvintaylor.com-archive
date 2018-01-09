@@ -9,6 +9,6 @@ image: "/uploads/pardon-the-intrusion.jpg"
 vimeo: 113910481
 director: Louise Caruana Galizia
 production-company: Cue Pictures + Limbo Pictures + Saint Productions
-camera: RED One MX
+equipment: RED One MX
 layout: project
 ---

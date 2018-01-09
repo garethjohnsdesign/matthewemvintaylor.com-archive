@@ -9,6 +9,6 @@ image: "/uploads/django-django-shake-and-tremble.jpg"
 vimeo: 131570502
 director: Pete GD
 production-company: Agile Films + CPP
-camera: Arri Alexa passed through VHS
+equipment: Arri Alexa passed through VHS
 layout: project
 ---

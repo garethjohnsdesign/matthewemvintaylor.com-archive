@@ -9,6 +9,6 @@ image: "/uploads/steve-aoki-louis-tomlinson-just-hold-on.jpg"
 vimeo: 207462876
 director: Bradley + Pablo
 production-company: Pulse Films
-camera: Alexa Mini + Kowa Anamorphic's
+equipment: Alexa Mini + Kowa Anamorphic's
 layout: project
 ---

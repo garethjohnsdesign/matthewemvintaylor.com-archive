@@ -9,7 +9,7 @@ image: "/uploads/adidas-boss-old-trafford.jpg"
 vimeo: 156597674
 director: Yonatan Weisberg
 production-company: Chief Productions
-camera: Arri Alexa Mini with Hawk V-Lite
+equipment: Arri Alexa Mini with Hawk V-Lite
 layout: project
 ---
 

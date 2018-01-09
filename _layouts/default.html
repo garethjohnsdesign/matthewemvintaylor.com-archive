@@ -26,20 +26,22 @@ layout: compress
 <!-- Mobile Navigation -->  
 {% include navigation--mobile.html %}
 <!-- End Mobile Navigation --> 
-  
+
+<div class="wrapper grid-y align-justify {{page.layout | slugify}} {% if page.layout == "project" %}align-center{% endif %}">
+
 <!-- Navigation -->
 {% include navigation.html %}
 <!-- End Navigation -->
 
 <!-- Content -->
-<div class="grid-y align-left {{page.layout | slugify}} {% if page.layout == "project" %}align-center{% endif %}"  data-aos="fade-in">
-  {{content}}
-</div>
+{{content}}
 <!-- End Content -->
 
 <!-- Footer -->
 {% include footer.html %}
 <!-- End Footer-->
+
+</div>
 
 <!-- Scripts -->
 {% include scripts.html %}

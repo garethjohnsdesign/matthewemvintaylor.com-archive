@@ -9,6 +9,6 @@ image: "/uploads/lenovo-think.jpg"
 vimeo: 156693561
 director: Emile Rafael
 production-company: Love Savage
-camera: Arri Alexa Studio with Hawk V-Lite Vintage '74
+equipment: Arri Alexa Studio with Hawk V-Lite Vintage '74
 layout: project
 ---

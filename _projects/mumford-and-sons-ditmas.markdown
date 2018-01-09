@@ -4,11 +4,11 @@ date: 2015-07-27 00:00:00 Z
 categories:
 - commercial
 position: 13
-is-front: false
+is-front: true
 image: "/uploads/mumford-and-sons-ditmas.jpg"
 vimeo: 134641283
 director: Alex Southam
 production-company: OB Management
-camera: Arri Alexa 4:3 with Kowa Anamorphic's
+equipment: Arri Alexa 4:3 with Kowa Anamorphic's
 layout: project
 ---

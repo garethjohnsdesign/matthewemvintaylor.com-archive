@@ -9,6 +9,6 @@ image: "/uploads/longmorn-those-that-know.jpg"
 vimeo: 188288566
 director: Elisha Smith-Leverock
 production-company: Knucklehead / LEZ Creative
-camera: Arri Alexa + Arri Amira
+equipment: Arri Alexa + Arri Amira
 layout: project
 ---

@@ -9,7 +9,7 @@ image: "/uploads/glass-animals-hazey.jpg"
 vimeo: 73727790
 director: Georgia Hudson
 production-company: Agile Films
-camera: Arri Alexa 4:3 Anamorphic
+equipment: Arri Alexa 4:3 Anamorphic
 awards: Nominated for Best Cinematography BMVA 2015
 layout: project
 ---

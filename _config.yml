@@ -43,7 +43,7 @@ google_site_verification:
 analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
-date_format: "%d %B %Y"
+date_format: "%B %Y"
 future: true
 social:
   instagram: 

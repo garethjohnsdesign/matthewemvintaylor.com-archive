@@ -9,6 +9,6 @@ image: "/uploads/blue-palace.jpg"
 vimeo: 241288916
 director: Kim Jarrett
 production-company: AUCB + FTII
-camera: 35mm / Arri 535B + Arri 3
+equipment: 35mm / Arri 535B + Arri 3
 layout: project
 ---

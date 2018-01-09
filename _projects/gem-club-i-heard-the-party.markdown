@@ -9,6 +9,6 @@ image: "/uploads/gem-club-i-heard-the-party.jpg"
 vimeo: 73727790
 director: Joshua Stocker
 production-company: Hardly Art Ltd
-camera: RED Epic
+equipment: RED Epic
 layout: project
 ---

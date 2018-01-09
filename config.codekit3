@@ -69,6 +69,13 @@
 		"oAP": "\/_includes\/head.html",
 		"oF": 0
 		},
+	"\/_includes\/item--overlay.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/item--overlay.html",
+		"oF": 0
+		},
 	"\/_includes\/item.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -788,16 +795,6 @@
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/tiempos-text-regular.woff2",
 		"oF": 0
-		},
-	"\/assets\/icons\/symbol-defs.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/icons\/symbol-defs.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/assets\/img\/logo.svg": {
 		"ft": 2097152,
@@ -7084,13 +7081,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/info.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/info.html",
-		"oF": 0
-		},
 	"\/info.md": {
 		"cB": 0,
 		"cS": 0,
@@ -7099,9 +7089,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/info.html",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "\/info.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -7161,9 +7151,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/promo.md",
-		"oF": 1,
+		"oA": 0,
+		"oAP": "\/promo.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

@@ -3,7 +3,7 @@ title: Info
 layout: info
 ---
 
-## Born in the American South, 1986.  
+## Born in the South England, 1986.  
 ## Based in London.  
 
 ### Commercials  
@@ -12,7 +12,7 @@ Lee Hickman
 lee@wizzoandco.co.uk
 
 ### Narrative  
-Sophie  
+Sophie Shaw-Foucher  
 +44 (0)2074372055  
 sophie@wizzoandco.co.uk
 
@@ -23,10 +23,14 @@ Vimeo
 Instagram
 
 ### Press  
-Filmmaker Magazine - Slice of Southern Life:  
-DP Dustin Lane on 'Dayveon'  
-Ludique Magazine - Matthew Emvin Taylor
+Filmmaker Magazine  
+i-D  
+Ludique Magazine  
 
-### Awards
+### Awards  
+The Maltese Fighter — Best Cinematography Award MACC 2015
 
-All images © 2018 Matthew Emvin Taylor
+### Colophon
+Site by Gareth Johns Design + Development  
+
+All artwork and photography are copyrighted and protected under international copyright laws. Artwork may not be reproduced in any form, stored, or manipulated without prior written permission from Matthew Emvin Taylor and the copyright holders.

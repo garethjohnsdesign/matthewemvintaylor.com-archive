@@ -9,6 +9,6 @@ image: "/uploads/charlotte-oc-if-my-house-was-burning.jpg"
 vimeo: 119973654
 director: Georgia Hudson
 production-company: Agile Films
-camera: Arri Alexa 4:3 Anamorphic
+equipment: Arri Alexa 4:3 Anamorphic
 layout: project
 ---

@@ -9,6 +9,6 @@ image: "/uploads/bold.jpg"
 vimeo: 87501446
 director: Davide Gentile
 production-company: Banjo Eyes Films Ltd
-camera: Arri Alexa Anamorphic
+equipment: Arri Alexa Anamorphic
 layout: project
 ---

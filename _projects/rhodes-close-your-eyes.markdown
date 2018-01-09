@@ -9,6 +9,6 @@ image: "/uploads/rhodes-close-your-eyes.jpg"
 vimeo: 128155983
 director: Yonatan Weisberg
 production-company: Chief Productions
-camera: Panavised Arri Alexa 4:3 with G series anamorphics
+equipment: Panavised Arri Alexa 4:3 with G series anamorphics
 layout: project
 ---

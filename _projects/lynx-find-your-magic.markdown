@@ -9,6 +9,6 @@ image: "/uploads/lynx-find-your-magic.jpg"
 vimeo: 239498249
 director: Franklyn Banks
 production-company: Gas + Electric
-camera: Alexa Mini + Panavision G Series + Revolution Lens System
+equipment: Alexa Mini + Panavision G Series + Revolution Lens System
 layout: project
 ---

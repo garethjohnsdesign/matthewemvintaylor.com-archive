@@ -9,6 +9,6 @@ image: "/uploads/coco-de-mer-x.jpg"
 vimeo: 183101211
 director: Rankin + Trisha Ward
 production-company: Rankin Film + TBWA
-camera: RED Dragon
+equipment: RED Dragon
 layout: project
 ---

@@ -9,6 +9,6 @@ image: "/uploads/billie-marten-bird.jpg"
 vimeo: 143015938
 director: Franklyn Banks
 production-company: Gas + Electric
-camera: Arri Alexa Mini
+equipment: Arri Alexa Mini
 layout: project
 ---

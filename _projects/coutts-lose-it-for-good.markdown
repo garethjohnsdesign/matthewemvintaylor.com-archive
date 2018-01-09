@@ -9,6 +9,6 @@ image: "/uploads/coutts-lose-it-for-good.jpg"
 vimeo: 185626712
 director: Pip
 production-company: Agile Films
-camera: Arri Alexa Mini + Sony A7S II
+equipment: Arri Alexa Mini + Sony A7S II
 layout: project
 ---

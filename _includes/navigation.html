@@ -1,6 +1,4 @@
-
 {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
-<nav>
 <!-- Navigation -->
 <div class="grid-x grid-padding-x grid-padding-y align-justify">
   
@@ -67,5 +65,4 @@
     </button>
   </div>
 </div>
-</nav>
 <!-- End Navigation -->

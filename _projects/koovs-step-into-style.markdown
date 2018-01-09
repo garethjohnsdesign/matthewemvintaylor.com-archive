@@ -9,6 +9,6 @@ image: "/uploads/koovs-step-into-style.jpg"
 vimeo: 220608303
 director: Tom + Amar
 production-company: Agile Films
-camera: Arri Alexa Mini + XT, Panavision E Series + Ultra Speeds
+equipment: Arri Alexa Mini + XT, Panavision E Series + Ultra Speeds
 layout: project
 ---

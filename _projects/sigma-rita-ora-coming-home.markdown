@@ -9,6 +9,6 @@ image: "/uploads/sigma-rita-ora-coming-home.jpg"
 vimeo: 144877063
 director: Georgia Hudson
 production-company: Agile Films
-camera: Arri Alexa 4:3 with Kowa Anamorphic's
+equipment: Arri Alexa 4:3 with Kowa Anamorphic's
 layout: project
 ---

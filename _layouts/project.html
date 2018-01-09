@@ -11,7 +11,7 @@ layout: default
   {% if page.next.url %}
   <a href="{{page.next.url}}">
     <div class="grid-y align-center" style="height: 100%;">
-      <div class="shrink cell text-center">Previous</div>
+      <div class="shrink cell text-center"><svg class="icon icon-arrows icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg></div>
     </div>
   </a>
   {% endif %}
@@ -47,9 +47,11 @@ layout: default
   <div class="project__credits">Production Company — {{ page.production-company }}</div>
   {% endif %}
   
-  {% if page.camera %}
-  <div class="project__credits">Equipment — {{ page.camera }}</div>
+  {% if page.equipment %}
+  <div class="project__credits">Equipment — {{ page.equipment }}</div>
   {% endif %}
+  
+   <div class="project__date">{{ page.date | date: site.date_format }}</div>
   
   </div>
 </div>
@@ -78,7 +80,7 @@ layout: default
   {% if page.previous.url %}
   <a href="{{page.previous.url}}">
     <div class="grid-y align-center" style="height: 100%;">
-      <div class="shrink cell text-center">Next</div>
+      <div class="shrink cell text-center"><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></div>
     </div>
   </a>
   {% endif %}
