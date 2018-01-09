@@ -1,0 +1,14 @@
+---
+title: Tei Shi — Say You Do
+date: 2017-10-03 00:00:00 Z
+categories:
+- promo
+position: 19
+is-front: true
+image: "/uploads/tei-shi-say-you-do.jpg"
+vimeo: 236598377
+director: Bradley + Pablo
+production-company: Pulse Films
+camera: Alexa Mini + Uncoated Zeiss Superspeeds
+layout: project
+---

@@ -1,0 +1,14 @@
+---
+title: Koovs — Step into Style
+date: 2017-07-07 00:00:00 Z
+categories:
+- commercial
+position: 11
+is-front: true
+image: "/uploads/koovs-step-into-style.jpg"
+vimeo: 220608303
+director: Tom + Amar
+production-company: Agile Films
+camera: Arri Alexa Mini + XT, Panavision E Series + Ultra Speeds
+layout: project
+---

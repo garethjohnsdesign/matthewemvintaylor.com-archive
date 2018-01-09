@@ -1,0 +1,14 @@
+---
+title: Django Django — Shake and Tremble
+date: 2015-06-23 00:00:00 Z
+categories:
+- promo
+position: 8
+is-front: true
+image: "/uploads/django-django-shake-and-tremble.jpg"
+vimeo: 131570502
+director: Pete GD
+production-company: Agile Films + CPP
+camera: Arri Alexa passed through VHS
+layout: project
+---

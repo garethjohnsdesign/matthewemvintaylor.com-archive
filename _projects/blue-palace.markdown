@@ -1,6 +1,6 @@
 ---
 title: Blue Palace
-date: 2015-10-20 00:00:00 Z
+date: 2010-10-20 00:00:00 Z
 categories:
 - narrative
 position: 3

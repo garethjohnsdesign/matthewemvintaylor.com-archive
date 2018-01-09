@@ -47,6 +47,10 @@ layout: default
   <div class="project__credits">Production Company — {{ page.production-company }}</div>
   {% endif %}
   
+  {% if page.camera %}
+  <div class="project__credits">{{ page.camera }}</div>
+  {% endif %}
+  
   </div>
 </div>
 <!-- End Credit -->

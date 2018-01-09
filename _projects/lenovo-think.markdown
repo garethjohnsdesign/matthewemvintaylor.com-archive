@@ -1,0 +1,14 @@
+---
+title: Lenovo — Think
+date: 2017-07-07 00:00:00 Z
+categories:
+- commercial
+position: 12
+is-front: true
+image: "/uploads/lenovo-think.jpg"
+vimeo: 156693561
+director: Emile Rafael
+production-company: Love Savage
+camera: Arri Alexa Studio with Hawk V-Lite Vintage '74
+layout: project
+---

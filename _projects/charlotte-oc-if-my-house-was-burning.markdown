@@ -1,5 +1,5 @@
 ---
-title: Charlotte OC — If My House was Burning
+title: Charlotte OC — If My House Was Burning
 date: 2015-02-18 00:00:00 Z
 categories:
 - promo
