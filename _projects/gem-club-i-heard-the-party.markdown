@@ -4,7 +4,7 @@ date: 2013-09-03 00:00:00 Z
 categories:
 - promo
 position: 9
-is-front: true
+is-front: false
 image: "/uploads/gem-club-i-heard-the-party.jpg"
 vimeo: 73727790
 director: Joshua Stocker

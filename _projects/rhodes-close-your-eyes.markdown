@@ -4,7 +4,7 @@ date: 2015-03-18 00:00:00 Z
 categories:
 - promo
 position: 14
-is-front: true
+is-front: false
 image: "/uploads/rhodes-close-your-eyes.jpg"
 vimeo: 128155983
 director: Yonatan Weisberg

@@ -66,6 +66,7 @@
 // ---------
 
 $global-font-size: 100%;
+$global-font-size: 110%;
 // $global-width: rem-calc(1200);
 $global-width: rem-calc(1024);
 $global-lineheight: 1.5;
@@ -76,7 +77,7 @@ $black: #0a0a0a;
 $white: #fefefe;
 $foundation-palette: (
   primary: $black,
-  secondary: #767676,
+  secondary: $medium-gray,
   success: #3adb76,
   warning: #ffae00,
   alert: #cc4b37,
@@ -171,7 +172,8 @@ $code-background: $light-gray;
 $code-border: 1px solid $medium-gray;
 $code-padding: rem-calc(2 5 1);
 $anchor-color: $primary-color;
-$anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
+// $anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
+$anchor-color-hover: $secondary-color;
 $anchor-text-decoration: none;
 $anchor-text-decoration-hover: none;
 $hr-width: $global-width;
@@ -475,8 +477,10 @@ $menu-margin: 0;
 $menu-nested-margin: $global-menu-nested-margin;
 $menu-items-padding: $global-menu-padding;
 $menu-simple-margin: 1rem;
-$menu-item-color-active: $white;
-$menu-item-background-active: get-color(primary);
+// $menu-item-color-active: $white;
+$menu-item-color-active: $secondary-color;
+// $menu-item-background-active: get-color(primary);
+$menu-item-background-active: $white;
 $menu-icon-spacing: 0.25rem;
 $menu-item-background-hover: $light-gray;
 $menu-state-back-compat: true;

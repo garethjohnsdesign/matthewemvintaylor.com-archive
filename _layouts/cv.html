@@ -1,3 +1,46 @@
 ---
 layout: default
 ---
+
+<!-- CV -->
+  	
+    <div class="grid-x grid-padding-x show-for-medium cv__title">
+      <div class="small-12 medium-3 large-3 cell">
+      Title
+      </div>
+      <div class="small-12 medium-3 large-3 cell">
+      Director(s)
+      </div>
+      <div class="small-12 medium-2 large-2 cell">
+      Production
+      </div>
+      <div class="small-12 medium-3 large-3 cell">
+      Camera
+      </div>
+      <div class="small-12 medium-1 large-1 cell show-for-medium">
+      Date
+      </div>
+    </div>
+  	    
+    {% assign projects = site.projects | sort: 'date' | reverse %}
+    {% for item in projects %}
+    <div class="grid-x grid-padding-x cv__item">
+      <div class="small-12 medium-3 large-3 cell">
+      {{item.title}}
+      </div>
+      <div class="small-12 medium-3 large-3 cell">
+      {{item.director}}
+      </div>
+      <div class="small-12 medium-2 large-2 cell">
+      {{item.production-company}}
+      </div>
+      <div class="small-12 medium-3 large-3 cell show-for-medium">
+      {{item.camera}}
+      </div>
+      <div class="small-12 medium-1 large-1 cell show-for-medium">
+      {{item.date | date: '%Y'}}
+      </div>
+    </div>
+    {%endfor%}
+    
+<!-- End CV -->

@@ -4,7 +4,7 @@ date: 2017-09-17 00:00:00 Z
 categories:
 - commercial
 position: 5
-is-front: true
+is-front: false
 image: "/uploads/coco-de-mer-x.jpg"
 vimeo: 183101211
 director: Rankin + Trisha Ward

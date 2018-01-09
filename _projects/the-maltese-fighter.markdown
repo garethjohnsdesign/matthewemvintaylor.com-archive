@@ -4,7 +4,7 @@ date: 2013-12-24 00:00:00 Z
 categories:
 - narrative
 position: 19
-is-front: true
+is-front: false
 image: "/uploads/the-maltese-fighter.jpg"
 vimeo: 236598377
 director: Arev Manoukian

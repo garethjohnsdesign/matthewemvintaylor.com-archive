@@ -18,40 +18,11 @@
 // 1. Mixins
 // ---------
 
-
-
 @mixin links ($link, $hover) {
   a {
     color: $link;
     &:hover {
       color: $hover;   
-    }
-  }
-}
-
-@mixin link-underline($color, $size, $duration, $centered) {
-  color: $color;
-  display: inline-block;
-  position: relative;
-  text-decoration: none;
-  
-  &:before {
-    background-color: $color;
-    content: '';
-    height: $size;
-    position: absolute;
-    bottom: 0 - ($size/2);
-    transition: $duration;
-    width: 0;
-    @if $centered == 'true' {
-      left: 50%;
-      transform: translateX(-50%); 
-    }
-  }
-  
-  &:hover {
-    &:before {
-      width: 100%;
     }
   }
 }
@@ -62,19 +33,10 @@
 body {
   cursor: default;
   font-kerning: normal;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50% 50%;
 }
 
 svg {
   max-width: 100%;
-}
-
-img {
-  display: block;
-  width: 100%;
-  height: auto;
 }
 
 ::selection {
@@ -93,14 +55,6 @@ a {
   transition: $primary-transition;
 }
 
-.underline {
-  padding-bottom: 0.25rem;
-  border-bottom: 1px $black solid;
-  &:hover {
-    border-bottom: 1px transparent solid;
-  }
-}
-
 .uppercase {
   text-transform: uppercase;
 }
@@ -116,7 +70,7 @@ i, cite, em, var, address, dfn {
 .loader {
   z-index: 3;
   position: fixed;
-  background: $secondary-color;
+  background: $white;
   top: 0;
   left: 0;
   height: 100%;
@@ -202,6 +156,7 @@ i, cite, em, var, address, dfn {
 // 8. Project
 // ---------
 
+/*
 .project__credits {
   color: $color--highlight;
 }
@@ -213,11 +168,23 @@ i, cite, em, var, address, dfn {
 .project__pagination a:hover {
   color: $color--black;
 }
-
+*/
 
 // 9. Info
 // ---------
 
-.info a {
-  @include link-underline($primary-color, 1px, $primary-transition, false)
+
+.item__director {
+  font-family: $secondary-font-family;
+  color: $secondary-color;
+}
+
+.cv__title {
+  color: $secondary-color;
+}
+
+.cv__item {
+  border-bottom: 1px solid $secondary-color;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }

@@ -4,7 +4,7 @@ date: 2017-03-08 00:00:00 Z
 categories:
 - promo
 position: 18
-is-front: true
+is-front: false
 image: "/uploads/steve-aoki-louis-tomlinson-just-hold-on.jpg"
 vimeo: 207462876
 director: Bradley + Pablo

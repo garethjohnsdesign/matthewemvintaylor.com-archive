@@ -4,7 +4,7 @@ date: 2017-07-07 00:00:00 Z
 categories:
 - commercial
 position: 12
-is-front: true
+is-front: false
 image: "/uploads/lenovo-think.jpg"
 vimeo: 156693561
 director: Emile Rafael

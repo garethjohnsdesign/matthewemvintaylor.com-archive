@@ -4,7 +4,7 @@ date: 2017-10-03 00:00:00 Z
 categories:
 - promo
 position: 19
-is-front: true
+is-front: false
 image: "/uploads/tei-shi-say-you-do.jpg"
 vimeo: 236598377
 director: Bradley + Pablo
