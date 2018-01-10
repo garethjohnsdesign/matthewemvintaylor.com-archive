@@ -5,7 +5,7 @@ categories:
 - commercial
 position: 6
 is-front: false
-image: "/uploads/coutts-lose-it-for-good.jpg"
+image: "/uploads/coutts-lose-it-for-good-wide.jpg"
 vimeo: 185626712
 director: Pip
 production-company: Agile Films

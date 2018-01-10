@@ -5,8 +5,8 @@ categories:
 - narrative
 position: 19
 is-front: false
-image: "/uploads/the-maltese-fighter.jpg"
-vimeo: 236598377
+image: "/uploads/the-maltese-fighter-wide.jpg"
+vimeo: 82642891
 director: Arev Manoukian
 production-company: Malta Film + Spy Films
 equipment: Arri Alexa

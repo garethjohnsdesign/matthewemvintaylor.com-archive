@@ -5,7 +5,7 @@ categories:
 - commercial
 position: 11
 is-front: false
-image: "/uploads/koovs-step-into-style.jpg"
+image: "/uploads/koovs-step-into-style-wide.jpg"
 vimeo: 220608303
 director: Tom + Amar
 production-company: Agile Films

@@ -5,7 +5,7 @@ categories:
 - narrative
 position: 3
 is-front: false
-image: "/uploads/blue-palace.jpg"
+image: "/uploads/blue-palace-wide.jpg"
 vimeo: 241288916
 director: Kim Jarrett
 production-company: AUCB + FTII

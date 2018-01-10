@@ -5,7 +5,7 @@ categories:
 - commercial
 position: 5
 is-front: false
-image: "/uploads/coco-de-mer-x.jpg"
+image: "/uploads/coco-de-mer-x-wide.jpg"
 vimeo: 183101211
 director: Rankin + Trisha Ward
 production-company: Rankin Film + TBWA

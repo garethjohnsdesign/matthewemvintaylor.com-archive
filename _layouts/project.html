@@ -35,29 +35,31 @@ layout: default
 
 <!-- Credits -->
 <div class="grid-x grid-padding-x align-center">
-  <div class="small-12 cell">
+  <div class="small-12 medium-6 cell">
   
-  <h6>{{ page.title }}</h6>
+  {{ page.title }}
   
-  {% if page.director %}
-  <div class="project__credits">Director — {{ page.director }}</div>
-  {% endif %}
-  
-  {% if page.production-company %}
-  <div class="project__credits">Production — {{ page.production-company }}</div>
-  {% endif %}
-  
-  {% if page.equipment %}
-  <div class="project__credits">{{ page.equipment }}</div>
-  {% endif %}
+
+  <div class="project__credits">{{ page.director }} — {{ page.production-company }}</div>
+
   
   {% if page.award %}
   <div class="project__credits">{{ page.award }}</div>
   {% endif %}
   
-   <div class="project__credits">{{ page.date | date: site.date_format }}</div>
   
   </div>
+  
+  <div class="small-12 medium-6 cell medium-text-right">
+  
+  {% if page.equipment %}
+  <div class="project__credits">{{ page.equipment }}</div>
+  {% endif %}
+  
+  <div class="project__credits">{{ page.date | date: site.date_format }}</div>
+  
+  </div>
+  
 </div>
 <!-- End Credit -->
 
@@ -65,8 +67,7 @@ layout: default
 {% if page.previous.url %}
 <div class="grid-x grid-padding-x align-center show-for-small-only">
   <div class="shrink cell text-center">
-    <hr>
-    <a href="{{page.previous.url}}">Next</a>
+    <a href="{{page.previous.url}}"><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a>
   </div>
 </div>
 {% endif %}

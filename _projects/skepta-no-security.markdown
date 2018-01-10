@@ -5,7 +5,7 @@ categories:
 - promo
 position: 17
 is-front: false
-image: "/uploads/skepta-no-security.jpg"
+image: "/uploads/skepta-no-security-wide.jpg"
 vimeo: 206030256
 director: Matthew Walker + Skepta
 production-company: Kode Media

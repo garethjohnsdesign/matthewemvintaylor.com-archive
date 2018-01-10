@@ -5,7 +5,7 @@ categories:
 - commercial
 position: 13
 is-front: false
-image: "/uploads/lynx-find-your-magic.jpg"
+image: "/uploads/lynx-find-your-magic-wide.jpg"
 vimeo: 239498249
 director: Franklyn Banks
 production-company: Gas + Electric

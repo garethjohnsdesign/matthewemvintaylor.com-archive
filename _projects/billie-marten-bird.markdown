@@ -5,7 +5,7 @@ categories:
 - promo
 position: 2
 is-front: false
-image: "/uploads/billie-marten-bird.jpg"
+image: "/uploads/billie-marten-bird-wide.jpg"
 vimeo: 143015938
 director: Franklyn Banks
 production-company: Gas + Electric
