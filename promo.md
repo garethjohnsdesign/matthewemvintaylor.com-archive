@@ -1,6 +1,6 @@
 ---
 title: Promo
-position: 2
+position: 3
 layout: promo
 ---
 
