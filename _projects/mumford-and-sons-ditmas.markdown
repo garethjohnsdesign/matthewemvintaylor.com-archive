@@ -5,7 +5,7 @@ categories:
 - commercial
 position: 13
 is-front: false
-image: "/uploads/mumford-and-sons-ditmas.jpg"
+image: "/uploads/mumford-and-sons-ditmas-wide.jpg"
 vimeo: 134641283
 director: Alex Southam
 production-company: OB Management

@@ -5,7 +5,7 @@ categories:
 - promo
 position: 4
 is-front: false
-image: "/uploads/charlotte-oc-if-my-house-was-burning.jpg"
+image: "/uploads/charlotte-oc-if-my-house-was-burning-wide.jpg"
 vimeo: 119973654
 director: Georgia Hudson
 production-company: Agile Films

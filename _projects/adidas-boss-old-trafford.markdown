@@ -5,7 +5,7 @@ categories:
 - commercial
 position: 0
 is-front: false
-image: "/uploads/adidas-boss-old-trafford.jpg"
+image: "/uploads/adidas-boss-old-trafford-wide.jpg"
 vimeo: 156597674
 director: Yonatan Weisberg
 production-company: Chief Productions

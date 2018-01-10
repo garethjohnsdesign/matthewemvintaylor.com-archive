@@ -5,7 +5,7 @@ categories:
 - commercial
 position: 15
 is-front: false
-image: "/uploads/selfridges-potency.jpg"
+image: "/uploads/selfridges-potency-wide.jpg"
 vimeo: 132857269
 director: Elisha Smith-Leverock
 production-company: Knucklehead

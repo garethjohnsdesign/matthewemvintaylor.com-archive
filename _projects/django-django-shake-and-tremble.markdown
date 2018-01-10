@@ -5,7 +5,7 @@ categories:
 - promo
 position: 8
 is-front: false
-image: "/uploads/django-django-shake-and-tremble.jpg"
+image: "/uploads/django-django-shake-and-tremble-wide.jpg"
 vimeo: 131570502
 director: Pete GD
 production-company: Agile Films + CPP

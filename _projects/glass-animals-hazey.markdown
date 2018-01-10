@@ -6,7 +6,7 @@ categories:
 position: 9
 is-front: true
 image: "/uploads/glass-animals-hazey-wide.jpg"
-vimeo: 73727790
+vimeo: 105112626
 director: Georgia Hudson
 production-company: Agile Films
 equipment: Arri Alexa 4:3 Anamorphic

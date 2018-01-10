@@ -4,34 +4,34 @@ position: 5
 layout: info
 ---
 
-## Born in the South England, 1986.  
-## Based in London.  
+#### Born in the South England, 1986.  
+#### Based in London.  
 
-### Commercials  
+###### Commercials  
 Lee Hickman  
 +44 (0)2074372055  
 lee@wizzoandco.co.uk
 
-### Narrative  
+###### Narrative  
 Sophie Shaw-Foucher  
 +44 (0)2074372055  
 sophie@wizzoandco.co.uk
 
-### Personal  
+###### Personal  
 +44 (0) 7967 851359  
 matthewemvintaylot@gmail.com  
 Vimeo  
 Instagram
 
-### Press  
+###### Press  
 Filmmaker Magazine  
 i-D  
 Ludique Magazine  
 
-### Awards  
+###### Awards  
 The Maltese Fighter — Best Cinematography Award MACC 2015
 
-### Colophon
+###### Colophon
 Site by Gareth Johns Design + Development  
 
 All artwork and photography are copyrighted and protected under international copyright laws. Artwork may not be reproduced in any form, stored, or manipulated without prior written permission from Matthew Emvin Taylor and the copyright holders.

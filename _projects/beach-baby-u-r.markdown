@@ -5,7 +5,7 @@ categories:
 - promo
 position: 1
 is-front: false
-image: "/uploads/beach-baby-u-r.jpg"
+image: "/uploads/beach-baby-u-r-wide.jpg"
 vimeo: 174398025
 director: Eoin Glaister
 production-company: Human + Hath Films

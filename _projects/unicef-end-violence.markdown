@@ -5,7 +5,7 @@ categories:
 - commercial
 position: 20
 is-front: true
-image: "/uploads/unicef-end-violence-wide.jpg"
+image: "/uploads/unicef-end-violence-wide-02.jpg"
 vimeo: 194352066
 director: Jonas McQuiggin
 production-company: Absolute Post + Blind Pig

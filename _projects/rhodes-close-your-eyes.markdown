@@ -5,7 +5,7 @@ categories:
 - promo
 position: 14
 is-front: false
-image: "/uploads/rhodes-close-your-eyes.jpg"
+image: "/uploads/rhodes-close-your-eyes-wide.jpg"
 vimeo: 128155983
 director: Yonatan Weisberg
 production-company: Chief Productions

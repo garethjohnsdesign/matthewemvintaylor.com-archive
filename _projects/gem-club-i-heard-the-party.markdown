@@ -5,7 +5,7 @@ categories:
 - promo
 position: 9
 is-front: false
-image: "/uploads/gem-club-i-heard-the-party.jpg"
+image: "/uploads/gem-club-i-heard-the-party-wide.jpg"
 vimeo: 73727790
 director: Joshua Stocker
 production-company: Hardly Art Ltd
