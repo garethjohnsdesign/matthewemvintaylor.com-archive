@@ -1,0 +1,95 @@
+---
+layout: default
+---
+
+<!-- Content -->
+
+<div class="grid-x grid-padding-x grid-padding-y" data-aos="fade-in">
+
+<!-- Previous -->
+<div class="medium-2 cell show-for-medium project__pagination">
+  {% if page.next.url %}
+  <a href="{{page.next.url}}">
+    <div class="grid-y align-center" style="height: 100%;">
+      <div class="shrink cell text-center"><svg class="icon icon-arrows icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg></div>
+    </div>
+  </a>
+  {% endif %}
+</div>
+<!-- End Previous -->
+
+<!-- Center -->
+<div class="small-12 medium-8 cell">
+  <div class="grid-y align-center" style="height: 100%;">
+    <div class="shrink cell">
+
+<!-- Video -->
+<div class="grid-x grid-padding-x align-center">
+  <div class="auto cell">
+  	<div class="responsive-embed widescreen">
+  	   <iframe src="https://player.vimeo.com/video/{{ page.vimeo }}?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  	</div>
+  </div>
+</div>
+<!-- End Video -->
+
+<!-- Credits -->
+<div class="grid-x grid-padding-x align-center">
+  <div class="small-12 cell">
+  
+  <h6>{{ page.title }}</h6>
+  
+  {% if page.director %}
+  <div class="project__credits">Director — {{ page.director }}</div>
+  {% endif %}
+  
+  {% if page.production-company %}
+  <div class="project__credits">Production — {{ page.production-company }}</div>
+  {% endif %}
+  
+  {% if page.equipment %}
+  <div class="project__credits">{{ page.equipment }}</div>
+  {% endif %}
+  
+  {% if page.award %}
+  <div class="project__credits">{{ page.award }}</div>
+  {% endif %}
+  
+   <div class="project__credits">{{ page.date | date: site.date_format }}</div>
+  
+  </div>
+</div>
+<!-- End Credit -->
+
+<!-- Mobile Pagination -->
+{% if page.previous.url %}
+<div class="grid-x grid-padding-x align-center show-for-small-only">
+  <div class="shrink cell text-center">
+    <hr>
+    <a href="{{page.previous.url}}">Next</a>
+  </div>
+</div>
+{% endif %}
+<!-- End Mobile Pagination -->
+      
+      
+      
+    </div>
+  </div>
+</div>
+<!-- End Center -->
+
+<!-- Next -->
+<div class="medium-2 cell show-for-medium project__pagination">
+  {% if page.previous.url %}
+  <a href="{{page.previous.url}}">
+    <div class="grid-y align-center" style="height: 100%;">
+      <div class="shrink cell text-center"><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></div>
+    </div>
+  </a>
+  {% endif %}
+</div>
+<!-- End Next -->
+
+</div>   
+<!-- End Content -->

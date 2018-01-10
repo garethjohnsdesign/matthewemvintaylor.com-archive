@@ -1,0 +1,15 @@
+- title: Narrative
+  url: /narrative/ 
+  color: black   
+- title: Commercial
+  url: /commercial/
+  color: black  
+- title: Promo
+  url: /promo/
+  color: black  
+- title: Info
+  url: /info/ 
+  color: "#9e9e9e"  
+- title: Stills
+  url: /stills/
+  color: "#9e9e9e"  

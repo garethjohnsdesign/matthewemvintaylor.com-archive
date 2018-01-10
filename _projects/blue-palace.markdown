@@ -1,0 +1,15 @@
+---
+title: Blue Palace
+date: 2010-10-20 00:00:00 Z
+categories:
+- narrative
+position: 3
+is-front: false
+image: "/uploads/blue-palace.jpg"
+vimeo: 241288916
+director: Kim Jarrett
+production-company: AUCB + FTII
+equipment: 35mm / Arri 535B + Arri 3
+layout: project
+---
+
