@@ -2,18 +2,18 @@
 title: Matthew Emvin Taylor
 timezone: UTC
 collections:
-  projects:
-    title: Projects
-    output: true
   posts:
     title: Posts
+    output: true
+  projects:
+    title: Projects
     output: true
   uploads:
     title: Uploads
     output: false
 url: https://www.matthewemvintaylor.com
 baseurl: 
-description: "Matthew Emvin Taylor — London based cinematographer with worldwide experience."
+description: Matthew Emvin Taylor — London based cinematographer with worldwide experience.
 permalink: pretty
 exclude:
 - bower.json
@@ -39,7 +39,7 @@ highlighter: rouge
 colophon: http://garethjohnsdesign.com
 company: Matthew Emvin Taylor
 email: info@matthewemvintaylor.com
-google_site_verification:
+google_site_verification: 
 analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
