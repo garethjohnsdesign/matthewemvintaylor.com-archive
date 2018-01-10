@@ -5,7 +5,7 @@ categories:
 - promo
 position: 19
 is-front: true
-image: "/uploads/tei-shi-say-you-do.jpg"
+image: "/uploads/tei-shi-say-you-do-wide.jpg"
 vimeo: 236598377
 director: Bradley + Pablo
 production-company: Pulse Films

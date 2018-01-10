@@ -97,12 +97,8 @@ i, cite, em, var, address, dfn {
   z-index: 2;
 }
 
-.navigation__job a {
-  color: $color--highlight;
-}
-
-.navigation__job a:hover {
-  color: $color--black;
+.navigation__job {
+  color: $secondary-color;
 }
 
 .navigation__hamburger {
@@ -147,7 +143,7 @@ i, cite, em, var, address, dfn {
 }
     
 .projects__list a:hover img {
-  filter: saturate(0%) brightness(60%); 
+  filter: saturate(100%) brightness(70%); 
 }
     
 .projects__list a img {
@@ -158,6 +154,10 @@ i, cite, em, var, address, dfn {
 
 // 8. Project
 // ---------
+
+.project__credits {
+  color: $secondary-color;
+}
 
 /*
 .project__credits {
@@ -216,4 +216,17 @@ i, cite, em, var, address, dfn {
 
 .info h3 {
   margin-top: 2rem;
+}
+
+
+.navigation__secondary a {
+  color: $secondary-color;
+}
+
+.navigation__secondary__cell {
+  padding-left: 0rem;
+}
+
+.footer a {
+  color: $secondary-color;
 }

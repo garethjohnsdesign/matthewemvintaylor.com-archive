@@ -13,7 +13,7 @@ collections:
     output: false
 url: https://www.matthewemvintaylor.com
 baseurl: 
-description: Matthew Emvin Taylor — London based cinematographer with worldwide experience.
+description: London-based cinematographer with worldwide experience.
 permalink: pretty
 exclude:
 - bower.json
@@ -38,12 +38,13 @@ kramdown:
 highlighter: rouge
 colophon: http://garethjohnsdesign.com
 company: Matthew Emvin Taylor
+job-title: Cinematographer
 email: info@matthewemvintaylor.com
 google_site_verification: 
 analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
-date_format: "%B %Y"
+date_format: "%Y"
 future: true
 social:
   instagram: 

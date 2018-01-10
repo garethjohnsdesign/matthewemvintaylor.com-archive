@@ -4,7 +4,7 @@ date: 2015-07-27 00:00:00 Z
 categories:
 - commercial
 position: 13
-is-front: true
+is-front: false
 image: "/uploads/mumford-and-sons-ditmas.jpg"
 vimeo: 134641283
 director: Alex Southam

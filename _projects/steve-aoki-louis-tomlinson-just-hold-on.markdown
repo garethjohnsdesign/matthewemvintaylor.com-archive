@@ -4,8 +4,8 @@ date: 2017-03-08 00:00:00 Z
 categories:
 - promo
 position: 18
-is-front: false
-image: "/uploads/steve-aoki-louis-tomlinson-just-hold-on.jpg"
+is-front: true
+image: "/uploads/steve-aoki-louis-tomlinson-just-hold-on-wide-02.jpg"
 vimeo: 207462876
 director: Bradley + Pablo
 production-company: Pulse Films

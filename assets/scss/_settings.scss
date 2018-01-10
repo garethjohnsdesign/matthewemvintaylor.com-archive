@@ -65,12 +65,13 @@
 // 1. Global
 // ---------
 
-$global-font-size: 100%;
-// $global-width: rem-calc(1200);
-$global-width: rem-calc(1024);
+// $global-font-size: 100%;
+$global-font-size: 90%;
+$global-width: rem-calc(1440);
+// $global-width: rem-calc(1024);
 $global-lineheight: 1.5;
 $light-gray: #e6e6e6;
-$medium-gray: #cacaca;
+$medium-gray: #9e9e9e;
 $dark-gray: #8a8a8a;
 $black: #0a0a0a;
 $white: #fefefe;
@@ -139,7 +140,8 @@ $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
 $header-color: inherit;
 // $header-lineheight: 1.4;
 $header-lineheight: 1.2;
-$header-margin-bottom: 0.5rem;
+// $header-margin-bottom: 0.5rem;
+$header-margin-bottom: 0rem;
 $header-styles: (
   small: (
     'h1': ('font-size': 24),
@@ -147,9 +149,17 @@ $header-styles: (
     'h3': ('font-size': 19),
     'h4': ('font-size': 18),
     'h5': ('font-size': 17),
-    'h6': ('font-size': 16),
+    'h6': ('font-size': 14),
   ),
   medium: (
+    'h1': ('font-size': 48),
+    'h2': ('font-size': 40),
+    'h3': ('font-size': 31),
+    'h4': ('font-size': 25),
+    'h5': ('font-size': 20),
+    'h6': ('font-size': 14),
+  ),
+  large: (
     'h1': ('font-size': 48),
     'h2': ('font-size': 40),
     'h3': ('font-size': 31),
@@ -871,8 +881,8 @@ $grid-margin-gutters: (
 );
 */
 $grid-margin-gutters: (
-  small: 48px,
-  medium: 48px,
+  small: 32px,
+  medium: 32px,
   large: 48px
 );
 $grid-padding-gutters: $grid-margin-gutters;

@@ -1,14 +1,15 @@
-main:
 - title: Narrative
-  url: /narrative/    
+  url: /narrative/ 
+  color: black   
 - title: Commercial
   url: /commercial/
+  color: black  
 - title: Promo
   url: /promo/
-secondary:
-- title: CV
-  url: /cv/
+  color: black  
 - title: Info
   url: /info/ 
+  color: "#9e9e9e"  
 - title: Stills
   url: /stills/
+  color: "#9e9e9e"  

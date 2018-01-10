@@ -3,15 +3,15 @@
 <div class="grid-x grid-padding-x grid-padding-y align-justify">
   
   <div class="auto cell slide-in-down">
-    <ul class="menu simple">
-        <li class="navigation__logo"><a href="/">{{site.title}}</a></li>
-        <li class="show-for-medium navigation__job"><a href="/">{{site.job-title}}</a></li>
+    <ul class="menu simple align-bottom">
+        <li class="navigation__logo"><a href="/"><h6>{{site.title}}</h6></a></li>
+        <li class="show-for-medium navigation__job">{{site.job-title}}</li>
     </ul>
   </div>
   
   <div class="shrink cell show-for-medium">
-    <ul class="menu simple">
-      {% for entry in site.data.navigation.main %}
+    <ul class="menu simple align-bottom">
+      {% for entry in site.data.navigation %}
       {% if entry.url == current_page %}
       {% assign current = ' class="active"' %}
       {% else %}
@@ -28,32 +28,7 @@
       </ul>
       </li>
       {% else %}
-      <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
-      {% endif %}
-      {% endfor %}
-    </ul>
-  </div>
-  
-  <div class="shrink cell show-for-medium">
-    <ul class="menu simple">
-      {% for entry in site.data.navigation.secondary %}
-      {% if entry.url == current_page %}
-      {% assign current = ' class="active"' %}
-      {% else %}
-      {% assign current = null %}
-      {% endif %}
-      {% assign sublinks = entry.sublinks %}
-      {% if sublinks %}
-      <li{{ current }}>
-      <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-      <ul class="menu vertical">
-      {% for sublink in sublinks %}
-      <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
-      {% endfor %}
-      </ul>
-      </li>
-      {% else %}
-      <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+      <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" style="color:{{ entry.color }}">{{ entry.title }}</a></li>
       {% endif %}
       {% endfor %}
     </ul>
