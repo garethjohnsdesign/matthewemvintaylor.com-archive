@@ -4,10 +4,10 @@ layout: default
 
 <!-- Content -->
 
-<div class="grid-x grid-padding-x grid-padding-y" data-aos="fade-in">
+<div class="grid-x grid-padding-x grid-padding-y align-center" data-aos="fade-in">
 
 <!-- Previous -->
-<div class="medium-2 cell show-for-medium project__pagination">
+<div class="medium-2 cell show-for-large project__pagination">
   {% if page.next.url %}
   <a href="{{page.next.url}}">
     <div class="grid-y align-center" style="height: 100%;">
@@ -35,7 +35,7 @@ layout: default
 
 <!-- Credits -->
 <div class="grid-x grid-padding-x align-center">
-  <div class="small-12 medium-6 cell">
+  <div class="small-12 medium-shrink cell">
   
   {{ page.title }}
   
@@ -50,7 +50,7 @@ layout: default
   
   </div>
   
-  <div class="small-12 medium-6 cell medium-text-right">
+  <div class="small-12 medium-auto cell medium-text-right">
   
   {% if page.equipment %}
   <div class="project__credits">{{ page.equipment }}</div>
@@ -65,7 +65,7 @@ layout: default
 
 <!-- Mobile Pagination -->
 {% if page.previous.url %}
-<div class="grid-x grid-padding-x align-center show-for-small-only">
+<div class="grid-x grid-padding-x align-center hide-for-large">
   <div class="shrink cell text-center">
     <a href="{{page.previous.url}}"><svg class="icon icon-arrows icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a>
   </div>
@@ -81,7 +81,7 @@ layout: default
 <!-- End Center -->
 
 <!-- Next -->
-<div class="medium-2 cell show-for-medium project__pagination">
+<div class="medium-2 cell show-for-large project__pagination">
   {% if page.previous.url %}
   <a href="{{page.previous.url}}">
     <div class="grid-y align-center" style="height: 100%;">
