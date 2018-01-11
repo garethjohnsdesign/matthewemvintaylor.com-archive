@@ -1,6 +1,5 @@
 $(document).foundation();
 
-
 // 1. Loading
 // --------------------
 
@@ -16,8 +15,6 @@ if (sessionStorage.getItem('set') === 'set') {
 }
 });
 
-
-
 // 2. Animate on Scroll
 // --------------------
 
@@ -32,3 +29,11 @@ $(function() {
 $(function() {
 window.addEventListener('load', AOS.refresh);
 });
+
+// 3. Light Gallery
+// --------------------
+
+$('.lightgallery').lightGallery({
+  selector: ".grid-item",
+  download: false
+}); 
