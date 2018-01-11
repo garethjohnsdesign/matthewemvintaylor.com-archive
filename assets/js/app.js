@@ -35,5 +35,6 @@ window.addEventListener('load', AOS.refresh);
 
 $('.lightgallery').lightGallery({
   selector: ".grid-item",
-  download: false
+  download: false,
+  mode: 'lg-fade'
 }); 
