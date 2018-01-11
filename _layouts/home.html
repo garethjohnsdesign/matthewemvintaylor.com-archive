@@ -7,16 +7,11 @@ layout: default
   {% assign projects = site.projects | sort: 'position' | where: "is-front", "true" %}
   {% for project in projects limit:8 %}
     <div class="cell projects__list" data-aos="fade-in">
-      
       <div class="item">
-      	  <a href="{{ project.url }}">
-        	  <img src="{{ project.image }}" alt="{{project.title}}">
-          </a>
-          
-      		<div class="item__title">{{ project.title }}</div>
-      		<div class="item__director">{{ project.director }}</div>
+    	  <a href="{{ project.url }}"><img src="{{ project.image }}" alt="{{project.title}}"></a>
+    		<div class="item__title">{{ project.title }}</div>
+    		<div class="item__director">{{ project.director }}</div>
       </div>
-      
     </div>
   {% endfor %}
 </div>
