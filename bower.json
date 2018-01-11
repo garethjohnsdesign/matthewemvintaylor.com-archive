@@ -36,7 +36,9 @@
     "aos": "^2.2.0",
     "foundation-sites": "^6.4.3",
     "svgxuse": "^1.2.4",
-    "what-input": "^5.0.2"
+    "what-input": "^5.0.2",
+    "salvattore": "^1.0.9",
+    "lightgallery": "^1.6.6"
   },
   "resolutions": {
     "what-input": "^5.0.2"

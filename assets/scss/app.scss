@@ -40,12 +40,6 @@
 
 @import 'transitions';
 
-
-// 6. Hamburgers
-// -------
-
-@import 'hamburgers/hamburgers';
-
 // 7. Carousel
 // -------
 
@@ -107,6 +101,12 @@
 
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+// 6. Hamburgers
+// -------
+
+@import 'hamburgers/hamburgers';
+
 
 // 8. Layout
 // ---------
