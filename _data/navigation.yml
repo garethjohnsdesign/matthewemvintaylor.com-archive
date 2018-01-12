@@ -9,7 +9,7 @@
   color: black   
 - title: Info
   url: /info/ 
-  color: "#999999"  
+  color: gray 
 - title: Stills
   url: /stills/
-  color: "#999999"  
+  color: gray

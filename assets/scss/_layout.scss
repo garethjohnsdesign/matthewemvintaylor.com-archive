@@ -48,6 +48,22 @@ svg {
   outline: 0;
 }
 
+.black {
+  color: $black;
+    &:hover {
+    color: $medium-gray;   
+  }
+}
+
+.gray {
+  color: $medium-gray;
+    &:hover {
+    color: $black;   
+  }
+}
+
+
+
 // 3. Typography
 // -------------
 
@@ -73,8 +89,7 @@ i, cite, em, var, address, dfn {
   width: 100%; 
   opacity: 1;
   transition: $primary-transition;
-  visibility: visible;
-  
+  visibility: visible; 
   &.loaded {
     opacity: 0;
     visibility: hidden;
@@ -113,13 +128,11 @@ i, cite, em, var, address, dfn {
   transition: $primary-transition;
   visibility: hidden;
   font-family: $header-font-family;
-  font-size: 1.5rem;
-
+  font-size: 1.25rem;
   &.open {
     opacity: 1;
     visibility: visible;
   }
-  
   a {
    padding: 1rem 0rem;
   }
@@ -155,19 +168,12 @@ i, cite, em, var, address, dfn {
   color: $secondary-color;
 }
 
-/*
-.project__credits {
-  color: $color--highlight;
-}
-
 .project__pagination a {
-  color: $color--highlight;
+  color: $secondary-color;
+  &:hover {
+    color: $black;  
+  }
 }
-
-.project__pagination a:hover {
-  color: $color--black;
-}
-*/
 
 // 9. Info
 // ---------
@@ -226,6 +232,9 @@ i, cite, em, var, address, dfn {
 
 .footer a {
   color: $secondary-color;
+  &:hover {
+    color: $primary-color;   
+  }
 }
 
 .grid-item {
