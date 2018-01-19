@@ -7,14 +7,19 @@ layout: info
 #### Born in the South England, 1986.  
 #### Based in London.  
 
+###### Representation  
+Wizzo & Co.  
+47 Beak Street  
+London W1F 9SE  
+[+44 (0)20 7437 2055](tel:02074372055)  
+[lee@wizzoandco.co.uk](mailto:lee@wizzoandco.co.uk)  
+
 ###### Commercials  
 Lee Hickman  
-[+44 (0)20 7437 2055](tel:02074372055)  
 [lee@wizzoandco.co.uk](mailto:lee@wizzoandco.co.uk)  
 
 ###### Narrative  
 Sophie Shaw-Foucher  
-[+44 (0)20 7437 2055](tel:02074372055)  
 [sophie@wizzoandco.co.uk](mailto:sophie@wizzoandco.co.uk)  
 
 ###### Personal  
