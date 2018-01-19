@@ -14,6 +14,3 @@ disclaimer-text: All artwork and photography are copyrighted and protected under
   without prior written permission from Matthew Emvin Taylor and the copyright holders.
 layout: info
 ---
-
-#### Born in the South England, 1986.  
-#### Based in London.   
