@@ -224,8 +224,10 @@ i, cite, em, var, address, dfn {
 .info__content a {
 //   margin-top: 2rem;
   color: $secondary-color;
+  border-bottom: 1px solid $secondary-color;
   &:hover {
-    color: $black;  
+    color: $black; 
+    border-bottom: 1px solid $black;
   }
 }
 
