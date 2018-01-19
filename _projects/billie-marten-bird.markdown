@@ -3,7 +3,7 @@ title: Billie Marten — Bird
 date: 2015-10-20 00:00:00 Z
 categories:
 - promo
-position: 4
+position: 5
 is-front: false
 image: "/uploads/billie-marten-bird-wide.jpg"
 vimeo: 143015938
