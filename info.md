@@ -14,3 +14,4 @@ disclaimer-text: All artwork and photography are copyrighted and protected under
   without prior written permission from Matthew Emvin Taylor and the copyright holders.
 layout: info
 ---
+
