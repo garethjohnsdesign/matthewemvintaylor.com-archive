@@ -8,8 +8,8 @@ representation-text: "###### Representation  \nWizzo & Co.  \n47 Beak Street  \n
 personal-text: |-
   ###### Personal
 
-  +44 (0) 7967 851359
-  [matthewemvintaylot@gmail.com](mailto:matthewemvintaylot@gmail.com)
+  +44 (0) 7967 851359  
+  [matthewemvintaylot@gmail.com](mailto:matthewemvintaylot@gmail.com)  
 
   ###### Awards
 
