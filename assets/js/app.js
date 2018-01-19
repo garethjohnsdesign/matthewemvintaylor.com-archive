@@ -20,7 +20,7 @@ if (sessionStorage.getItem('set') === 'set') {
 
 $(function() {
   AOS.init({ 
-   offset: 64,
+   offset: 0,
    easing: 'ease-in-out-quart', 
    duration: 600
    });   

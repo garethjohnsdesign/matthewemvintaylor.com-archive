@@ -7,7 +7,7 @@ layout: default
   {% assign projects = site.projects | sort: 'date' | reverse %}
   {% for project in projects %}
     {% if project.categories contains 'commercial' %}
-    <div class="cell projects__list">
+    <div class="cell projects__list" data-aos="fade-in">
     {% include item.html %}
     </div>
     {% endif %}
