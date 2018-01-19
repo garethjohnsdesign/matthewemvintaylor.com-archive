@@ -3,7 +3,7 @@ title: Coco de Mer — X
 date: 2017-09-17 00:00:00 Z
 categories:
 - commercial
-position: 6
+position: 1
 is-front: false
 image: "/uploads/coco-de-mer-x-wide.jpg"
 vimeo: 183101211
