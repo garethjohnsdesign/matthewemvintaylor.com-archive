@@ -1437,11 +1437,99 @@
 		"oAP": "\/assets\/css\/app.css.map",
 		"oF": 0
 		},
+	"\/assets\/favicons\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 2252,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 6870,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 2164,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/favicons\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/assets\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 615,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 941,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/favicons\/favicon.ico",
+		"oF": 0
+		},
+	"\/assets\/favicons\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/assets\/favicons\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/assets\/favicons\/mstile-144x144.png": {
 		"ft": 32768,
 		"iS": 1912,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 3339,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-150x150.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1480,6 +1568,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/assets\/favicons\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/favicons\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/assets\/fonts\/gallery.woff": {
 		"cB": 0,
