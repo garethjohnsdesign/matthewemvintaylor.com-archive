@@ -2,7 +2,7 @@
 title: Info
 position: 5
 representation-text: "###### Representation  \nWizzo & Co.  \n47 Beak Street  \nLondon
-  W1F 9SE  \n[+44 (0)20 7437 2055](tel:02074372055)  \n[www.wizzoandco.co.uk](http://www.wizzoandco.co.uk)
+  W1F 9SE  \n[+44 (0)20 7437 2055](tel:02074372055)  \n[wizzoandco.co.uk](http://www.wizzoandco.co.uk)
   \ \n\n###### Commercials + Music Videos \nLee Hickman  \n[lee@wizzoandco.co.uk](mailto:lee@wizzoandco.co.uk)
   \ \n\n###### Narrative  \nSophie Shaw-Foucher  \n[sophie@wizzoandco.co.uk](mailto:sophie@wizzoandco.co.uk)"
 personal-text: "###### Personal  \n+44 (0) 7967 851359  \n[matthewemvintaylot@gmail.com](mailto:matthewemvintaylot@gmail.com)
