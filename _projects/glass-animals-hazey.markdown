@@ -3,7 +3,7 @@ title: Glass Animals — Hazey
 date: 2013-09-03 00:00:00 Z
 categories:
 - promo
-position: 9
+position: 11
 is-front: true
 image: "/uploads/glass-animals-hazey-wide.jpg"
 vimeo: 105112626

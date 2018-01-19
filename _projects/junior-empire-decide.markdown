@@ -3,7 +3,7 @@ title: Junior Empire — Decide
 date: 2017-06-22 00:00:00 Z
 categories:
 - promo
-position: 10
+position: 12
 is-front: true
 image: "/uploads/junior-empire-decide-wide.jpg"
 vimeo: 222665107
