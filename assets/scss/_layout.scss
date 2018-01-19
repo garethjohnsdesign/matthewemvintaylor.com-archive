@@ -276,3 +276,7 @@ i, cite, em, var, address, dfn {
 .grid-item a img {
   transition: $primary-transition;
 }
+
+.excerpts.grid-padding-y>.cell {
+  padding-top: 0rem;
+}
