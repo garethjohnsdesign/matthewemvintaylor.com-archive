@@ -216,10 +216,19 @@ i, cite, em, var, address, dfn {
   height: 100%;
 }
 
-.info h6 {
+.info__content p {
 //   margin-top: 2rem;
   color: $secondary-color;
 }
+
+.info__content a {
+//   margin-top: 2rem;
+  color: $secondary-color;
+  &:hover {
+    color: $black;  
+  }
+}
+
 
 
 .navigation__secondary a {
