@@ -14,7 +14,7 @@ London W1F 9SE
 [+44 (0)20 7437 2055](tel:02074372055)  
 [lee@wizzoandco.co.uk](mailto:lee@wizzoandco.co.uk)  
 
-###### Commercials  
+###### Commercials + Music Videos 
 Lee Hickman  
 [lee@wizzoandco.co.uk](mailto:lee@wizzoandco.co.uk)  
 
