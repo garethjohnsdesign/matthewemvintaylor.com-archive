@@ -3,15 +3,19 @@ layout: default
 ---
 
 <div class="grid-x grid-padding-x">
-	<div class="small-12 medium-8 large-6 cell">
+	<div class="small-12 medium-6 large-4 cell">
   	<h6>Representation</h6>
 		{{page.representation-text | markdownify}}
-		<h6>Clients</h6>
-		{{page.clients-text | markdownify}}
 		<h6>Personal</h6>
 		{{page.personal-text | markdownify}}
+	</div>
+	
+	<div class="small-12 medium-6 large-4 cell">
+  	<h6>Clients</h6>
+		{{page.clients-text | markdownify}}
 		<h6>Colophon</h6>
 		{{page.colophon-text | markdownify}}
 		<h6>{{page.disclaimer-text | markdownify}}</h6>
 	</div>
+	
 </div>
