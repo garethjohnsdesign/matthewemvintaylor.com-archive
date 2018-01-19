@@ -1,2 +1,12 @@
 <script src="/assets/js/min/app-min.js"></script>
 <script defer src="/assets/js/min/svgxuse-min.js"></script>
+
+{% if page.layout == "stills" %}
+<script type="text/javascript" language="javascript">
+$(document).ready(function() {
+    $(document).bind("contextmenu",function(e) {
+       return false;
+    });
+}); 
+</script>
+{% endif %}
