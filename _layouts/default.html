@@ -27,19 +27,24 @@ layout: compress
 {% include navigation--mobile.html %}
 <!-- End Mobile Navigation --> 
 
-<div class="wrapper">
-{% include navigation.html %}
 
-
-<!-- Navigation -->
-
-<!-- End Navigation -->
-<!-- Content -->
-{{content}}
-<!-- End Content -->
+<div class="grid-y medium-grid-frame">
+  <div class="cell shrink header medium-cell-block-container">
+    {% include navigation.html %}
+  </div>
+  
+  <div class="cell medium-auto medium-cell-block-container">
+    <div class="grid-x grid-padding-x">
+      <div class="cell medium-12 medium-cell-block-y">
+  {{content}}
+      </div>
+    </div>
+  </div>
+  
+  <div class="cell shrink footer">
+    {% include footer.html %}
+  </div>
 </div>
-
-{% include footer.html %}
 
 <!-- Scripts -->
 {% include scripts.html %}
