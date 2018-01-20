@@ -1,9 +1,9 @@
 ---
 title: Bold
 date: 2014-02-24 00:00:00 Z
+position: 1
 categories:
 - narrative
-position: 1
 is-front: false
 image: "/uploads/bold-wide.jpg"
 vimeo: 87501446

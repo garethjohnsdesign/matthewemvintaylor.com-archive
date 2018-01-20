@@ -1,9 +1,9 @@
 ---
 title: Blue Palace
 date: 2010-10-20 00:00:00 Z
+position: 2
 categories:
 - narrative
-position: 2
 is-front: false
 image: "/uploads/blue-palace-wide.jpg"
 vimeo: 241288916

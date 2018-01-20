@@ -1,9 +1,9 @@
 ---
 title: Gem Club — I Heard The Party
 date: 2013-09-03 00:00:00 Z
+position: 10
 categories:
 - music-video
-position: 10
 is-front: false
 image: "/uploads/gem-club-i-heard-the-party-wide.jpg"
 vimeo: 73727790
