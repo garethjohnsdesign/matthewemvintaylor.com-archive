@@ -1,6 +1,6 @@
 ---
 title: Stills
-position: 6
+position: 5
 images:
 - "/uploads/matthew-emvin-taylor-01.jpg"
 - "/uploads/matthew-emvin-taylor-02.jpg"

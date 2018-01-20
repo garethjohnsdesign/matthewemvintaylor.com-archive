@@ -1,6 +1,6 @@
 ---
 title: Narrative
-position: 2
+position: 3
 layout: narrative
 ---
 
