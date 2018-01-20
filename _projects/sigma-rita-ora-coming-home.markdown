@@ -2,7 +2,7 @@
 title: Sigma + Rita Ora — Coming Home
 date: 2015-11-06 00:00:00 Z
 categories:
-- promo
+- music-video
 position: 21
 is-front: false
 image: "/uploads/sigma-rita-ora-coming-home-wide.jpg"

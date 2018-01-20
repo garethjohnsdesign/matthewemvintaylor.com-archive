@@ -160,6 +160,13 @@
 		"oAP": "\/_layouts\/missing.html",
 		"oF": 0
 		},
+	"\/_layouts\/music-videos.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/music-videos.html",
+		"oF": 0
+		},
 	"\/_layouts\/narrative.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -179,13 +186,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/project.html",
-		"oF": 0
-		},
-	"\/_layouts\/promo.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/promo.html",
 		"oF": 0
 		},
 	"\/_layouts\/stills.html": {
@@ -1439,7 +1439,7 @@
 		},
 	"\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 2252,
+		"iS": 321,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
@@ -1461,7 +1461,7 @@
 		},
 	"\/assets\/favicons\/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 2164,
+		"iS": 304,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon.png",
 		"oF": 0,
@@ -1479,7 +1479,7 @@
 		},
 	"\/assets\/favicons\/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 615,
+		"iS": 592,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-16x16.png",
 		"oF": 0,
@@ -1490,7 +1490,7 @@
 		},
 	"\/assets\/favicons\/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 941,
+		"iS": 599,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-32x32.png",
 		"oF": 0,
@@ -1527,7 +1527,7 @@
 		},
 	"\/assets\/favicons\/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 3339,
+		"iS": 598,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-150x150.png",
 		"oF": 0,
@@ -1645,7 +1645,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/js\/min\/app-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/assets\/js\/min\/app-min.js": {
@@ -7378,7 +7378,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/js\/lightgallery.js",
 		"oF": 0,
 		"sC": 1,
@@ -7465,7 +7465,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/modules\/lg-autoplay.js",
 		"oF": 0,
 		"sC": 1,
@@ -7485,7 +7485,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/modules\/lg-fullscreen.js",
 		"oF": 0,
 		"sC": 1,
@@ -8652,7 +8652,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/salvattore\/dist\/salvattore.js",
 		"oF": 0,
 		"sC": 1,
@@ -9199,9 +9199,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/info.md",
-		"oF": 1,
+		"oA": 0,
+		"oAP": "\/info.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -9219,6 +9219,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/LICENSE.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/music-videos.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/music-videos.md",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -9253,24 +9271,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/promo.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/promo.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -9304,9 +9304,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/stills.md",
-		"oF": 1,
+		"oA": 0,
+		"oAP": "\/stills.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -9353,30 +9353,6 @@
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/dist\/what-input.js",
 			"position": 5,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/salvattore\/dist\/salvattore.js",
-			"position": 6,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery\/dist\/js\/lightgallery.js",
-			"position": 7,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery\/modules\/lg-fullscreen.js",
-			"position": 8,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery\/modules\/lg-autoplay.js",
-			"position": 9,
 			"type": 0
 			}
 		]

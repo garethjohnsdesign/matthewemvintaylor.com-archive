@@ -2,7 +2,7 @@
 title: Django Django — Shake and Tremble
 date: 2015-06-23 00:00:00 Z
 categories:
-- promo
+- music-video
 position: 9
 is-front: false
 image: "/uploads/django-django-shake-and-tremble-wide.jpg"
