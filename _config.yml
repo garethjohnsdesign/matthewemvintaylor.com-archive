@@ -5,45 +5,45 @@ collections:
   commercial:
     title: Commercial
     output: true
+  featured:
+    title: Featured
+    output: true
   music-videos:
     title: Music Videos
     output: true
   narrative:
     title: Narrative
     output: true
-  featured:
-    title: Featured
-    output: true
   posts:
     title: Posts
-    output: false
+    output: true
   uploads:
     title: Uploads
     output: false
 defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-      type: "commercial"
-    values:
-      layout: "commercial"
-      master: true
-  - scope:
-      path: ""
-      type: "narrative"
-    values:
-      layout: "narrative"
-      master: true
-  - scope:
-      path: ""
-      type: "music-videos"
-    values:
-      layout: "music-videos"
-      master: true
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+    type: commercial
+  values:
+    layout: commercial
+    master: true
+- scope:
+    path: ''
+    type: narrative
+  values:
+    layout: narrative
+    master: true
+- scope:
+    path: ''
+    type: music-videos
+  values:
+    layout: music-videos
+    master: true
 url: https://www.matthewemvintaylor.com
 baseurl: 
 description: London-based cinematographer with worldwide experience.
@@ -91,8 +91,8 @@ compress_html:
 pagination:
   enabled: false
   per_page: 2
-  permalink: '/page/:num/'
-  title: ' - page :num'
+  permalink: "/page/:num/"
+  title: " - page :num"
   limit: 0
-  sort_field: 'date'
+  sort_field: date
   sort_reverse: true
