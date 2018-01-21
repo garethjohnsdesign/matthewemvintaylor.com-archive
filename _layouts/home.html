@@ -4,8 +4,8 @@ layout: default
 
 <!-- Projects -->
 <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-2 xlarge-up-3 xxlarge-up-3">
-  {% assign projects = site.projects | sort: 'position' | where: "is-front", "true" %}
-  {% for project in projects limit:8 %}
+  {% assign projects = site.featured | sort: 'position' %}
+  {% for project in projects %}
     <div class="cell projects__list" data-aos="fade-in">
       <div class="item">
     	  <a href="{{ project.url }}"><img src="{{ project.image }}" alt="{{project.title}}"></a>
