@@ -23,8 +23,8 @@ layout: default
       Date
       </div>
     </div>
-  	    
-    {% assign projects = site.projects | sort: 'date' | reverse %}
+    
+    {% assign projects = site.documents | where: 'master', true | sort: 'date' | reverse %}
     {% for item in projects %}
     <div class="grid-x grid-padding-x cv__item">
       <div class="small-12 medium-3 large-3 cell">

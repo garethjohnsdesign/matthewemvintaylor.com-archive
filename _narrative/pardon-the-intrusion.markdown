@@ -10,6 +10,8 @@ vimeo: 113910481
 director: Louise Caruana Galizia
 production-company: Cue Pictures + Limbo Pictures + Saint Productions
 equipment: RED One MX
+pagination:
+  enabled: true
 layout: project
 ---
 

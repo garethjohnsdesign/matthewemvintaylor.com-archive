@@ -11,6 +11,8 @@ director: Arev Manoukian
 production-company: Malta Film + Spy Films
 equipment: Arri Alexa
 award: Best Cinematography Award MACC 2015
+pagination:
+  enabled: true
 layout: project
 ---
 

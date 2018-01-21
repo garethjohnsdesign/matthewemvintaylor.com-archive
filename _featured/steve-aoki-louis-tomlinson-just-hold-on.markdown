@@ -2,8 +2,8 @@
 title: Steve Aoki and Louis Tomlinson — Just Hold On
 date: 2017-03-08 00:00:00 Z
 categories:
-- promo
-position: 18
+- music-video
+position: 23
 is-front: true
 image: "/uploads/steve-aoki-louis-tomlinson-just-hold-on-wide-02.jpg"
 vimeo: 207462876
