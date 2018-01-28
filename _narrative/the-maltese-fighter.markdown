@@ -5,7 +5,7 @@ categories:
 - narrative
 position: 0
 is-front: false
-image: "/uploads/the-maltese-fighter-wide.jpg"
+image: "/uploads/the-maltese-fighter-wide-75fde3.jpg"
 vimeo: 82642891
 director: Arev Manoukian
 production-company: Malta Film + Spy Films
