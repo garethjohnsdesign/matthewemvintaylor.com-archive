@@ -3,7 +3,7 @@ title: Rhodes — Close Your Eyes
 date: 2015-03-18 00:00:00 Z
 categories:
 - music-video
-position: 9
+position: 10
 is-front: false
 image: "/uploads/rhodes-close-your-eyes-wide.jpg"
 vimeo: 128155983
