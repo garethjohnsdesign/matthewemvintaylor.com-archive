@@ -3,7 +3,7 @@ title: Lenovo — Think
 date: 2017-07-07 00:00:00 Z
 categories:
 - commercial
-position: 6
+position: 7
 is-front: false
 image: "/uploads/lenovo-think-wide.jpg"
 vimeo: 156693561
