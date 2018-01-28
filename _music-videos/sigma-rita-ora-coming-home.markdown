@@ -5,7 +5,7 @@ categories:
 - music-video
 position: 7
 is-front: false
-image: "/uploads/sigma-rita-ora-coming-home-wide.jpg"
+image: "/uploads/sigma-rita-ora-coming-home-wide-3e7be3.jpg"
 vimeo: 144877063
 director: Georgia Hudson
 production-company: Agile Films
