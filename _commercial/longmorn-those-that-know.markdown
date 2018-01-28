@@ -5,7 +5,7 @@ categories:
 - commercial
 position: 2
 is-front: false
-image: "/uploads/longmorn-those-that-know-wide1.jpg"
+image: "/uploads/longmorn-those-that-know-wide2.jpg"
 vimeo: 188288566
 director: Elisha Smith-Leverock
 production-company: Knucklehead / LEZ Creative
