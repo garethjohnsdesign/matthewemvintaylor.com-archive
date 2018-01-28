@@ -5,7 +5,7 @@ categories:
 - commercial
 position: 5
 is-front: false
-image: "/uploads/lenovo-think-wide.jpg"
+image: "/uploads/lenovo-think-wide-4e7099.jpg"
 vimeo: 156693561
 director: Emile Rafael
 production-company: Love Savage
