@@ -5,7 +5,7 @@ categories:
 - narrative
 position: 2
 is-front: false
-image: "/uploads/bold-wide.jpg"
+image: "/uploads/bold-wide-d54f41.jpg"
 vimeo: 87501446
 director: Davide Gentile
 production-company: Banjo Eyes Films Ltd
