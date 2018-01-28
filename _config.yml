@@ -46,7 +46,8 @@ defaults:
     master: true
 url: https://www.matthewemvintaylor.com
 baseurl: 
-description: London-based cinematographer with worldwide experience.
+description: Award-winning London based cinematographer. Represented worldwide by
+  Wizzo & Co
 permalink: pretty
 exclude:
 - bower.json
