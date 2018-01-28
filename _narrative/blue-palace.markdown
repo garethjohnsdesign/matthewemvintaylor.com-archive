@@ -10,8 +10,8 @@ vimeo: 241288916
 director: Kim Jarrett
 production-company: AUCB + FTII
 equipment: 35mm / Arri 535B + Arri 3
-layout: project
 pagination:
   enabled: true
+layout: project
 ---
 
