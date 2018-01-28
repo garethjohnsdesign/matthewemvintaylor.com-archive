@@ -3,7 +3,7 @@ title: Selfridges — Potency
 date: 2015-03-18 00:00:00 Z
 categories:
 - commercial
-position: 7
+position: 8
 is-front: false
 image: "/uploads/selfridges-potency-wide.jpg"
 vimeo: 132857269
