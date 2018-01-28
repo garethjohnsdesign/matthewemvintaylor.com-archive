@@ -5,7 +5,7 @@ categories:
 - narrative
 position: 1
 is-front: false
-image: "/uploads/pardon-the-intrusion-wide-3e1fc2.jpg"
+image: "/uploads/pardon-the-intrusion-wide-339d7d.jpg"
 vimeo: 113910481
 director: Louise Caruana Galizia
 production-company: Cue Pictures + Limbo Pictures + Saint Productions
