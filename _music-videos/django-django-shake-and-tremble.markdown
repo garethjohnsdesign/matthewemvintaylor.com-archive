@@ -5,7 +5,7 @@ categories:
 - music-video
 position: 11
 is-front: false
-image: "/uploads/django-django-shake-and-tremble-wide.jpg"
+image: "/uploads/django-django-shake-and-tremble-wide-a89fa4.jpg"
 vimeo: 131570502
 director: Pete GD
 production-company: Agile Films + CPP
