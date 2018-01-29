@@ -8,7 +8,7 @@ director: Kim Jarrett
 production-company: AUCB + FTII
 equipment: 35mm / Arri 535B + Arri 3
 layout: project
-is-featured: false
+
 is-shown: true
 ---
 

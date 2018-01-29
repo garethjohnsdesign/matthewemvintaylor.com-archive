@@ -8,7 +8,7 @@ director: Georgia Hudson
 production-company: Agile Films
 equipment: Arri Alexa 4:3 with Kowa Anamorphic's
 layout: project
-is-featured: false
+
 is-shown: true
 ---
 

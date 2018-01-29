@@ -10,7 +10,7 @@ equipment: Arri Alexa
 pagination:
   enabled: true
 layout: project
-is-featured: false
+
 is-shown: true
 ---
 

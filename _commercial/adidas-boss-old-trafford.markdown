@@ -8,7 +8,7 @@ director: Yonatan Weisberg
 production-company: Chief Productions
 equipment: Arri Alexa Mini with Hawk V-Lite
 layout: project
-is-featured: false
+
 is-shown: true
 ---
 

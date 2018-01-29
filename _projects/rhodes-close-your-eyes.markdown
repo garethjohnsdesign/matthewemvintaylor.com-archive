@@ -10,7 +10,7 @@ director: Yonatan Weisberg
 production-company: Chief Productions
 equipment: Panavised Arri Alexa 4:3 with G series anamorphics
 layout: project
-is-featured: false
+
 is-shown: true
 ---
 

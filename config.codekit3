@@ -356,6 +356,13 @@
 		"oAP": "\/_narrative\/bold.markdown",
 		"oF": 0
 		},
+	"\/_narrative\/careful-how-you-go.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_narrative\/careful-how-you-go.markdown",
+		"oF": 0
+		},
 	"\/_narrative\/pardon-the-intrusion.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -610,6 +617,16 @@
 		"iS": 250584,
 		"oA": 0,
 		"oAP": "\/_uploads\/bold-wide-d54f41.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/careful-how-you-go-wide.jpg": {
+		"ft": 16384,
+		"iS": 358749,
+		"oA": 0,
+		"oAP": "\/_uploads\/careful-how-you-go-wide.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9114,9 +9131,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/info.html",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "\/info.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

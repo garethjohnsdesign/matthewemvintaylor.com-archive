@@ -8,7 +8,7 @@ director: Bradley + Pablo
 production-company: Pulse Films
 equipment: Alexa Mini + Uncoated Zeiss Superspeeds
 layout: project
-is-featured: false
+
 is-shown: true
 ---
 

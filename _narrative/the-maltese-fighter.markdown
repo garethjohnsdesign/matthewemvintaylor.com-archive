@@ -9,7 +9,7 @@ production-company: Malta Film + Spy Films
 equipment: Arri Alexa
 award: Best Cinematography Award MACC 2015
 layout: project
-is-featured: false
+
 is-shown: true
 ---
 
