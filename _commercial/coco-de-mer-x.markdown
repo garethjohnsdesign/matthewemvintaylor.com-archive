@@ -1,8 +1,6 @@
 ---
 title: Coco de Mer — X
 date: 2017-09-17 00:00:00 Z
-categories:
-- commercial
 position: 7
 is-front: true
 image: "/uploads/coco-de-mer-x-wide-9d05dc.jpg"

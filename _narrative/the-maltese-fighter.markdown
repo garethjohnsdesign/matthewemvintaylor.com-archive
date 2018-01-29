@@ -1,8 +1,6 @@
 ---
 title: The Maltese Fighter
 date: 2013-12-24 00:00:00 Z
-categories:
-- narrative
 position: 0
 is-front: false
 image: "/uploads/the-maltese-fighter-wide-75fde3.jpg"
