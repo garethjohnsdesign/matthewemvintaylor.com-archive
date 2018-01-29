@@ -8,7 +8,8 @@ director: Bradley + Pablo
 production-company: Pulse Films
 equipment: Alexa Mini + Kowa Anamorphic's
 layout: project
+is-featured: false
 is-shown: true
-is-in-cv: true
+
 ---
 

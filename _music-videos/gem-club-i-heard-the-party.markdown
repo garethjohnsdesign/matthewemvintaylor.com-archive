@@ -8,7 +8,8 @@ director: Joshua Stocker
 production-company: Hardly Art Ltd
 equipment: RED Epic
 layout: project
+is-featured: false
 is-shown: true
-is-in-cv: true
+
 ---
 

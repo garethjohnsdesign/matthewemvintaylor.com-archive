@@ -8,9 +8,6 @@ collections:
   commercial:
     title: Commercial
     output: true
-  featured:
-    title: Featured
-    output: true
   music-videos:
     title: Music Videos
     output: true
@@ -31,18 +28,6 @@ defaults:
     layout: post
 - scope:
     path: ''
-    type: feature
-  values:
-    image: 
-    vimeo: 
-    director: 
-    production-company: 
-    equipment: 
-    layout: project
-    is-shown: true
-    is-in-cv: false
-- scope:
-    path: ''
     type: commercial
   values:
     image: 
@@ -52,7 +37,6 @@ defaults:
     equipment: 
     layout: project
     is-shown: true
-    is-in-cv: true
 - scope:
     path: ''
     type: narrative
@@ -64,7 +48,6 @@ defaults:
     production-company: 
     equipment: 
     is-shown: true
-    is-in-cv: true
 - scope:
     path: ''
     type: music-videos
@@ -76,7 +59,6 @@ defaults:
     production-company: 
     equipment: 
     is-shown: true
-    is-in-cv: true
 url: https://www.matthewemvintaylor.com
 baseurl: 
 description: Award-winning London based cinematographer. Represented worldwide by
@@ -106,7 +88,7 @@ kramdown:
 highlighter: rouge
 colophon: http://garethjohnsdesign.com
 company: Matthew Emvin Taylor
-job-title: Cinematographer
+job: Cinematographer
 email: info@matthewemvintaylor.com
 google_site_verification: FXdg3jdY5dYavx-FqZMeT9_TGb2Brq6rmyqQEbBlO7M
 analytics: UA-113164652-1
