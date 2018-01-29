@@ -30,11 +30,11 @@ defaults:
     path: ''
     type: feature
   values:
-    image:
-    vimeo:
-    director:
-    production-company:
-    equipment:
+    image: 
+    vimeo: 
+    director: 
+    production-company: 
+    equipment: 
     layout: project
     is-shown: true
     is-in-cv: false
@@ -42,11 +42,11 @@ defaults:
     path: ''
     type: commercial
   values:
-    image:
-    vimeo:
-    director:
-    production-company:
-    equipment:
+    image: 
+    vimeo: 
+    director: 
+    production-company: 
+    equipment: 
     layout: project
     is-shown: true
     is-in-cv: true
@@ -54,26 +54,24 @@ defaults:
     path: ''
     type: narrative
   values:
-    layout: narrative
-    image:
-    vimeo:
-    director:
-    production-company:
-    equipment:
     layout: project
+    image: 
+    vimeo: 
+    director: 
+    production-company: 
+    equipment: 
     is-shown: true
     is-in-cv: true
 - scope:
     path: ''
     type: music-videos
   values:
-    layout: music-videos
-    image:
-    vimeo:
-    director:
-    production-company:
-    equipment:
     layout: project
+    image: 
+    vimeo: 
+    director: 
+    production-company: 
+    equipment: 
     is-shown: true
     is-in-cv: true
 url: https://www.matthewemvintaylor.com
