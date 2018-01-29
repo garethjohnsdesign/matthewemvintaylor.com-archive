@@ -97,6 +97,13 @@
 		"oAP": "\/_commercial\/selfridges-potency.markdown",
 		"oF": 0
 		},
+	"\/_commercial\/test.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/test.markdown",
+		"oF": 0
+		},
 	"\/_commercial\/unicef-end-violence.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -179,13 +186,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/head.html",
-		"oF": 0
-		},
-	"\/_includes\/item--overlay.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/item--overlay.html",
 		"oF": 0
 		},
 	"\/_includes\/item.html": {

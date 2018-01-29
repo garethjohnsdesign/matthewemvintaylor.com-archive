@@ -1,15 +1,13 @@
 ---
-title: Coco de Mer — X
+title: Test Project
 date: 2017-09-17 00:00:00 Z
-categories:
-- commercial
-position: 0
-image: "/uploads/coco-de-mer-x-wide.jpg"
-vimeo: 183101211
+position: 7
+image:
+vimeo:
 director: Rankin + Trisha Ward
 production-company: Rankin Film + TBWA
 equipment: RED Dragon
 layout: project
-is-shown: true
+is-shown: false
 ---
 

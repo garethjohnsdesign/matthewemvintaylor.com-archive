@@ -10,5 +10,6 @@ equipment: Arri Alexa
 pagination:
   enabled: true
 layout: project
+is-shown: true
 ---
 

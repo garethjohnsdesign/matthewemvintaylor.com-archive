@@ -46,8 +46,7 @@ defaults:
     master: true
 url: https://www.matthewemvintaylor.com
 baseurl: 
-description: Award-winning London based cinematographer. Represented worldwide by
-  Wizzo & Co
+description: "Award-winning London based cinematographer. Represented worldwide by Wizzo & Co"
 permalink: pretty
 exclude:
 - bower.json
@@ -61,7 +60,6 @@ exclude:
 - bower_components
 - assets/scss
 plugins:
-- jekyll-paginate-v2
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
@@ -89,11 +87,3 @@ compress_html:
   - " -->"
   blanklines: true
   profile: false
-pagination:
-  enabled: false
-  per_page: 2
-  permalink: "/page/:num/"
-  title: " - page :num"
-  limit: 0
-  sort_field: date
-  sort_reverse: true

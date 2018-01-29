@@ -2,7 +2,7 @@
 title: The Maltese Fighter
 date: 2013-12-24 00:00:00 Z
 position: 0
-is-front: false
+
 image: "/uploads/the-maltese-fighter-wide-75fde3.jpg"
 vimeo: 82642891
 director: Arev Manoukian
@@ -12,5 +12,6 @@ award: Best Cinematography Award MACC 2015
 pagination:
   enabled: true
 layout: project
+is-shown: true
 ---
 
