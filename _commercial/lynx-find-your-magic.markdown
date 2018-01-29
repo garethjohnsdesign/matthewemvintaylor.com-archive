@@ -10,4 +10,3 @@ equipment: Alexa Mini + Panavision G Series + Revolution Lens System
 layout: project
 ---
 
-Add some content here
