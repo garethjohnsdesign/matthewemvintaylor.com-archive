@@ -4,7 +4,6 @@ date: 2017-07-07 00:00:00 Z
 categories:
 - commercial
 position: 15
-
 image: "/uploads/lenovo-think-wide.jpg"
 vimeo: 156693561
 director: Emile Rafael
