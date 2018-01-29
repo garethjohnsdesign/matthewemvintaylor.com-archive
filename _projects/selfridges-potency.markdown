@@ -10,7 +10,8 @@ director: Elisha Smith-Leverock
 production-company: Knucklehead
 equipment: Arri Alexa
 layout: project
+is-featured: false
 is-shown: true
-is-in-cv: true
+
 ---
 

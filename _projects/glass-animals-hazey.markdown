@@ -9,7 +9,8 @@ production-company: Agile Films
 equipment: Arri Alexa 4:3 Anamorphic
 awards: Nominated for Best Cinematography BMVA 2015
 layout: project
+is-featured: false
 is-shown: true
-is-in-cv: true
+
 ---
 

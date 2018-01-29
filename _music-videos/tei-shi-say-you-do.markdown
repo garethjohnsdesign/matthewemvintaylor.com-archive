@@ -9,6 +9,6 @@ production-company: Pulse Films
 equipment: Alexa Mini + Uncoated Zeiss Superspeeds
 layout: project
 is-shown: true
-is-in-cv: true
+tags: home
 ---
 

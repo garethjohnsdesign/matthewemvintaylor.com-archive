@@ -8,7 +8,8 @@ director: Alex Southam
 production-company: OB Management
 equipment: Arri Alexa 4:3 with Kowa Anamorphic's
 layout: project
+is-featured: false
 is-shown: true
-is-in-cv: true
+
 ---
 

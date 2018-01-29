@@ -8,7 +8,8 @@ director: Davide Gentile
 production-company: Banjo Eyes Films Ltd
 equipment: Arri Alexa Anamorphic
 layout: project
+is-featured: false
 is-shown: true
-is-in-cv: true
+
 ---
 

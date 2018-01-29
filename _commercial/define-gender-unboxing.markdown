@@ -8,7 +8,8 @@ director: Kate Cox
 production-company: Nowness & Just So
 equipment: Arri Alexa + Panavision Primo's
 layout: project
+is-featured: false
 is-shown: true
-is-in-cv: true
+tags: home
 ---
 
