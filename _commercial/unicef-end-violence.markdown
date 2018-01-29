@@ -1,8 +1,6 @@
 ---
 title: Unicef — End Violence
 date: 2016-12-05 00:00:00 Z
-tags:
-- home
 position: 4
 image: "/uploads/unicef-end-violence-wide-02.jpg"
 vimeo: 194352066
