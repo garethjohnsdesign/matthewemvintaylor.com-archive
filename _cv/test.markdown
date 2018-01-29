@@ -6,7 +6,6 @@ position: 7
 director: Rankin + Trisha Ward
 production-company: Rankin Film + TBWA
 equipment: RED Dragon
-is-shown: false
 layout: project
 ---
 

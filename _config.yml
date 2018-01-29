@@ -11,12 +11,15 @@ collections:
   music-videos:
     title: Music Videos
     output: true
+  cv:
+    title: CV
+    output: false
   narrative:
     title: Narrative
     output: true
   posts:
     title: Posts
-    output: true
+    output: false
   uploads:
     title: Uploads
     output: false
@@ -91,6 +94,7 @@ exclude:
 - bower_components
 - assets/scss
 plugins:
+- jekyll-paginate-v2
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
@@ -118,3 +122,5 @@ compress_html:
   - " -->"
   blanklines: true
   profile: false
+pagination:
+  enabled: true

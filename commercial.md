@@ -1,6 +1,11 @@
 ---
 title: Commercial
 position: 1
-layout: commercial
+layout: projects
+pagination: 
+  enabled: true
+  collection: commercial
+  sort_field: 'position'
+  sort_reverse: false
 ---
 
