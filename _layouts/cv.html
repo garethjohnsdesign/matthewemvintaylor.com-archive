@@ -24,8 +24,7 @@ layout: default
       </div>
     </div>
     
-    {% assign projects = site.documents | where: 'master', true | sort: 'date' | reverse %}
-    {% for item in projects %}
+    {% for item in paginator.posts %}
     <div class="grid-x grid-padding-x cv__item">
       <div class="small-12 medium-3 large-3 cell">
       {{item.title}}
@@ -43,7 +42,7 @@ layout: default
       {{item.date | date: '%Y'}}
       </div>
     </div>
-    {%endfor%}
+    {% endfor %}
    
    </div> 
 </div>

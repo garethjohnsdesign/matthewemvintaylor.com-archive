@@ -2,6 +2,9 @@
 title: Matthew Emvin Taylor
 timezone: UTC
 collections:
+  cv:
+    title: CV
+    output: false
   commercial:
     title: Commercial
     output: true
@@ -28,22 +31,52 @@ defaults:
     layout: post
 - scope:
     path: ''
+    type: feature
+  values:
+    image: 
+    vimeo: 
+    director: 
+    production-company: 
+    equipment: 
+    layout: project
+    is-shown: true
+    is-in-cv: false
+- scope:
+    path: ''
     type: commercial
   values:
-    layout: commercial
-    master: true
+    image: 
+    vimeo: 
+    director: 
+    production-company: 
+    equipment: 
+    layout: project
+    is-shown: true
+    is-in-cv: true
 - scope:
     path: ''
     type: narrative
   values:
-    layout: narrative
-    master: true
+    layout: project
+    image: 
+    vimeo: 
+    director: 
+    production-company: 
+    equipment: 
+    is-shown: true
+    is-in-cv: true
 - scope:
     path: ''
     type: music-videos
   values:
-    layout: music-videos
-    master: true
+    layout: project
+    image: 
+    vimeo: 
+    director: 
+    production-company: 
+    equipment: 
+    is-shown: true
+    is-in-cv: true
 url: https://www.matthewemvintaylor.com
 baseurl: 
 description: Award-winning London based cinematographer. Represented worldwide by
@@ -90,10 +123,4 @@ compress_html:
   blanklines: true
   profile: false
 pagination:
-  enabled: false
-  per_page: 2
-  permalink: "/page/:num/"
-  title: " - page :num"
-  limit: 0
-  sort_field: date
-  sort_reverse: true
+  enabled: true
