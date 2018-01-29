@@ -1,6 +1,8 @@
 ---
 title: Beach Baby — U R
 date: 2016-07-12 00:00:00 Z
+categories:
+- music-video
 position: 5
 image: "/uploads/beach-baby-u-r-wide.jpg"
 vimeo: 174398025
@@ -10,6 +12,5 @@ equipment: Arri ST 3 perf - Kodak 500T
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

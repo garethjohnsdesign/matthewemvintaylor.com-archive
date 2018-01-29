@@ -10,6 +10,5 @@ equipment: Arri Alexa Mini + Cooke S4's & Fujinon 19-90mm
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

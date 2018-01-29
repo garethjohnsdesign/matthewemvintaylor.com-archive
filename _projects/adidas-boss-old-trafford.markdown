@@ -12,6 +12,5 @@ equipment: Arri Alexa Mini with Hawk V-Lite
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

@@ -12,6 +12,5 @@ equipment: Arri Alexa + Arri Amira
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

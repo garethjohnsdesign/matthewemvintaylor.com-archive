@@ -1,6 +1,8 @@
 ---
 title: Glass Animals — Hazey
 date: 2013-09-03 00:00:00 Z
+tags:
+- home
 position: 4
 image: "/uploads/glass-animals-hazey-wide.jpg"
 vimeo: 105112626
@@ -11,6 +13,5 @@ awards: Nominated for Best Cinematography BMVA 2015
 layout: project
 is-featured: false
 is-shown: true
-tags: home
 ---
 

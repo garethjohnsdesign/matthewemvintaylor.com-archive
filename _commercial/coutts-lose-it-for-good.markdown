@@ -10,6 +10,5 @@ equipment: Arri Alexa Mini + Sony A7S II
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

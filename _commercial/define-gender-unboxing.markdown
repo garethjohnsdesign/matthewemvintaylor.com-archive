@@ -1,6 +1,8 @@
 ---
 title: Define Gender — Unboxing
 date: 2017-07-15 00:00:00 Z
+tags:
+- home
 position: 2
 image: "/uploads/define-gender-unboxing-wide.jpg"
 vimeo: 225679917
@@ -10,6 +12,5 @@ equipment: Arri Alexa + Panavision Primo's
 layout: project
 is-featured: false
 is-shown: true
-tags: home
 ---
 

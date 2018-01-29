@@ -10,6 +10,5 @@ equipment: Arri Alexa Anamorphic
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

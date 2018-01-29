@@ -12,6 +12,5 @@ equipment: Arri Alexa + Panavision Primo's
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

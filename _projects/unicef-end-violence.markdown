@@ -12,6 +12,5 @@ pagination:
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 
