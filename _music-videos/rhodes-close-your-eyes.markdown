@@ -1,8 +1,6 @@
 ---
 title: Rhodes — Close Your Eyes
 date: 2015-03-18 00:00:00 Z
-
-
 position: 9
 is-front: false
 image: "/uploads/rhodes-close-your-eyes-wide.jpg"

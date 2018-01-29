@@ -1,8 +1,8 @@
 ---
 title: Pardon the Intrusion
 date: 2014-12-08 00:00:00 Z
-
-
+categories:
+- narrative
 position: 18
 is-front: false
 image: "/uploads/pardon-the-intrusion-wide.jpg"

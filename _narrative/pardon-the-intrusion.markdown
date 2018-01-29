@@ -1,8 +1,6 @@
 ---
 title: Pardon the Intrusion
 date: 2014-12-08 00:00:00 Z
-
-
 position: 1
 is-front: false
 image: "/uploads/pardon-the-intrusion-wide-339d7d.jpg"

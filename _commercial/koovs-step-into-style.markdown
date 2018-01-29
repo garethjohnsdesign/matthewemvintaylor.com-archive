@@ -1,8 +1,6 @@
 ---
 title: Koovs — Step into Style
 date: 2017-07-07 00:00:00 Z
-
-
 position: 1
 is-front: false
 image: "/uploads/koovs-step-into-style-wide.jpg"

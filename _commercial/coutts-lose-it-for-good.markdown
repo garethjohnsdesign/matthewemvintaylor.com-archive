@@ -1,8 +1,6 @@
 ---
 title: Coutts — Lose it for Good
 date: 2016-10-05 00:00:00 Z
-
-
 position: 4
 is-front: false
 image: "/uploads/coutts-lose-it-for-good-wide.jpg"
