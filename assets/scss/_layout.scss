@@ -164,6 +164,10 @@ i, cite, em, var, address, dfn {
 // 8. Project
 // ---------
 
+.project img {
+ padding-bottom: 1rem;
+}
+
 .project__credits {
   color: $secondary-color;
 }
