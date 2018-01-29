@@ -1,6 +1,8 @@
 ---
 title: Junior Empire — Decide
 date: 2017-06-22 00:00:00 Z
+tags:
+- home
 position: 1
 image: "/uploads/junior-empire-decide-wide.jpg"
 vimeo: 222665107
@@ -10,6 +12,5 @@ equipment: Arri Alexa Mini + Cooke S4's & Fujinon 19-90mm
 layout: project
 is-featured: false
 is-shown: true
-tags: home
 ---
 

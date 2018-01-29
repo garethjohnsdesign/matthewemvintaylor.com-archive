@@ -11,6 +11,5 @@ awards: Nominated for Best Cinematography BMVA 2015
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

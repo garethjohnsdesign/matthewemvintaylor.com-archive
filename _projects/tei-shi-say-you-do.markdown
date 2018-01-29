@@ -10,6 +10,5 @@ equipment: Alexa Mini + Uncoated Zeiss Superspeeds
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

@@ -10,6 +10,5 @@ equipment: RED One MX
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

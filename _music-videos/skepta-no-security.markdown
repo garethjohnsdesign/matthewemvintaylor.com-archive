@@ -10,6 +10,5 @@ equipment: Arri 416 - Kodak 500T
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

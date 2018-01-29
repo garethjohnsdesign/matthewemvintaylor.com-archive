@@ -12,6 +12,5 @@ equipment: Arri Alexa Mini + XT, Panavision E Series + Ultra Speeds
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 

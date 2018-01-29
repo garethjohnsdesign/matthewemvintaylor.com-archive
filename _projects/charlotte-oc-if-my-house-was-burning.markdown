@@ -1,6 +1,8 @@
 ---
 title: Charlotte OC — If My House Was Burning
 date: 2015-02-18 00:00:00 Z
+categories:
+- music-video
 position: 8
 image: "/uploads/charlotte-oc-if-my-house-was-burning-wide-f6366a.jpg"
 vimeo: 119973654
@@ -10,6 +12,5 @@ equipment: Arri Alexa 4:3 Anamorphic
 layout: project
 is-featured: false
 is-shown: true
-
 ---
 
