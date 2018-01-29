@@ -97,13 +97,6 @@
 		"oAP": "\/_commercial\/selfridges-potency.markdown",
 		"oF": 0
 		},
-	"\/_commercial\/unicef-end-violence.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_commercial\/unicef-end-violence.markdown",
-		"oF": 0
-		},
 	"\/_config.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -433,6 +426,20 @@
 		"oAP": "\/_projects\/billie-marten-bird.markdown",
 		"oF": 0
 		},
+	"\/_projects\/blue-palace.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/blue-palace.markdown",
+		"oF": 0
+		},
+	"\/_projects\/bold.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/bold.markdown",
+		"oF": 0
+		},
 	"\/_projects\/charlotte-oc-if-my-house-was-burning.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -473,6 +480,20 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/gem-club-i-heard-the-party.markdown",
+		"oF": 0
+		},
+	"\/_projects\/glass-animals-hazey.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/glass-animals-hazey.markdown",
+		"oF": 0
+		},
+	"\/_projects\/junior-empire-decide.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/junior-empire-decide.markdown",
 		"oF": 0
 		},
 	"\/_projects\/koovs-step-into-style.markdown": {
@@ -545,11 +566,32 @@
 		"oAP": "\/_projects\/skepta-no-security.markdown",
 		"oF": 0
 		},
+	"\/_projects\/steve-aoki-louis-tomlinson-just-hold-on.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/steve-aoki-louis-tomlinson-just-hold-on.markdown",
+		"oF": 0
+		},
+	"\/_projects\/tei-shi-say-you-do.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/tei-shi-say-you-do.markdown",
+		"oF": 0
+		},
 	"\/_projects\/the-maltese-fighter.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/the-maltese-fighter.markdown",
+		"oF": 0
+		},
+	"\/_projects\/unicef-end-violence.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/unicef-end-violence.markdown",
 		"oF": 0
 		},
 	"\/_site": {
