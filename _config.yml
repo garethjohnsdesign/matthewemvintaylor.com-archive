@@ -2,9 +2,6 @@
 title: Matthew Emvin Taylor
 timezone: UTC
 collections:
-  cv:
-    title: CV
-    output: false
   commercial:
     title: Commercial
     output: true
