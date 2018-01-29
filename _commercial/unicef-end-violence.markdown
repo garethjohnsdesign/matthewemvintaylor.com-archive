@@ -9,7 +9,7 @@ vimeo: 194352066
 director: Jonas McQuiggin
 production-company: Absolute Post + Blind Pig
 equipment: Arri Alexa
-layout: project
 is-shown: true
+layout: project
 ---
 
