@@ -49,6 +49,12 @@ images:
 - "/uploads/matthew-emvin-taylor-45.jpg"
 - "/uploads/matthew-emvin-taylor-46.jpg"
 - "/uploads/matthew-emvin-taylor-47.jpg"
+- "/uploads/1000187L1000187.jpg"
+- "/uploads/1000168L1000168.jpg"
+- "/uploads/1000194L1000194.jpg"
+- "/uploads/1000200L1000200.jpg"
+- "/uploads/1000203L1000203.jpg"
+- "/uploads/1000209L1000209.jpg"
 layout: stills
 ---
 
