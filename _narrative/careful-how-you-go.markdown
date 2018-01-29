@@ -7,4 +7,4 @@ production-company: 'Mother '
 equipment: Arri Alexa
 ---
 
-Premiered at Sundance Film Festival 2018 in Salt Lake City
+Coming soon - Premiered at Sundance Film Festival 2018 in Salt Lake City
