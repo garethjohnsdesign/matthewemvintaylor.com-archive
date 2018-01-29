@@ -2,7 +2,6 @@
 title: Junior Empire — Decide
 date: 2017-06-22 00:00:00 Z
 position: 1
-
 image: "/uploads/junior-empire-decide-wide.jpg"
 vimeo: 222665107
 director: Eoin Glaister
