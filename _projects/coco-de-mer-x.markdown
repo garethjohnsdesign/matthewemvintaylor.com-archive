@@ -10,7 +10,6 @@ director: Rankin + Trisha Ward
 production-company: Rankin Film + TBWA
 equipment: RED Dragon
 layout: project
-
 is-shown: true
 ---
 

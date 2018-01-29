@@ -10,7 +10,6 @@ director: Pete GD
 production-company: Agile Films + CPP
 equipment: Arri Alexa passed through VHS
 layout: project
-
 is-shown: true
 ---
 
