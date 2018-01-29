@@ -9,6 +9,5 @@ production-company: Human + Hath Films
 equipment: Arri ST 3 perf - Kodak 500T
 layout: project
 is-shown: true
-is-in-cv: true
 ---
 

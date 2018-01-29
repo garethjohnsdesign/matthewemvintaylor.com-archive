@@ -9,6 +9,5 @@ production-company: Hardly Art Ltd
 equipment: RED Epic
 layout: project
 is-shown: true
-is-in-cv: true
 ---
 

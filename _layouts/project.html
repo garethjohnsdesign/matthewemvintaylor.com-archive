@@ -4,7 +4,7 @@ layout: default
 
 {% capture the_collection %}{{page.collection}}{% endcapture %}
   {% if page.collection %}
-    {% assign document = site[the_collection] | sort: 'position' %}
+    {% assign document = site[the_collection] | where: "is-shown", "true" | sort: 'position' %}
   {% endif %}
 {% for links in document  %}
   {% if links.title == page.title %}
@@ -39,7 +39,7 @@ layout: default
   <div class="grid-y align-center" style="height: 100%;">
     <div class="shrink cell">
 
-<!-- Video -->
+{% if page.vimeo %}
 <div class="grid-x grid-padding-x align-center">
   <div class="auto cell">
   	<div class="responsive-embed widescreen">
@@ -47,7 +47,14 @@ layout: default
   	</div>
   </div>
 </div>
-<!-- End Video -->
+{% else %}
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+  <div class="small-12 cell">
+  	<img src="{{ page.image }}" alt="{{page.title}}">
+  </div>
+</div>
+{% endif %}
+
 
 <!-- Credits -->
 <div class="grid-x grid-padding-x align-center">

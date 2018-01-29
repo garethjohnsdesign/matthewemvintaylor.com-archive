@@ -11,6 +11,5 @@ production-company: Knucklehead / LEZ Creative
 equipment: Arri Alexa + Arri Amira
 layout: project
 is-shown: true
-is-in-cv: true
 ---
 

@@ -11,6 +11,5 @@ production-company: Nowness & Just So
 equipment: Arri Alexa + Panavision Primo's
 layout: project
 is-shown: true
-is-in-cv: true
 ---
 

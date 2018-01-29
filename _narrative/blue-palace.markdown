@@ -9,6 +9,5 @@ production-company: AUCB + FTII
 equipment: 35mm / Arri 535B + Arri 3
 layout: project
 is-shown: true
-is-in-cv: true
 ---
 
