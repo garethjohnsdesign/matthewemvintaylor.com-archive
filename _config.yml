@@ -2,6 +2,9 @@
 title: Matthew Emvin Taylor
 timezone: UTC
 collections:
+  cv:
+    title: CV
+    output: false
   commercial:
     title: Commercial
     output: true
@@ -11,15 +14,12 @@ collections:
   music-videos:
     title: Music Videos
     output: true
-  cv:
-    title: CV
-    output: false
   narrative:
     title: Narrative
     output: true
   posts:
     title: Posts
-    output: false
+    output: true
   uploads:
     title: Uploads
     output: false
