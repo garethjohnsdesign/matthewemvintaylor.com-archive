@@ -10,7 +10,6 @@ director: Jonas McQuiggin
 production-company: Absolute Post + Blind Pig
 equipment: Arri Alexa
 layout: project
-
 is-shown: true
 ---
 

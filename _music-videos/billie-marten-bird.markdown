@@ -8,7 +8,6 @@ director: Franklyn Banks
 production-company: Gas + Electric
 equipment: Arri Alexa Mini
 layout: project
-
 is-shown: true
 ---
 

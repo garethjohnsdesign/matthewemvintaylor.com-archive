@@ -8,6 +8,5 @@ director: Franklyn Banks
 production-company: Gas + Electric
 equipment: Alexa Mini + Panavision G Series + Revolution Lens System
 layout: project
-
 ---
 

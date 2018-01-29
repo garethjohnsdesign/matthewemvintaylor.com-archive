@@ -10,7 +10,6 @@ director: Pip
 production-company: Agile Films
 equipment: Arri Alexa Mini + Sony A7S II
 layout: project
-
 is-shown: true
 ---
 
