@@ -1,8 +1,8 @@
 ---
 title: Bold
 date: 2014-02-24 00:00:00 Z
-categories:
-- narrative
+
+
 position: 2
 is-front: false
 image: "/uploads/bold-wide-d54f41.jpg"

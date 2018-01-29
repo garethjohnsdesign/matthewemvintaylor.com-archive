@@ -1,8 +1,8 @@
 ---
 title: Lynx — Find Your Magic
 date: 2017-10-23 00:00:00 Z
-categories:
-- commercial
+
+
 position: 0
 is-front: true
 image: "/uploads/lynx-find-your-magic-wide.jpg"
