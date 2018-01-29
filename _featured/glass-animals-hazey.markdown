@@ -10,5 +10,6 @@ equipment: Arri Alexa 4:3 Anamorphic
 awards: Nominated for Best Cinematography BMVA 2015
 layout: project
 is-shown: true
+is-in-cv: false
 ---
 

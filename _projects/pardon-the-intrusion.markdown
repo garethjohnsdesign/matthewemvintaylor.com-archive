@@ -12,5 +12,6 @@ production-company: Cue Pictures + Limbo Pictures + Saint Productions
 equipment: RED One MX
 layout: project
 is-shown: true
+is-in-cv: true
 ---
 

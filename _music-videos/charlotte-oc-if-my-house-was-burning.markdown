@@ -10,5 +10,6 @@ production-company: Agile Films
 equipment: Arri Alexa 4:3 Anamorphic
 layout: project
 is-shown: true
+is-in-cv: true
 ---
 

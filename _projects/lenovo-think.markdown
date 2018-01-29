@@ -12,5 +12,6 @@ production-company: Love Savage
 equipment: Arri Alexa Studio with Hawk V-Lite Vintage '74
 layout: project
 is-shown: true
+is-in-cv: true
 ---
 

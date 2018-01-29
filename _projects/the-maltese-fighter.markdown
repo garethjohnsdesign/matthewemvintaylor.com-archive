@@ -13,5 +13,6 @@ equipment: Arri Alexa
 award: Best Cinematography Award MACC 2015
 layout: project
 is-shown: true
+is-in-cv: true
 ---
 

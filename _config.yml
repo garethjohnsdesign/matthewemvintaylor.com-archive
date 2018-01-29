@@ -28,22 +28,54 @@ defaults:
     layout: post
 - scope:
     path: ''
+    type: feature
+  values:
+    image:
+    vimeo:
+    director:
+    production-company:
+    equipment:
+    layout: project
+    is-shown: true
+    is-in-cv: false
+- scope:
+    path: ''
     type: commercial
   values:
-    layout: commercial
-    master: true
+    image:
+    vimeo:
+    director:
+    production-company:
+    equipment:
+    layout: project
+    is-shown: true
+    is-in-cv: true
 - scope:
     path: ''
     type: narrative
   values:
     layout: narrative
-    master: true
+    image:
+    vimeo:
+    director:
+    production-company:
+    equipment:
+    layout: project
+    is-shown: true
+    is-in-cv: true
 - scope:
     path: ''
     type: music-videos
   values:
     layout: music-videos
-    master: true
+    image:
+    vimeo:
+    director:
+    production-company:
+    equipment:
+    layout: project
+    is-shown: true
+    is-in-cv: true
 url: https://www.matthewemvintaylor.com
 baseurl: 
 description: "Award-winning London based cinematographer. Represented worldwide by Wizzo & Co"

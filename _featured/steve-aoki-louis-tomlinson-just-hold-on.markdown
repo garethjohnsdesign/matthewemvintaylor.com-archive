@@ -9,5 +9,6 @@ production-company: Pulse Films
 equipment: Alexa Mini + Kowa Anamorphic's
 layout: project
 is-shown: true
+is-in-cv: false
 ---
 

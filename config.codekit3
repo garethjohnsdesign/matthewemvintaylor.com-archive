@@ -9218,6 +9218,13 @@
 		"oAP": "\/robots.txt",
 		"oF": 0
 		},
+	"\/stills.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/stills.html",
+		"oF": 0
+		},
 	"\/stills.md": {
 		"cB": 0,
 		"cS": 0,

@@ -12,5 +12,6 @@ production-company: Knucklehead
 equipment: Arri Alexa
 layout: project
 is-shown: true
+is-in-cv: true
 ---
 

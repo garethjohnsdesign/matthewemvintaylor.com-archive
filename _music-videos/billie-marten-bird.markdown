@@ -10,5 +10,6 @@ production-company: Gas + Electric
 equipment: Arri Alexa Mini
 layout: project
 is-shown: true
+is-in-cv: true
 ---
 

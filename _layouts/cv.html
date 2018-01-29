@@ -24,7 +24,7 @@ layout: default
       </div>
     </div>
     
-    {% assign projects = site.documents | where: 'master', true | sort: 'date' | reverse %}
+    {% assign projects = site.documents | where: 'is-in-cv', true | sort: 'date' | reverse %}
     {% for item in projects %}
     <div class="grid-x grid-padding-x cv__item">
       <div class="small-12 medium-3 large-3 cell">

@@ -12,5 +12,6 @@ production-company: Chief Productions
 equipment: Panavised Arri Alexa 4:3 with G series anamorphics
 layout: project
 is-shown: true
+is-in-cv: true
 ---
 

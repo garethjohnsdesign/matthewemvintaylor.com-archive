@@ -9,5 +9,6 @@ production-company: Chief Productions
 equipment: Arri Alexa Mini with Hawk V-Lite
 layout: project
 is-shown: true
+is-in-cv: true
 ---
 
