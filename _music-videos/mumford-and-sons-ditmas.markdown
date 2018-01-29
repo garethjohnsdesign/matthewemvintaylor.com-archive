@@ -2,7 +2,6 @@
 title: Mumford and Sons — Ditmas
 date: 2015-07-27 00:00:00 Z
 position: 10
-
 image: "/uploads/mumford-and-sons-ditmas-wide.jpg"
 vimeo: 134641283
 director: Alex Southam

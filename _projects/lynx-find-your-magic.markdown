@@ -4,7 +4,6 @@ date: 2017-10-23 00:00:00 Z
 categories:
 - commercial
 position: 17
-
 image: "/uploads/lynx-find-your-magic-wide.jpg"
 vimeo: 239498249
 director: Franklyn Banks
