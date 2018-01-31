@@ -103,3 +103,4 @@ compress_html:
   profile: false
 pagination:
   enabled: true
+  per_page: 100

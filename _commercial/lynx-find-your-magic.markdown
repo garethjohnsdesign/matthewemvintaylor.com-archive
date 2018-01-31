@@ -9,6 +9,7 @@ vimeo: 239498249
 director: Peter Banks
 production-company: Gas + Electric
 equipment: Alexa Mini + Panavision G Series + Revolution Lens System
+is-shown: true
 layout: project
 ---
 
