@@ -3,5 +3,6 @@ title: Geox - Indiana Jones
 date: 2016-05-11 13:07:00 Z
 director: 'Luca Lucini + Mauro Chiarini '
 production-company: Malta Film + Chocolat Productions
+equipment: Arri Alexa
 ---
 
