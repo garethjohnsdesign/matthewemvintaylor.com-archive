@@ -6,7 +6,7 @@ image: "/uploads/lenovo-think-wide-4e7099.jpg"
 vimeo: 156693561
 director: Emile Rafael
 production-company: Love Savage
-equipment: Arri Alexa
+equipment: Arri Alexa Anamorphic
 is-shown: true
 layout: project
 ---
