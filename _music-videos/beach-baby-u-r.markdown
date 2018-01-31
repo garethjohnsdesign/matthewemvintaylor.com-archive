@@ -6,7 +6,7 @@ image: "/uploads/beach-baby-u-r-wide.jpg"
 vimeo: 174398025
 director: Eoin Glaister
 production-company: Human + Hath Films
-equipment: 35mm - Arri ST 3 perf - Kodak 500T
+equipment: S35mm - Arri ST 3 perf - Kodak 500T
 is-shown: true
 layout: project
 ---
