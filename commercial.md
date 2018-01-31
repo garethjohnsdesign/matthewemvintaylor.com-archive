@@ -7,5 +7,6 @@ pagination:
   collection: commercial
   sort_field: position
   sort_reverse: false
+  per_page: 100
 ---
 
