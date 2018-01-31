@@ -1,13 +1,13 @@
 ---
 title: Coutts — Lose it for Good
-date: 2016-10-05 00:00:00 Z
+date: 2016-09-14 00:00:00 Z
 position: 5
 image: "/uploads/coutts-lose-it-for-good-wide.jpg"
 vimeo: 185626712
 director: Pip
 production-company: Agile Films
-equipment: Arri Alexa Mini + Sony A7S II
-layout: project
+equipment: Arri Alexa + Sony A7S II
 is-shown: true
+layout: project
 ---
 
