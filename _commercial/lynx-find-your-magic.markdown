@@ -6,7 +6,7 @@ tags:
 position: 0
 image: "/uploads/lynx-find-your-magic-wide-5af95d.jpg"
 vimeo: 239498249
-director: Franklyn Banks
+director: Peter Banks
 production-company: Gas + Electric
 equipment: Alexa Mini + Panavision G Series + Revolution Lens System
 layout: project
