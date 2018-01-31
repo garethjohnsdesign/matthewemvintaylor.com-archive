@@ -1,5 +1,5 @@
 ---
-title: Sigma + Rita Ora — Coming Home
+title: Sigma & Rita Ora — Coming Home
 date: 2015-10-14 00:00:00 Z
 position: 7
 image: "/uploads/sigma-rita-ora-coming-home-wide-3e7be3.jpg"
