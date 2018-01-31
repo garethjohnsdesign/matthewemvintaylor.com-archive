@@ -8,7 +8,7 @@ image: "/uploads/lynx-find-your-magic-wide-5af95d.jpg"
 vimeo: 239498249
 director: Peter Banks
 production-company: Gas + Electric
-equipment: Alexa Mini Anamorphic + Revolution Lens System
+equipment: Arri Alexa Anamorphic + Revolution Lens System
 is-shown: true
 layout: project
 ---
