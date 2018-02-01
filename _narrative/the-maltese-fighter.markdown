@@ -12,4 +12,4 @@ award: Best Cinematography Award MACC 2015
 layout: project
 ---
 
-Currently being distributed by Zen Movie https://www.zenmovie.it/the-maltese-fighter
+Currently being distributed by Zen Movie [](https://www.zenmovie.it/the-maltese-fighter)
