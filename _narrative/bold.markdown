@@ -7,7 +7,7 @@ vimeo: 87501446
 director: Davide Gentile
 production-company: Banjo Eyes Films Ltd
 equipment: Arri Alexa Anamorphic
-is-shown: true
+is-shown: false
 layout: project
 ---
 
