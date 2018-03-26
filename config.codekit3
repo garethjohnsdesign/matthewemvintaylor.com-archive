@@ -7,7 +7,7 @@
 		"uuidString": "EDB44E38-DB9B-408C-B9C2-C572FB45B1A6"
 		}
 	],
-"creatorBuild": "26261",
+"creatorBuild": "26330",
 "files": {
 	"\/.gitattributes": {
 		"cB": 0,
@@ -34,11 +34,60 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_commercial\/aberlour.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/aberlour.markdown",
+		"oF": 0
+		},
 	"\/_commercial\/adidas-boss-old-trafford.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_commercial\/adidas-boss-old-trafford.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/aperol-the-perfect-serve.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/aperol-the-perfect-serve.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/asos-challenge-accepted.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/asos-challenge-accepted.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/betsafe-casino.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/betsafe-casino.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/bt-score-idents.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/bt-score-idents.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/carlsberg-export.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/carlsberg-export.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/channel-5-lip-sync-battle.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/channel-5-lip-sync-battle.markdown",
 		"oF": 0
 		},
 	"\/_commercial\/coco-de-mer-x.markdown": {
@@ -55,6 +104,13 @@
 		"oAP": "\/_commercial\/coutts-lose-it-for-good.markdown",
 		"oF": 0
 		},
+	"\/_commercial\/danone-danio.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/danone-danio.markdown",
+		"oF": 0
+		},
 	"\/_commercial\/define-gender-unboxing.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -62,11 +118,67 @@
 		"oAP": "\/_commercial\/define-gender-unboxing.markdown",
 		"oF": 0
 		},
+	"\/_commercial\/diet-coke-snowman.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/diet-coke-snowman.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/f3-lance-stroll-the-racer-the-man.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/f3-lance-stroll-the-racer-the-man.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/geox-indiana-jones.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/geox-indiana-jones.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/givenchy.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/givenchy.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/google-expeditions.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/google-expeditions.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/hp-privacy-camera.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/hp-privacy-camera.markdown",
+		"oF": 0
+		},
 	"\/_commercial\/koovs-step-into-style.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_commercial\/koovs-step-into-style.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/leerdammer-man-of-goed-taste.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/leerdammer-man-of-goed-taste.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/lenovo-origami-house.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/lenovo-origami-house.markdown",
 		"oF": 0
 		},
 	"\/_commercial\/lenovo-think.markdown": {
@@ -83,11 +195,81 @@
 		"oAP": "\/_commercial\/longmorn-those-that-know.markdown",
 		"oF": 0
 		},
+	"\/_commercial\/lululemon-this-is-yoga.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/lululemon-this-is-yoga.markdown",
+		"oF": 0
+		},
 	"\/_commercial\/lynx-find-your-magic.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_commercial\/lynx-find-your-magic.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/m-and-s-menswear-limited.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/m-and-s-menswear-limited.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/mobo-rise-with-us.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/mobo-rise-with-us.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/nissan-micra-nans-review.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/nissan-micra-nans-review.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/now-tv-obfleshion-eau-de-walker.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/now-tv-obfleshion-eau-de-walker.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/optegra-fuller-life-stories.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/optegra-fuller-life-stories.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/pepsi-max-back-to-the-future.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/pepsi-max-back-to-the-future.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/red-nose-day.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/red-nose-day.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/royal-navy-british-swimming.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/royal-navy-british-swimming.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/santander-unlock-london.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/santander-unlock-london.markdown",
 		"oF": 0
 		},
 	"\/_commercial\/selfridges-potency.markdown": {
@@ -97,11 +279,46 @@
 		"oAP": "\/_commercial\/selfridges-potency.markdown",
 		"oF": 0
 		},
+	"\/_commercial\/ted-baker-colour-by-numbers.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/ted-baker-colour-by-numbers.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/tui-number-hellotui.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/tui-number-hellotui.markdown",
+		"oF": 0
+		},
 	"\/_commercial\/unicef-end-violence.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_commercial\/unicef-end-violence.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/we-buy-any-car-idents.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/we-buy-any-car-idents.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/william-hill-casino.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/william-hill-casino.markdown",
+		"oF": 0
+		},
+	"\/_commercial\/zurich-purpose.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_commercial\/zurich-purpose.markdown",
 		"oF": 0
 		},
 	"\/_config.yml": {
@@ -265,6 +482,13 @@
 		"oAP": "\/_music-videos\/billie-marten-bird.markdown",
 		"oF": 0
 		},
+	"\/_music-videos\/charli-xcx-boys-london-shoot.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/charli-xcx-boys-london-shoot.markdown",
+		"oF": 0
+		},
 	"\/_music-videos\/charlotte-oc-if-my-house-was-burning.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -277,6 +501,41 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_music-videos\/django-django-shake-and-tremble.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/don-broco-nerve.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/don-broco-nerve.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/ella-eyre-ego.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/ella-eyre-ego.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/emin-boomerang.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/emin-boomerang.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/fenech-soler-last-forever.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/fenech-soler-last-forever.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/g-frsh-never-can-i.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/g-frsh-never-can-i.markdown",
 		"oF": 0
 		},
 	"\/_music-videos\/gem-club-i-heard-the-party.markdown": {
@@ -293,11 +552,67 @@
 		"oAP": "\/_music-videos\/glass-animals-hazey.markdown",
 		"oF": 0
 		},
+	"\/_music-videos\/jonas-blue-vevo-live-session.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/jonas-blue-vevo-live-session.markdown",
+		"oF": 0
+		},
 	"\/_music-videos\/junior-empire-decide.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_music-videos\/junior-empire-decide.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/kacta-ship-song.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/kacta-ship-song.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/king-krule-dum-surfer.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/king-krule-dum-surfer.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/klangkarussell-hey-maria.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/klangkarussell-hey-maria.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/lake-como-weight-of-fear-and-doubt.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/lake-como-weight-of-fear-and-doubt.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/mahalia-proud-of-me.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/mahalia-proud-of-me.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/mahalia-sober.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/mahalia-sober.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/marmozets-play.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/marmozets-play.markdown",
 		"oF": 0
 		},
 	"\/_music-videos\/mumford-and-sons-ditmas.markdown": {
@@ -312,6 +627,27 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_music-videos\/rhodes-close-your-eyes.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/roisin-murphy-house-of-glass.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/roisin-murphy-house-of-glass.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/roisin-murphy-unputdownable.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/roisin-murphy-unputdownable.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/sheets-ft-liza-flume-alexander-remus.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/sheets-ft-liza-flume-alexander-remus.markdown",
 		"oF": 0
 		},
 	"\/_music-videos\/sigma-rita-ora-coming-home.markdown": {
@@ -342,6 +678,20 @@
 		"oAP": "\/_music-videos\/tei-shi-say-you-do.markdown",
 		"oF": 0
 		},
+	"\/_music-videos\/the-boxer-rebellion-keep-moving.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/the-boxer-rebellion-keep-moving.markdown",
+		"oF": 0
+		},
+	"\/_music-videos\/zara-larsson-vevo-lift.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_music-videos\/zara-larsson-vevo-lift.markdown",
+		"oF": 0
+		},
 	"\/_narrative\/blue-palace.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -363,6 +713,13 @@
 		"oAP": "\/_narrative\/careful-how-you-go.markdown",
 		"oF": 0
 		},
+	"\/_narrative\/no-birds-sing.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_narrative\/no-birds-sing.markdown",
+		"oF": 0
+		},
 	"\/_narrative\/pardon-the-intrusion.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -377,6 +734,13 @@
 		"oAP": "\/_narrative\/the-maltese-fighter.markdown",
 		"oF": 0
 		},
+	"\/_narrative\/the-tenant.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_narrative\/the-tenant.markdown",
+		"oF": 0
+		},
 	"\/_narrative\/uncle.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -384,193 +748,11 @@
 		"oAP": "\/_narrative\/uncle.markdown",
 		"oF": 0
 		},
-	"\/_projects\/adidas-boss-old-trafford.markdown": {
+	"\/_narrative\/worm.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_projects\/adidas-boss-old-trafford.markdown",
-		"oF": 0
-		},
-	"\/_projects\/beach-baby-u-r.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/beach-baby-u-r.markdown",
-		"oF": 0
-		},
-	"\/_projects\/billie-marten-bird.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/billie-marten-bird.markdown",
-		"oF": 0
-		},
-	"\/_projects\/blue-palace.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/blue-palace.markdown",
-		"oF": 0
-		},
-	"\/_projects\/bold.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/bold.markdown",
-		"oF": 0
-		},
-	"\/_projects\/charlotte-oc-if-my-house-was-burning.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/charlotte-oc-if-my-house-was-burning.markdown",
-		"oF": 0
-		},
-	"\/_projects\/coco-de-mer-x.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/coco-de-mer-x.markdown",
-		"oF": 0
-		},
-	"\/_projects\/coutts-lose-it-for-good.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/coutts-lose-it-for-good.markdown",
-		"oF": 0
-		},
-	"\/_projects\/define-gender-unboxing.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/define-gender-unboxing.markdown",
-		"oF": 0
-		},
-	"\/_projects\/django-django-shake-and-tremble.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/django-django-shake-and-tremble.markdown",
-		"oF": 0
-		},
-	"\/_projects\/gem-club-i-heard-the-party.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/gem-club-i-heard-the-party.markdown",
-		"oF": 0
-		},
-	"\/_projects\/glass-animals-hazey.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/glass-animals-hazey.markdown",
-		"oF": 0
-		},
-	"\/_projects\/junior-empire-decide.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/junior-empire-decide.markdown",
-		"oF": 0
-		},
-	"\/_projects\/koovs-step-into-style.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/koovs-step-into-style.markdown",
-		"oF": 0
-		},
-	"\/_projects\/lenovo-think.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/lenovo-think.markdown",
-		"oF": 0
-		},
-	"\/_projects\/longmorn-those-that-know.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/longmorn-those-that-know.markdown",
-		"oF": 0
-		},
-	"\/_projects\/lynx-find-your-magic.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/lynx-find-your-magic.markdown",
-		"oF": 0
-		},
-	"\/_projects\/mumford-and-sons-ditmas.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/mumford-and-sons-ditmas.markdown",
-		"oF": 0
-		},
-	"\/_projects\/pardon-the-intrusion.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/pardon-the-intrusion.markdown",
-		"oF": 0
-		},
-	"\/_projects\/rhodes-close-your-eyes.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/rhodes-close-your-eyes.markdown",
-		"oF": 0
-		},
-	"\/_projects\/selfridges-potency.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/selfridges-potency.markdown",
-		"oF": 0
-		},
-	"\/_projects\/sigma-rita-ora-coming-home.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/sigma-rita-ora-coming-home.markdown",
-		"oF": 0
-		},
-	"\/_projects\/skepta-no-security.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/skepta-no-security.markdown",
-		"oF": 0
-		},
-	"\/_projects\/steve-aoki-louis-tomlinson-just-hold-on.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/steve-aoki-louis-tomlinson-just-hold-on.markdown",
-		"oF": 0
-		},
-	"\/_projects\/tei-shi-say-you-do.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/tei-shi-say-you-do.markdown",
-		"oF": 0
-		},
-	"\/_projects\/the-maltese-fighter.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/the-maltese-fighter.markdown",
-		"oF": 0
-		},
-	"\/_projects\/unicef-end-violence.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/unicef-end-violence.markdown",
+		"oAP": "\/_narrative\/worm.markdown",
 		"oF": 0
 		},
 	"\/_site": {
@@ -634,6 +816,56 @@
 		"iS": 358749,
 		"oA": 0,
 		"oAP": "\/_uploads\/careful-how-you-go-wide.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/careful-how-you-go-wide1.jpg": {
+		"ft": 16384,
+		"iS": 197139,
+		"oA": 0,
+		"oAP": "\/_uploads\/careful-how-you-go-wide1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/careful-how-you-go-wide2.jpg": {
+		"ft": 16384,
+		"iS": 285069,
+		"oA": 0,
+		"oAP": "\/_uploads\/careful-how-you-go-wide2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/careful-how-you-go-wide3.jpg": {
+		"ft": 16384,
+		"iS": 268559,
+		"oA": 0,
+		"oAP": "\/_uploads\/careful-how-you-go-wide3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/careful-how-you-go-wide4.jpg": {
+		"ft": 16384,
+		"iS": 422773,
+		"oA": 0,
+		"oAP": "\/_uploads\/careful-how-you-go-wide4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/careful-how-you-go-wide5.jpg": {
+		"ft": 16384,
+		"iS": 340868,
+		"oA": 0,
+		"oAP": "\/_uploads\/careful-how-you-go-wide5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -754,6 +986,16 @@
 		"iS": 182546,
 		"oA": 0,
 		"oAP": "\/_uploads\/longmorn-those-that-know-wide2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/lynx-find-your-magic-wide-5af95d.jpg": {
+		"ft": 16384,
+		"iS": 216291,
+		"oA": 0,
+		"oAP": "\/_uploads\/lynx-find-your-magic-wide-5af95d.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1234,6 +1476,856 @@
 		"iS": 187216,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-47.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-01.jpg": {
+		"ft": 16384,
+		"iS": 144953,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-02.jpg": {
+		"ft": 16384,
+		"iS": 170623,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-03.jpg": {
+		"ft": 16384,
+		"iS": 139233,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-04.jpg": {
+		"ft": 16384,
+		"iS": 119606,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-05.jpg": {
+		"ft": 16384,
+		"iS": 229002,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-06.jpg": {
+		"ft": 16384,
+		"iS": 172083,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-07.jpg": {
+		"ft": 16384,
+		"iS": 201455,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-08.jpg": {
+		"ft": 16384,
+		"iS": 216182,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-08.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-09.jpg": {
+		"ft": 16384,
+		"iS": 158801,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-09.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-10.jpg": {
+		"ft": 16384,
+		"iS": 323090,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-11.jpg": {
+		"ft": 16384,
+		"iS": 243288,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-12.jpg": {
+		"ft": 16384,
+		"iS": 356522,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-13.jpg": {
+		"ft": 16384,
+		"iS": 232048,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-14.jpg": {
+		"ft": 16384,
+		"iS": 371161,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-15.jpg": {
+		"ft": 16384,
+		"iS": 218299,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-16.jpg": {
+		"ft": 16384,
+		"iS": 237735,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-16.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-17.jpg": {
+		"ft": 16384,
+		"iS": 264080,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-17.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-18.jpg": {
+		"ft": 16384,
+		"iS": 282548,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-18.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-19.jpg": {
+		"ft": 16384,
+		"iS": 296577,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-19.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-20.jpg": {
+		"ft": 16384,
+		"iS": 189713,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-21.jpg": {
+		"ft": 16384,
+		"iS": 307776,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-21.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-22.jpg": {
+		"ft": 16384,
+		"iS": 236401,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-22.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-23.jpg": {
+		"ft": 16384,
+		"iS": 271985,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-23.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-24.jpg": {
+		"ft": 16384,
+		"iS": 280729,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-24.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-25.jpg": {
+		"ft": 16384,
+		"iS": 263250,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-25.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-26.jpg": {
+		"ft": 16384,
+		"iS": 432685,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-26.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-27.jpg": {
+		"ft": 16384,
+		"iS": 290747,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-27.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-28.jpg": {
+		"ft": 16384,
+		"iS": 339205,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-28.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-29.jpg": {
+		"ft": 16384,
+		"iS": 363954,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-29.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-30.jpg": {
+		"ft": 16384,
+		"iS": 345354,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-30.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-31.jpg": {
+		"ft": 16384,
+		"iS": 312682,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-31.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-32.jpg": {
+		"ft": 16384,
+		"iS": 255881,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-32.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-33.jpg": {
+		"ft": 16384,
+		"iS": 266193,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-33.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-34.jpg": {
+		"ft": 16384,
+		"iS": 278819,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-34.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-35.jpg": {
+		"ft": 16384,
+		"iS": 401979,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-35.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-36.jpg": {
+		"ft": 16384,
+		"iS": 208249,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-36.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-37.jpg": {
+		"ft": 16384,
+		"iS": 323413,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-37.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-38.jpg": {
+		"ft": 16384,
+		"iS": 206492,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-39.jpg": {
+		"ft": 16384,
+		"iS": 296606,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-39.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-40.jpg": {
+		"ft": 16384,
+		"iS": 456886,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-40.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-41.jpg": {
+		"ft": 16384,
+		"iS": 312208,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-41.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-42.jpg": {
+		"ft": 16384,
+		"iS": 275666,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-42.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-43.jpg": {
+		"ft": 16384,
+		"iS": 414362,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-43.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-44.jpg": {
+		"ft": 16384,
+		"iS": 219044,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-44.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-45.jpg": {
+		"ft": 16384,
+		"iS": 319440,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-45.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-46.jpg": {
+		"ft": 16384,
+		"iS": 306666,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-46.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-47.jpg": {
+		"ft": 16384,
+		"iS": 322871,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-47.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-48.jpg": {
+		"ft": 16384,
+		"iS": 478028,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-48.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-49.jpg": {
+		"ft": 16384,
+		"iS": 383287,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-49.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-50.jpg": {
+		"ft": 16384,
+		"iS": 310081,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-50.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-51.jpg": {
+		"ft": 16384,
+		"iS": 314859,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-51.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-52.jpg": {
+		"ft": 16384,
+		"iS": 300568,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-52.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-53.jpg": {
+		"ft": 16384,
+		"iS": 374911,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-53.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-54.jpg": {
+		"ft": 16384,
+		"iS": 240483,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-54.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-55.jpg": {
+		"ft": 16384,
+		"iS": 320706,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-55.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-56.jpg": {
+		"ft": 16384,
+		"iS": 157869,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-56.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-57.jpg": {
+		"ft": 16384,
+		"iS": 237918,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-57.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-58.jpg": {
+		"ft": 16384,
+		"iS": 337547,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-58.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-59.jpg": {
+		"ft": 16384,
+		"iS": 275411,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-59.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-60.jpg": {
+		"ft": 16384,
+		"iS": 402820,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-60.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-61.jpg": {
+		"ft": 16384,
+		"iS": 249649,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-61.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-62.jpg": {
+		"ft": 16384,
+		"iS": 536309,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-62.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-63.jpg": {
+		"ft": 16384,
+		"iS": 317758,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-63.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-64.jpg": {
+		"ft": 16384,
+		"iS": 309994,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-64.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-65.jpg": {
+		"ft": 16384,
+		"iS": 302294,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-65.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-66.jpg": {
+		"ft": 16384,
+		"iS": 351108,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-66.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-67.jpg": {
+		"ft": 16384,
+		"iS": 460736,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-67.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-68.jpg": {
+		"ft": 16384,
+		"iS": 410711,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-68.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-69.jpg": {
+		"ft": 16384,
+		"iS": 346571,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-69.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-70.jpg": {
+		"ft": 16384,
+		"iS": 242581,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-70.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-71.jpg": {
+		"ft": 16384,
+		"iS": 399636,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-71.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-72.jpg": {
+		"ft": 16384,
+		"iS": 430089,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-72.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-73.jpg": {
+		"ft": 16384,
+		"iS": 357509,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-73.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-74.jpg": {
+		"ft": 16384,
+		"iS": 192849,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-74.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-75.jpg": {
+		"ft": 16384,
+		"iS": 317073,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-75.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-76.jpg": {
+		"ft": 16384,
+		"iS": 180876,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-77.jpg": {
+		"ft": 16384,
+		"iS": 326649,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-77.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-78.jpg": {
+		"ft": 16384,
+		"iS": 332270,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-78.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-79.jpg": {
+		"ft": 16384,
+		"iS": 378996,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-79.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-80.jpg": {
+		"ft": 16384,
+		"iS": 192621,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-80.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-81.jpg": {
+		"ft": 16384,
+		"iS": 204832,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-81.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-82.jpg": {
+		"ft": 16384,
+		"iS": 457506,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-82.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-83.jpg": {
+		"ft": 16384,
+		"iS": 534701,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-83.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/matthew-emvin-taylor-two-84.jpg": {
+		"ft": 16384,
+		"iS": 378323,
+		"oA": 0,
+		"oAP": "\/_uploads\/matthew-emvin-taylor-two-84.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/mobo-rise-with-us-wide.jpg": {
+		"ft": 16384,
+		"iS": 314278,
+		"oA": 0,
+		"oAP": "\/_uploads\/mobo-rise-with-us-wide.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9308,6 +10400,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
