@@ -27,7 +27,7 @@ defaults:
     path: ''
     type: commercial
   values:
-    image:
+    image: 
     images: 
     vimeo: 
     director: 
