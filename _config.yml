@@ -28,6 +28,7 @@ defaults:
     type: commercial
   values:
     image: 
+    images: 
     vimeo: 
     director: 
     production-company: 
