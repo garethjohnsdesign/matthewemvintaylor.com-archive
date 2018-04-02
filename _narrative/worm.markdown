@@ -6,6 +6,6 @@ image: "/uploads/worm-wide16.jpg"
 director: Joe Sharp
 production-company: 'Rubber Goat Films '
 equipment: Arri Alexa Anamorphic
-is-shown: true
+is-shown: false
 ---
 
