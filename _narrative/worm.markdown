@@ -20,6 +20,6 @@ images:
 director: Joe Sharp
 production-company: 'Rubber Goat Films '
 equipment: Arri Alexa Anamorphic
-is-shown: false
+is-shown: true
 ---
 
