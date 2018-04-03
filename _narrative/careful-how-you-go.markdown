@@ -1,6 +1,8 @@
 ---
 title: Careful How You Go
 date: 2017-01-29 18:36:00 Z
+tags:
+- home
 position: 0
 image: "/uploads/careful-how-you-go-wide.jpg"
 images:
