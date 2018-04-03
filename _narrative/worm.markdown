@@ -18,7 +18,7 @@ images:
 - "/uploads/worm-wide-14.jpg"
 - "/uploads/worm-wide-15.jpg"
 - "/uploads/worm-wide-16.jpg"
-director: Joe Sharp
+director: Joe Sharp + Dean Brocklehurst
 production-company: 'Rubber Goat Films '
 equipment: Arri Alexa Anamorphic
 is-shown: true
