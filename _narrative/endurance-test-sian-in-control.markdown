@@ -1,13 +1,13 @@
 ---
-title: Endurance Test - Sian in Control - Documentary
+title: Endurance Test - Sian in Control
 date: 2018-04-03 17:10:00 Z
 tags:
 - home
 image: "/uploads/endurance-test-sian-in-control-wide.jpg"
-vimeo: <iframe src="https://player.vimeo.com/video/259380120" width="640" height="272"
-  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+vimeo: 259380120
 director: George Harvey
 production-company: 'Nowness + George Harvey Studio '
 equipment: Arri Amira
 ---
 
+Documentary
