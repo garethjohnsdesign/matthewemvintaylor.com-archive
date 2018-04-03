@@ -2,7 +2,7 @@
 title: Worm
 date: 2016-01-30 10:49:00 Z
 position: 1
-image: "/uploads/worm-wide-home-15.jpg"
+image: "/uploads/worm-wide-home-01.jpg"
 images:
 - "/uploads/worm-wide-01.jpg"
 - "/uploads/worm-wide-04.jpg"
