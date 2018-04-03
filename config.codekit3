@@ -720,6 +720,13 @@
 		"oAP": "\/_narrative\/pardon-the-intrusion.markdown",
 		"oF": 0
 		},
+	"\/_narrative\/special-delivery.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_narrative\/special-delivery.markdown",
+		"oF": 0
+		},
 	"\/_narrative\/the-maltese-fighter.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -2439,6 +2446,176 @@
 		"iS": 102845,
 		"oA": 0,
 		"oAP": "\/_uploads\/unicef-end-violence-wide-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide1.jpg": {
+		"ft": 16384,
+		"iS": 557428,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide10.jpg": {
+		"ft": 16384,
+		"iS": 682434,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide11.jpg": {
+		"ft": 16384,
+		"iS": 763692,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide12.jpg": {
+		"ft": 16384,
+		"iS": 870752,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide13.jpg": {
+		"ft": 16384,
+		"iS": 629556,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide14.jpg": {
+		"ft": 16384,
+		"iS": 771305,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide15.jpg": {
+		"ft": 16384,
+		"iS": 833600,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide16.jpg": {
+		"ft": 16384,
+		"iS": 644128,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide16.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide17.jpg": {
+		"ft": 16384,
+		"iS": 814315,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide17.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide2.jpg": {
+		"ft": 16384,
+		"iS": 1166516,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide3.jpg": {
+		"ft": 16384,
+		"iS": 687748,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide4.jpg": {
+		"ft": 16384,
+		"iS": 580413,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide5.jpg": {
+		"ft": 16384,
+		"iS": 951185,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide6.jpg": {
+		"ft": 16384,
+		"iS": 505779,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide7.jpg": {
+		"ft": 16384,
+		"iS": 638221,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide8.jpg": {
+		"ft": 16384,
+		"iS": 918360,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/worm-wide9.jpg": {
+		"ft": 16384,
+		"iS": 679114,
+		"oA": 0,
+		"oAP": "\/_uploads\/worm-wide9.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
