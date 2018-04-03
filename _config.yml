@@ -29,7 +29,7 @@ defaults:
   values:
     image: 
     images:
-    -
+    - 
     vimeo: 
     director: 
     production-company: 
@@ -43,7 +43,7 @@ defaults:
     layout: project
     image: 
     images:
-    -
+    - 
     vimeo: 
     director: 
     production-company: 
@@ -56,7 +56,7 @@ defaults:
     layout: project
     image: 
     images:
-    -
+    - 
     vimeo: 
     director: 
     production-company: 
