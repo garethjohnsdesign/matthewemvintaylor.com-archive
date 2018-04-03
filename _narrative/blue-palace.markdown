@@ -1,7 +1,7 @@
 ---
 title: Blue Palace
 date: 2010-10-20 00:00:00 Z
-position: 6
+position: 10
 image: "/uploads/blue-palace-wide.jpg"
 vimeo: 241288916
 director: Kim Jarrett

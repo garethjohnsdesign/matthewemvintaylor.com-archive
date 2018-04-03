@@ -3,6 +3,7 @@ title: Endurance Test - Sian in Control
 date: 2018-04-03 17:10:00 Z
 tags:
 - home
+position: 1
 image: "/uploads/endurance-test-sian-in-control-wide.jpg"
 vimeo: 259380120
 director: George Harvey
