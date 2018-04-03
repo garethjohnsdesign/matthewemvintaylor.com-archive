@@ -14,7 +14,6 @@ images:
 - "/uploads/worm-wide-08.jpg"
 - "/uploads/worm-wide-10.jpg"
 - "/uploads/worm-wide-11.jpg"
-- "/uploads/worm-wide-13.jpg"
 - "/uploads/worm-wide-14.jpg"
 - "/uploads/worm-wide-15.jpg"
 - "/uploads/worm-wide-16.jpg"
