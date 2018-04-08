@@ -10,7 +10,6 @@ images:
 - "/uploads/worm-wide-04.jpg"
 - "/uploads/worm-wide-17.jpg"
 - "/uploads/worm-wide-03.jpg"
-- "/uploads/worm-wide-05.jpg"
 - "/uploads/worm-wide-06.jpg"
 - "/uploads/worm-wide-09.jpg"
 - "/uploads/worm-wide-08.jpg"
