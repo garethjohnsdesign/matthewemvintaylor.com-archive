@@ -1,7 +1,7 @@
 ---
 title: Info
 position: 4
-representation-text: "WPA | Worldwide Production Agency \nBarnaby Laws \n[barnaby@wp-a.co.uk](mailto:barnaby@wp-a.co.uk)
+representation-text: "WPA | Worldwide Production Agency\nBarnaby Laws\n[barnaby@wp-a.co.uk](mailto:barnaby@wp-a.co.uk)
   \ \n[+44 (0)207 287 9564](tel:00442072879564)  \n[www.wp-a.com](http://www.wp-a.com/)"
 clients-text: Apple, Beats, Lenovo, Hewlett Packard, Asos, Unicef, Lynx, Adidas, Google,
   William Hill, Vodafone, Betsafe, Koovs, Nissan, Panasonic, Tui, Zurich, BT, Diet
