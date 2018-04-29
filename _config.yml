@@ -65,7 +65,7 @@ defaults:
 url: https://www.matthewemvintaylor.com
 baseurl: 
 description: 'Award-winning London based cinematographer. Represented worldwide by
-  WPA '
+  WPA. '
 permalink: pretty
 exclude:
 - bower.json
