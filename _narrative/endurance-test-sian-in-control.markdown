@@ -1,8 +1,6 @@
 ---
 title: Endurance Test - Sian in Control
 date: 2017-10-18 17:10:00 Z
-tags:
-- home
 position: 4
 image: "/uploads/endurance-test-sian-in-control-wide.jpg"
 vimeo: 259380120
