@@ -3,8 +3,7 @@ title: Betsson Norway - John Arne Riise
 date: 2018-05-29 19:05:00 Z
 tags:
 - home
-images:
-- "/uploads/betsson-norway-wide.jpg"
+image: "/uploads/betsson-norway-wide.jpg"
 vimeo: 265042411
 director: Federico Mazzarisi
 production-company: Malta Film
