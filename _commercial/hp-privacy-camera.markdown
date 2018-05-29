@@ -5,7 +5,7 @@ tags:
 - commercial
 position: 3
 director: Jo Tanner
-production-company: Flare AMVBBDO
+production-company: Flare AMV BBDO
 equipment: Arri Alexa
 is-shown: false
 ---
