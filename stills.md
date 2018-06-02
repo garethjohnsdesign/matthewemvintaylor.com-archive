@@ -4,16 +4,22 @@ position: 5
 images:
 - "/uploads/matthew-emvin-taylor-57.jpg"
 - "/uploads/matthew-emvin-taylor-58.jpg"
+- "/uploads/matthew-emvin-taylor-64.jpg"
 - "/uploads/matthew-emvin-taylor-59.jpg"
+- "/uploads/matthew-emvin-taylor-65.jpg"
+- "/uploads/matthew-emvin-taylor-62.jpg"
 - "/uploads/matthew-emvin-taylor-51.jpg"
 - "/uploads/matthew-emvin-taylor-two-02.jpg"
 - "/uploads/matthew-emvin-taylor-two-01.jpg"
 - "/uploads/matthew-emvin-taylor-two-03.jpg"
 - "/uploads/matthew-emvin-taylor-55.jpg"
+- "/uploads/matthew-emvin-taylor-60.jpg"
 - "/uploads/matthew-emvin-taylor-50.jpg"
 - "/uploads/matthew-emvin-taylor-two-04.jpg"
+- "/uploads/matthew-emvin-taylor-67.jpg"
 - "/uploads/matthew-emvin-taylor-two-05.jpg"
 - "/uploads/matthew-emvin-taylor-53.jpg"
+- "/uploads/matthew-emvin-taylor-61.jpg"
 - "/uploads/matthew-emvin-taylor-two-06.jpg"
 - "/uploads/matthew-emvin-taylor-two-08.jpg"
 - "/uploads/matthew-emvin-taylor-two-07.jpg"
@@ -120,6 +126,8 @@ images:
 - "/uploads/matthew-emvin-taylor-06.jpg"
 - "/uploads/matthew-emvin-taylor-02.jpg"
 - "/uploads/matthew-emvin-taylor-01.jpg"
+- "/uploads/matthew-emvin-taylor-66.jpg"
+- "/uploads/matthew-emvin-taylor-63.jpg"
 layout: stills
 ---
 
