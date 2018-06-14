@@ -2,7 +2,7 @@
 title: Home
 position: 0
 image: "/assets/img/og-image.png"
-layout: projects
+layout: home
 pagination:
   enabled: true
   collection: commercial, narrative, music-videos
