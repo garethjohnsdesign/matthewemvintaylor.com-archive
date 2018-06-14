@@ -7,7 +7,7 @@
 		"uuidString": "EDB44E38-DB9B-408C-B9C2-C572FB45B1A6"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitattributes": {
 		"cB": 0,
@@ -764,6 +764,7 @@
 	"\/_uploads\/adidas-boss-old-trafford-wide.jpg": {
 		"ft": 16384,
 		"iS": 223459,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/adidas-boss-old-trafford-wide.jpg",
 		"oF": 0,
@@ -774,6 +775,7 @@
 	"\/_uploads\/beach-baby-u-r-wide.jpg": {
 		"ft": 16384,
 		"iS": 342746,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/beach-baby-u-r-wide.jpg",
 		"oF": 0,
@@ -784,6 +786,7 @@
 	"\/_uploads\/billie-marten-bird-wide.jpg": {
 		"ft": 16384,
 		"iS": 209658,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/billie-marten-bird-wide.jpg",
 		"oF": 0,
@@ -794,6 +797,7 @@
 	"\/_uploads\/blue-palace-wide.jpg": {
 		"ft": 16384,
 		"iS": 168984,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/blue-palace-wide.jpg",
 		"oF": 0,
@@ -804,6 +808,7 @@
 	"\/_uploads\/bold-wide-d54f41.jpg": {
 		"ft": 16384,
 		"iS": 250584,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/bold-wide-d54f41.jpg",
 		"oF": 0,
@@ -814,6 +819,7 @@
 	"\/_uploads\/careful-how-you-go-wide.jpg": {
 		"ft": 16384,
 		"iS": 358749,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/careful-how-you-go-wide.jpg",
 		"oF": 0,
@@ -824,6 +830,7 @@
 	"\/_uploads\/careful-how-you-go-wide1.jpg": {
 		"ft": 16384,
 		"iS": 197139,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/careful-how-you-go-wide1.jpg",
 		"oF": 0,
@@ -834,6 +841,7 @@
 	"\/_uploads\/careful-how-you-go-wide2.jpg": {
 		"ft": 16384,
 		"iS": 285069,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/careful-how-you-go-wide2.jpg",
 		"oF": 0,
@@ -844,6 +852,7 @@
 	"\/_uploads\/careful-how-you-go-wide3.jpg": {
 		"ft": 16384,
 		"iS": 268559,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/careful-how-you-go-wide3.jpg",
 		"oF": 0,
@@ -854,6 +863,7 @@
 	"\/_uploads\/careful-how-you-go-wide4.jpg": {
 		"ft": 16384,
 		"iS": 422773,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/careful-how-you-go-wide4.jpg",
 		"oF": 0,
@@ -864,6 +874,7 @@
 	"\/_uploads\/careful-how-you-go-wide5.jpg": {
 		"ft": 16384,
 		"iS": 340868,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/careful-how-you-go-wide5.jpg",
 		"oF": 0,
@@ -874,6 +885,7 @@
 	"\/_uploads\/charlotte-oc-if-my-house-was-burning-wide-f6366a.jpg": {
 		"ft": 16384,
 		"iS": 512041,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/charlotte-oc-if-my-house-was-burning-wide-f6366a.jpg",
 		"oF": 0,
@@ -884,6 +896,7 @@
 	"\/_uploads\/coco-de-mer-x-wide-9d05dc.jpg": {
 		"ft": 16384,
 		"iS": 714314,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/coco-de-mer-x-wide-9d05dc.jpg",
 		"oF": 0,
@@ -894,6 +907,7 @@
 	"\/_uploads\/coutts-lose-it-for-good-wide.jpg": {
 		"ft": 16384,
 		"iS": 218407,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/coutts-lose-it-for-good-wide.jpg",
 		"oF": 0,
@@ -904,6 +918,7 @@
 	"\/_uploads\/define-gender-unboxing-wide.jpg": {
 		"ft": 16384,
 		"iS": 104328,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/define-gender-unboxing-wide.jpg",
 		"oF": 0,
@@ -914,6 +929,7 @@
 	"\/_uploads\/django-django-shake-and-tremble-wide-a89fa4.jpg": {
 		"ft": 16384,
 		"iS": 209656,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/django-django-shake-and-tremble-wide-a89fa4.jpg",
 		"oF": 0,
@@ -924,6 +940,7 @@
 	"\/_uploads\/gem-club-i-heard-the-party-wide-347f8a.jpg": {
 		"ft": 16384,
 		"iS": 173787,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/gem-club-i-heard-the-party-wide-347f8a.jpg",
 		"oF": 0,
@@ -934,6 +951,7 @@
 	"\/_uploads\/glass-animals-hazey-wide.jpg": {
 		"ft": 16384,
 		"iS": 99554,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/glass-animals-hazey-wide.jpg",
 		"oF": 0,
@@ -944,6 +962,7 @@
 	"\/_uploads\/junior-empire-decide-wide.jpg": {
 		"ft": 16384,
 		"iS": 100010,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/junior-empire-decide-wide.jpg",
 		"oF": 0,
@@ -954,6 +973,7 @@
 	"\/_uploads\/koovs-step-into-style-wide.jpg": {
 		"ft": 16384,
 		"iS": 181435,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/koovs-step-into-style-wide.jpg",
 		"oF": 0,
@@ -964,6 +984,7 @@
 	"\/_uploads\/lenovo-think-wide-4e7099.jpg": {
 		"ft": 16384,
 		"iS": 352434,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/lenovo-think-wide-4e7099.jpg",
 		"oF": 0,
@@ -974,6 +995,7 @@
 	"\/_uploads\/longmorn-those-that-know-wide1.jpg": {
 		"ft": 16384,
 		"iS": 244461,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/longmorn-those-that-know-wide1.jpg",
 		"oF": 0,
@@ -984,6 +1006,7 @@
 	"\/_uploads\/longmorn-those-that-know-wide2.jpg": {
 		"ft": 16384,
 		"iS": 182546,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/longmorn-those-that-know-wide2.jpg",
 		"oF": 0,
@@ -994,6 +1017,7 @@
 	"\/_uploads\/lynx-find-your-magic-wide-5af95d.jpg": {
 		"ft": 16384,
 		"iS": 216291,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/lynx-find-your-magic-wide-5af95d.jpg",
 		"oF": 0,
@@ -1004,6 +1028,7 @@
 	"\/_uploads\/lynx-find-your-magic-wide.jpg": {
 		"ft": 16384,
 		"iS": 101827,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/lynx-find-your-magic-wide.jpg",
 		"oF": 0,
@@ -1014,6 +1039,7 @@
 	"\/_uploads\/matthew-emvin-taylor-01.jpg": {
 		"ft": 16384,
 		"iS": 293985,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-01.jpg",
 		"oF": 0,
@@ -1024,6 +1050,7 @@
 	"\/_uploads\/matthew-emvin-taylor-02.jpg": {
 		"ft": 16384,
 		"iS": 249677,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-02.jpg",
 		"oF": 0,
@@ -1034,6 +1061,7 @@
 	"\/_uploads\/matthew-emvin-taylor-03.jpg": {
 		"ft": 16384,
 		"iS": 292873,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-03.jpg",
 		"oF": 0,
@@ -1044,6 +1072,7 @@
 	"\/_uploads\/matthew-emvin-taylor-04.jpg": {
 		"ft": 16384,
 		"iS": 233666,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-04.jpg",
 		"oF": 0,
@@ -1054,6 +1083,7 @@
 	"\/_uploads\/matthew-emvin-taylor-05.jpg": {
 		"ft": 16384,
 		"iS": 488364,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-05.jpg",
 		"oF": 0,
@@ -1064,6 +1094,7 @@
 	"\/_uploads\/matthew-emvin-taylor-06.jpg": {
 		"ft": 16384,
 		"iS": 375564,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-06.jpg",
 		"oF": 0,
@@ -1074,6 +1105,7 @@
 	"\/_uploads\/matthew-emvin-taylor-07.jpg": {
 		"ft": 16384,
 		"iS": 245633,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-07.jpg",
 		"oF": 0,
@@ -1084,6 +1116,7 @@
 	"\/_uploads\/matthew-emvin-taylor-08.jpg": {
 		"ft": 16384,
 		"iS": 267583,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-08.jpg",
 		"oF": 0,
@@ -1094,6 +1127,7 @@
 	"\/_uploads\/matthew-emvin-taylor-09.jpg": {
 		"ft": 16384,
 		"iS": 285217,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-09.jpg",
 		"oF": 0,
@@ -1104,6 +1138,7 @@
 	"\/_uploads\/matthew-emvin-taylor-10.jpg": {
 		"ft": 16384,
 		"iS": 196568,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-10.jpg",
 		"oF": 0,
@@ -1114,6 +1149,7 @@
 	"\/_uploads\/matthew-emvin-taylor-11.jpg": {
 		"ft": 16384,
 		"iS": 141922,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-11.jpg",
 		"oF": 0,
@@ -1124,6 +1160,7 @@
 	"\/_uploads\/matthew-emvin-taylor-12.jpg": {
 		"ft": 16384,
 		"iS": 248392,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-12.jpg",
 		"oF": 0,
@@ -1134,6 +1171,7 @@
 	"\/_uploads\/matthew-emvin-taylor-13.jpg": {
 		"ft": 16384,
 		"iS": 197442,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-13.jpg",
 		"oF": 0,
@@ -1144,6 +1182,7 @@
 	"\/_uploads\/matthew-emvin-taylor-14.jpg": {
 		"ft": 16384,
 		"iS": 209624,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-14.jpg",
 		"oF": 0,
@@ -1154,6 +1193,7 @@
 	"\/_uploads\/matthew-emvin-taylor-15.jpg": {
 		"ft": 16384,
 		"iS": 169253,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-15.jpg",
 		"oF": 0,
@@ -1164,6 +1204,7 @@
 	"\/_uploads\/matthew-emvin-taylor-16.jpg": {
 		"ft": 16384,
 		"iS": 157773,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-16.jpg",
 		"oF": 0,
@@ -1174,6 +1215,7 @@
 	"\/_uploads\/matthew-emvin-taylor-17.jpg": {
 		"ft": 16384,
 		"iS": 295466,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-17.jpg",
 		"oF": 0,
@@ -1184,6 +1226,7 @@
 	"\/_uploads\/matthew-emvin-taylor-18.jpg": {
 		"ft": 16384,
 		"iS": 296762,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-18.jpg",
 		"oF": 0,
@@ -1194,6 +1237,7 @@
 	"\/_uploads\/matthew-emvin-taylor-19.jpg": {
 		"ft": 16384,
 		"iS": 182893,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-19.jpg",
 		"oF": 0,
@@ -1204,6 +1248,7 @@
 	"\/_uploads\/matthew-emvin-taylor-20.jpg": {
 		"ft": 16384,
 		"iS": 287484,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-20.jpg",
 		"oF": 0,
@@ -1214,6 +1259,7 @@
 	"\/_uploads\/matthew-emvin-taylor-21.jpg": {
 		"ft": 16384,
 		"iS": 148321,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-21.jpg",
 		"oF": 0,
@@ -1224,6 +1270,7 @@
 	"\/_uploads\/matthew-emvin-taylor-22.jpg": {
 		"ft": 16384,
 		"iS": 222616,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-22.jpg",
 		"oF": 0,
@@ -1234,6 +1281,7 @@
 	"\/_uploads\/matthew-emvin-taylor-23.jpg": {
 		"ft": 16384,
 		"iS": 217050,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-23.jpg",
 		"oF": 0,
@@ -1244,6 +1292,7 @@
 	"\/_uploads\/matthew-emvin-taylor-24.jpg": {
 		"ft": 16384,
 		"iS": 243800,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-24.jpg",
 		"oF": 0,
@@ -1254,6 +1303,7 @@
 	"\/_uploads\/matthew-emvin-taylor-25.jpg": {
 		"ft": 16384,
 		"iS": 239916,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-25.jpg",
 		"oF": 0,
@@ -1264,6 +1314,7 @@
 	"\/_uploads\/matthew-emvin-taylor-26.jpg": {
 		"ft": 16384,
 		"iS": 200133,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-26.jpg",
 		"oF": 0,
@@ -1274,6 +1325,7 @@
 	"\/_uploads\/matthew-emvin-taylor-27.jpg": {
 		"ft": 16384,
 		"iS": 206619,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-27.jpg",
 		"oF": 0,
@@ -1284,6 +1336,7 @@
 	"\/_uploads\/matthew-emvin-taylor-28.jpg": {
 		"ft": 16384,
 		"iS": 287152,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-28.jpg",
 		"oF": 0,
@@ -1294,6 +1347,7 @@
 	"\/_uploads\/matthew-emvin-taylor-29.jpg": {
 		"ft": 16384,
 		"iS": 255853,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-29.jpg",
 		"oF": 0,
@@ -1304,6 +1358,7 @@
 	"\/_uploads\/matthew-emvin-taylor-30.jpg": {
 		"ft": 16384,
 		"iS": 269295,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-30.jpg",
 		"oF": 0,
@@ -1314,6 +1369,7 @@
 	"\/_uploads\/matthew-emvin-taylor-31.jpg": {
 		"ft": 16384,
 		"iS": 152510,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-31.jpg",
 		"oF": 0,
@@ -1324,6 +1380,7 @@
 	"\/_uploads\/matthew-emvin-taylor-32.jpg": {
 		"ft": 16384,
 		"iS": 272565,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-32.jpg",
 		"oF": 0,
@@ -1334,6 +1391,7 @@
 	"\/_uploads\/matthew-emvin-taylor-33.jpg": {
 		"ft": 16384,
 		"iS": 171518,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-33.jpg",
 		"oF": 0,
@@ -1344,6 +1402,7 @@
 	"\/_uploads\/matthew-emvin-taylor-34.jpg": {
 		"ft": 16384,
 		"iS": 165645,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-34.jpg",
 		"oF": 0,
@@ -1354,6 +1413,7 @@
 	"\/_uploads\/matthew-emvin-taylor-35.jpg": {
 		"ft": 16384,
 		"iS": 206051,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-35.jpg",
 		"oF": 0,
@@ -1364,6 +1424,7 @@
 	"\/_uploads\/matthew-emvin-taylor-36.jpg": {
 		"ft": 16384,
 		"iS": 186479,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-36.jpg",
 		"oF": 0,
@@ -1374,6 +1435,7 @@
 	"\/_uploads\/matthew-emvin-taylor-37.jpg": {
 		"ft": 16384,
 		"iS": 267076,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-37.jpg",
 		"oF": 0,
@@ -1384,6 +1446,7 @@
 	"\/_uploads\/matthew-emvin-taylor-38.jpg": {
 		"ft": 16384,
 		"iS": 164439,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-38.jpg",
 		"oF": 0,
@@ -1394,6 +1457,7 @@
 	"\/_uploads\/matthew-emvin-taylor-39.jpg": {
 		"ft": 16384,
 		"iS": 233916,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-39.jpg",
 		"oF": 0,
@@ -1404,6 +1468,7 @@
 	"\/_uploads\/matthew-emvin-taylor-40.jpg": {
 		"ft": 16384,
 		"iS": 124895,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-40.jpg",
 		"oF": 0,
@@ -1414,6 +1479,7 @@
 	"\/_uploads\/matthew-emvin-taylor-41.jpg": {
 		"ft": 16384,
 		"iS": 218607,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-41.jpg",
 		"oF": 0,
@@ -1424,6 +1490,7 @@
 	"\/_uploads\/matthew-emvin-taylor-42.jpg": {
 		"ft": 16384,
 		"iS": 197481,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-42.jpg",
 		"oF": 0,
@@ -1434,6 +1501,7 @@
 	"\/_uploads\/matthew-emvin-taylor-43.jpg": {
 		"ft": 16384,
 		"iS": 207843,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-43.jpg",
 		"oF": 0,
@@ -1444,6 +1512,7 @@
 	"\/_uploads\/matthew-emvin-taylor-44.jpg": {
 		"ft": 16384,
 		"iS": 117735,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-44.jpg",
 		"oF": 0,
@@ -1454,6 +1523,7 @@
 	"\/_uploads\/matthew-emvin-taylor-45.jpg": {
 		"ft": 16384,
 		"iS": 121567,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-45.jpg",
 		"oF": 0,
@@ -1464,6 +1534,7 @@
 	"\/_uploads\/matthew-emvin-taylor-46.jpg": {
 		"ft": 16384,
 		"iS": 215094,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-46.jpg",
 		"oF": 0,
@@ -1474,6 +1545,7 @@
 	"\/_uploads\/matthew-emvin-taylor-47.jpg": {
 		"ft": 16384,
 		"iS": 187216,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-47.jpg",
 		"oF": 0,
@@ -1484,6 +1556,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-01.jpg": {
 		"ft": 16384,
 		"iS": 144953,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-01.jpg",
 		"oF": 0,
@@ -1494,6 +1567,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-02.jpg": {
 		"ft": 16384,
 		"iS": 170623,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-02.jpg",
 		"oF": 0,
@@ -1504,6 +1578,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-03.jpg": {
 		"ft": 16384,
 		"iS": 139233,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-03.jpg",
 		"oF": 0,
@@ -1514,6 +1589,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-04.jpg": {
 		"ft": 16384,
 		"iS": 119606,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-04.jpg",
 		"oF": 0,
@@ -1524,6 +1600,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-05.jpg": {
 		"ft": 16384,
 		"iS": 229002,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-05.jpg",
 		"oF": 0,
@@ -1534,6 +1611,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-06.jpg": {
 		"ft": 16384,
 		"iS": 172083,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-06.jpg",
 		"oF": 0,
@@ -1544,6 +1622,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-07.jpg": {
 		"ft": 16384,
 		"iS": 201455,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-07.jpg",
 		"oF": 0,
@@ -1554,6 +1633,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-08.jpg": {
 		"ft": 16384,
 		"iS": 216182,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-08.jpg",
 		"oF": 0,
@@ -1564,6 +1644,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-09.jpg": {
 		"ft": 16384,
 		"iS": 158801,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-09.jpg",
 		"oF": 0,
@@ -1574,6 +1655,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-10.jpg": {
 		"ft": 16384,
 		"iS": 323090,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-10.jpg",
 		"oF": 0,
@@ -1584,6 +1666,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-11.jpg": {
 		"ft": 16384,
 		"iS": 243288,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-11.jpg",
 		"oF": 0,
@@ -1594,6 +1677,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-12.jpg": {
 		"ft": 16384,
 		"iS": 356522,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-12.jpg",
 		"oF": 0,
@@ -1604,6 +1688,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-13.jpg": {
 		"ft": 16384,
 		"iS": 232048,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-13.jpg",
 		"oF": 0,
@@ -1614,6 +1699,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-14.jpg": {
 		"ft": 16384,
 		"iS": 371161,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-14.jpg",
 		"oF": 0,
@@ -1624,6 +1710,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-15.jpg": {
 		"ft": 16384,
 		"iS": 218299,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-15.jpg",
 		"oF": 0,
@@ -1634,6 +1721,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-16.jpg": {
 		"ft": 16384,
 		"iS": 237735,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-16.jpg",
 		"oF": 0,
@@ -1644,6 +1732,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-17.jpg": {
 		"ft": 16384,
 		"iS": 264080,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-17.jpg",
 		"oF": 0,
@@ -1654,6 +1743,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-18.jpg": {
 		"ft": 16384,
 		"iS": 282548,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-18.jpg",
 		"oF": 0,
@@ -1664,6 +1754,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-19.jpg": {
 		"ft": 16384,
 		"iS": 296577,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-19.jpg",
 		"oF": 0,
@@ -1674,6 +1765,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-20.jpg": {
 		"ft": 16384,
 		"iS": 189713,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-20.jpg",
 		"oF": 0,
@@ -1684,6 +1776,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-21.jpg": {
 		"ft": 16384,
 		"iS": 307776,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-21.jpg",
 		"oF": 0,
@@ -1694,6 +1787,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-22.jpg": {
 		"ft": 16384,
 		"iS": 236401,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-22.jpg",
 		"oF": 0,
@@ -1704,6 +1798,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-23.jpg": {
 		"ft": 16384,
 		"iS": 271985,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-23.jpg",
 		"oF": 0,
@@ -1714,6 +1809,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-24.jpg": {
 		"ft": 16384,
 		"iS": 280729,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-24.jpg",
 		"oF": 0,
@@ -1724,6 +1820,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-25.jpg": {
 		"ft": 16384,
 		"iS": 263250,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-25.jpg",
 		"oF": 0,
@@ -1734,6 +1831,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-26.jpg": {
 		"ft": 16384,
 		"iS": 432685,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-26.jpg",
 		"oF": 0,
@@ -1744,6 +1842,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-27.jpg": {
 		"ft": 16384,
 		"iS": 290747,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-27.jpg",
 		"oF": 0,
@@ -1754,6 +1853,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-28.jpg": {
 		"ft": 16384,
 		"iS": 339205,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-28.jpg",
 		"oF": 0,
@@ -1764,6 +1864,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-29.jpg": {
 		"ft": 16384,
 		"iS": 363954,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-29.jpg",
 		"oF": 0,
@@ -1774,6 +1875,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-30.jpg": {
 		"ft": 16384,
 		"iS": 345354,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-30.jpg",
 		"oF": 0,
@@ -1784,6 +1886,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-31.jpg": {
 		"ft": 16384,
 		"iS": 312682,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-31.jpg",
 		"oF": 0,
@@ -1794,6 +1897,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-32.jpg": {
 		"ft": 16384,
 		"iS": 255881,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-32.jpg",
 		"oF": 0,
@@ -1804,6 +1908,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-33.jpg": {
 		"ft": 16384,
 		"iS": 266193,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-33.jpg",
 		"oF": 0,
@@ -1814,6 +1919,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-34.jpg": {
 		"ft": 16384,
 		"iS": 278819,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-34.jpg",
 		"oF": 0,
@@ -1824,6 +1930,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-35.jpg": {
 		"ft": 16384,
 		"iS": 401979,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-35.jpg",
 		"oF": 0,
@@ -1834,6 +1941,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-36.jpg": {
 		"ft": 16384,
 		"iS": 208249,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-36.jpg",
 		"oF": 0,
@@ -1844,6 +1952,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-37.jpg": {
 		"ft": 16384,
 		"iS": 323413,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-37.jpg",
 		"oF": 0,
@@ -1854,6 +1963,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-38.jpg": {
 		"ft": 16384,
 		"iS": 206492,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-38.jpg",
 		"oF": 0,
@@ -1864,6 +1974,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-39.jpg": {
 		"ft": 16384,
 		"iS": 296606,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-39.jpg",
 		"oF": 0,
@@ -1874,6 +1985,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-40.jpg": {
 		"ft": 16384,
 		"iS": 456886,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-40.jpg",
 		"oF": 0,
@@ -1884,6 +1996,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-41.jpg": {
 		"ft": 16384,
 		"iS": 312208,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-41.jpg",
 		"oF": 0,
@@ -1894,6 +2007,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-42.jpg": {
 		"ft": 16384,
 		"iS": 275666,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-42.jpg",
 		"oF": 0,
@@ -1904,6 +2018,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-43.jpg": {
 		"ft": 16384,
 		"iS": 414362,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-43.jpg",
 		"oF": 0,
@@ -1914,6 +2029,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-44.jpg": {
 		"ft": 16384,
 		"iS": 219044,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-44.jpg",
 		"oF": 0,
@@ -1924,6 +2040,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-45.jpg": {
 		"ft": 16384,
 		"iS": 319440,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-45.jpg",
 		"oF": 0,
@@ -1934,6 +2051,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-46.jpg": {
 		"ft": 16384,
 		"iS": 306666,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-46.jpg",
 		"oF": 0,
@@ -1944,6 +2062,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-47.jpg": {
 		"ft": 16384,
 		"iS": 322871,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-47.jpg",
 		"oF": 0,
@@ -1954,6 +2073,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-48.jpg": {
 		"ft": 16384,
 		"iS": 478028,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-48.jpg",
 		"oF": 0,
@@ -1964,6 +2084,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-49.jpg": {
 		"ft": 16384,
 		"iS": 383287,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-49.jpg",
 		"oF": 0,
@@ -1974,6 +2095,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-50.jpg": {
 		"ft": 16384,
 		"iS": 310081,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-50.jpg",
 		"oF": 0,
@@ -1984,6 +2106,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-51.jpg": {
 		"ft": 16384,
 		"iS": 314859,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-51.jpg",
 		"oF": 0,
@@ -1994,6 +2117,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-52.jpg": {
 		"ft": 16384,
 		"iS": 300568,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-52.jpg",
 		"oF": 0,
@@ -2004,6 +2128,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-53.jpg": {
 		"ft": 16384,
 		"iS": 374911,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-53.jpg",
 		"oF": 0,
@@ -2014,6 +2139,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-54.jpg": {
 		"ft": 16384,
 		"iS": 240483,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-54.jpg",
 		"oF": 0,
@@ -2024,6 +2150,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-55.jpg": {
 		"ft": 16384,
 		"iS": 320706,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-55.jpg",
 		"oF": 0,
@@ -2034,6 +2161,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-56.jpg": {
 		"ft": 16384,
 		"iS": 157869,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-56.jpg",
 		"oF": 0,
@@ -2044,6 +2172,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-57.jpg": {
 		"ft": 16384,
 		"iS": 237918,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-57.jpg",
 		"oF": 0,
@@ -2054,6 +2183,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-58.jpg": {
 		"ft": 16384,
 		"iS": 337547,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-58.jpg",
 		"oF": 0,
@@ -2064,6 +2194,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-59.jpg": {
 		"ft": 16384,
 		"iS": 275411,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-59.jpg",
 		"oF": 0,
@@ -2074,6 +2205,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-60.jpg": {
 		"ft": 16384,
 		"iS": 402820,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-60.jpg",
 		"oF": 0,
@@ -2084,6 +2216,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-61.jpg": {
 		"ft": 16384,
 		"iS": 249649,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-61.jpg",
 		"oF": 0,
@@ -2094,6 +2227,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-62.jpg": {
 		"ft": 16384,
 		"iS": 536309,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-62.jpg",
 		"oF": 0,
@@ -2104,6 +2238,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-63.jpg": {
 		"ft": 16384,
 		"iS": 317758,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-63.jpg",
 		"oF": 0,
@@ -2114,6 +2249,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-64.jpg": {
 		"ft": 16384,
 		"iS": 309994,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-64.jpg",
 		"oF": 0,
@@ -2124,6 +2260,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-65.jpg": {
 		"ft": 16384,
 		"iS": 302294,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-65.jpg",
 		"oF": 0,
@@ -2134,6 +2271,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-66.jpg": {
 		"ft": 16384,
 		"iS": 351108,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-66.jpg",
 		"oF": 0,
@@ -2144,6 +2282,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-67.jpg": {
 		"ft": 16384,
 		"iS": 460736,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-67.jpg",
 		"oF": 0,
@@ -2154,6 +2293,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-68.jpg": {
 		"ft": 16384,
 		"iS": 410711,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-68.jpg",
 		"oF": 0,
@@ -2164,6 +2304,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-69.jpg": {
 		"ft": 16384,
 		"iS": 346571,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-69.jpg",
 		"oF": 0,
@@ -2174,6 +2315,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-70.jpg": {
 		"ft": 16384,
 		"iS": 242581,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-70.jpg",
 		"oF": 0,
@@ -2184,6 +2326,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-71.jpg": {
 		"ft": 16384,
 		"iS": 399636,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-71.jpg",
 		"oF": 0,
@@ -2194,6 +2337,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-72.jpg": {
 		"ft": 16384,
 		"iS": 430089,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-72.jpg",
 		"oF": 0,
@@ -2204,6 +2348,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-73.jpg": {
 		"ft": 16384,
 		"iS": 357509,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-73.jpg",
 		"oF": 0,
@@ -2214,6 +2359,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-74.jpg": {
 		"ft": 16384,
 		"iS": 192849,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-74.jpg",
 		"oF": 0,
@@ -2224,6 +2370,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-75.jpg": {
 		"ft": 16384,
 		"iS": 317073,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-75.jpg",
 		"oF": 0,
@@ -2234,6 +2381,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-76.jpg": {
 		"ft": 16384,
 		"iS": 180876,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-76.jpg",
 		"oF": 0,
@@ -2244,6 +2392,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-77.jpg": {
 		"ft": 16384,
 		"iS": 326649,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-77.jpg",
 		"oF": 0,
@@ -2254,6 +2403,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-78.jpg": {
 		"ft": 16384,
 		"iS": 332270,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-78.jpg",
 		"oF": 0,
@@ -2264,6 +2414,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-79.jpg": {
 		"ft": 16384,
 		"iS": 378996,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-79.jpg",
 		"oF": 0,
@@ -2274,6 +2425,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-80.jpg": {
 		"ft": 16384,
 		"iS": 192621,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-80.jpg",
 		"oF": 0,
@@ -2284,6 +2436,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-81.jpg": {
 		"ft": 16384,
 		"iS": 204832,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-81.jpg",
 		"oF": 0,
@@ -2294,6 +2447,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-82.jpg": {
 		"ft": 16384,
 		"iS": 457506,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-82.jpg",
 		"oF": 0,
@@ -2304,6 +2458,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-83.jpg": {
 		"ft": 16384,
 		"iS": 534701,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-83.jpg",
 		"oF": 0,
@@ -2314,6 +2469,7 @@
 	"\/_uploads\/matthew-emvin-taylor-two-84.jpg": {
 		"ft": 16384,
 		"iS": 378323,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/matthew-emvin-taylor-two-84.jpg",
 		"oF": 0,
@@ -2324,6 +2480,7 @@
 	"\/_uploads\/mobo-rise-with-us-wide.jpg": {
 		"ft": 16384,
 		"iS": 314278,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/mobo-rise-with-us-wide.jpg",
 		"oF": 0,
@@ -2334,6 +2491,7 @@
 	"\/_uploads\/mumford-and-sons-ditmas-wide.jpg": {
 		"ft": 16384,
 		"iS": 44068,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/mumford-and-sons-ditmas-wide.jpg",
 		"oF": 0,
@@ -2344,6 +2502,7 @@
 	"\/_uploads\/mumford-and-sons-ditmas.jpg": {
 		"ft": 16384,
 		"iS": 59451,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/mumford-and-sons-ditmas.jpg",
 		"oF": 0,
@@ -2354,6 +2513,7 @@
 	"\/_uploads\/pardon-the-intrusion-wide-339d7d.jpg": {
 		"ft": 16384,
 		"iS": 246570,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/pardon-the-intrusion-wide-339d7d.jpg",
 		"oF": 0,
@@ -2364,6 +2524,7 @@
 	"\/_uploads\/rhodes-close-your-eyes-wide.jpg": {
 		"ft": 16384,
 		"iS": 131168,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/rhodes-close-your-eyes-wide.jpg",
 		"oF": 0,
@@ -2374,6 +2535,7 @@
 	"\/_uploads\/selfridges-potency-wide.jpg": {
 		"ft": 16384,
 		"iS": 83144,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/selfridges-potency-wide.jpg",
 		"oF": 0,
@@ -2384,6 +2546,7 @@
 	"\/_uploads\/sigma-rita-ora-coming-home-wide-3e7be3.jpg": {
 		"ft": 16384,
 		"iS": 253648,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/sigma-rita-ora-coming-home-wide-3e7be3.jpg",
 		"oF": 0,
@@ -2394,6 +2557,7 @@
 	"\/_uploads\/skepta-no-security-wide.jpg": {
 		"ft": 16384,
 		"iS": 96344,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/skepta-no-security-wide.jpg",
 		"oF": 0,
@@ -2404,6 +2568,7 @@
 	"\/_uploads\/steve-aoki-louis-tomlinson-just-hold-on-wide-02.jpg": {
 		"ft": 16384,
 		"iS": 96068,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/steve-aoki-louis-tomlinson-just-hold-on-wide-02.jpg",
 		"oF": 0,
@@ -2414,6 +2579,7 @@
 	"\/_uploads\/steve-aoki-louis-tomlinson-just-hold-on-wide.jpg": {
 		"ft": 16384,
 		"iS": 92167,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/steve-aoki-louis-tomlinson-just-hold-on-wide.jpg",
 		"oF": 0,
@@ -2424,6 +2590,7 @@
 	"\/_uploads\/tei-shi-say-you-do-wide.jpg": {
 		"ft": 16384,
 		"iS": 130521,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/tei-shi-say-you-do-wide.jpg",
 		"oF": 0,
@@ -2434,6 +2601,7 @@
 	"\/_uploads\/the-maltese-fighter-wide-75fde3.jpg": {
 		"ft": 16384,
 		"iS": 235751,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/the-maltese-fighter-wide-75fde3.jpg",
 		"oF": 0,
@@ -2444,6 +2612,7 @@
 	"\/_uploads\/unicef-end-violence-wide-02.jpg": {
 		"ft": 16384,
 		"iS": 102845,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/unicef-end-violence-wide-02.jpg",
 		"oF": 0,
@@ -2451,171 +2620,188 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide1.jpg": {
+	"\/_uploads\/worm-wide-01.jpg": {
 		"ft": 16384,
-		"iS": 557428,
+		"iS": 87897,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide1.jpg",
+		"oAP": "\/_uploads\/worm-wide-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide10.jpg": {
+	"\/_uploads\/worm-wide-02.jpg": {
 		"ft": 16384,
-		"iS": 682434,
+		"iS": 133896,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide10.jpg",
+		"oAP": "\/_uploads\/worm-wide-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide11.jpg": {
+	"\/_uploads\/worm-wide-03.jpg": {
 		"ft": 16384,
-		"iS": 763692,
+		"iS": 137194,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide11.jpg",
+		"oAP": "\/_uploads\/worm-wide-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide12.jpg": {
+	"\/_uploads\/worm-wide-04.jpg": {
 		"ft": 16384,
-		"iS": 870752,
+		"iS": 234681,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide12.jpg",
+		"oAP": "\/_uploads\/worm-wide-04.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide13.jpg": {
+	"\/_uploads\/worm-wide-05.jpg": {
 		"ft": 16384,
-		"iS": 629556,
+		"iS": 105692,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide13.jpg",
+		"oAP": "\/_uploads\/worm-wide-05.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide14.jpg": {
+	"\/_uploads\/worm-wide-06.jpg": {
 		"ft": 16384,
-		"iS": 771305,
+		"iS": 125597,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide14.jpg",
+		"oAP": "\/_uploads\/worm-wide-06.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide15.jpg": {
+	"\/_uploads\/worm-wide-07.jpg": {
 		"ft": 16384,
-		"iS": 833600,
+		"iS": 225494,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide15.jpg",
+		"oAP": "\/_uploads\/worm-wide-07.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide16.jpg": {
+	"\/_uploads\/worm-wide-08.jpg": {
 		"ft": 16384,
-		"iS": 644128,
+		"iS": 144455,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide16.jpg",
+		"oAP": "\/_uploads\/worm-wide-08.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide17.jpg": {
+	"\/_uploads\/worm-wide-09.jpg": {
 		"ft": 16384,
-		"iS": 814315,
+		"iS": 137042,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide17.jpg",
+		"oAP": "\/_uploads\/worm-wide-09.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide2.jpg": {
+	"\/_uploads\/worm-wide-10.jpg": {
 		"ft": 16384,
-		"iS": 1166516,
+		"iS": 175088,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide2.jpg",
+		"oAP": "\/_uploads\/worm-wide-10.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide3.jpg": {
+	"\/_uploads\/worm-wide-11.jpg": {
 		"ft": 16384,
-		"iS": 687748,
+		"iS": 205459,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide3.jpg",
+		"oAP": "\/_uploads\/worm-wide-11.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide4.jpg": {
+	"\/_uploads\/worm-wide-12.jpg": {
 		"ft": 16384,
-		"iS": 580413,
+		"iS": 153664,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide4.jpg",
+		"oAP": "\/_uploads\/worm-wide-12.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide5.jpg": {
+	"\/_uploads\/worm-wide-13.jpg": {
 		"ft": 16384,
-		"iS": 951185,
+		"iS": 188862,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide5.jpg",
+		"oAP": "\/_uploads\/worm-wide-13.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide6.jpg": {
+	"\/_uploads\/worm-wide-14.jpg": {
 		"ft": 16384,
-		"iS": 505779,
+		"iS": 209414,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide6.jpg",
+		"oAP": "\/_uploads\/worm-wide-14.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide7.jpg": {
+	"\/_uploads\/worm-wide-15.jpg": {
 		"ft": 16384,
-		"iS": 638221,
+		"iS": 130126,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide7.jpg",
+		"oAP": "\/_uploads\/worm-wide-15.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide8.jpg": {
+	"\/_uploads\/worm-wide-16.jpg": {
 		"ft": 16384,
-		"iS": 918360,
+		"iS": 173671,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide8.jpg",
+		"oAP": "\/_uploads\/worm-wide-16.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/worm-wide9.jpg": {
+	"\/_uploads\/worm-wide-17.jpg": {
 		"ft": 16384,
-		"iS": 679114,
+		"iS": 148543,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/worm-wide9.jpg",
+		"oAP": "\/_uploads\/worm-wide-17.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -8219,6 +8405,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1-1600.jpg": {
 		"ft": 16384,
 		"iS": 241923,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-1600.jpg",
 		"oF": 0,
@@ -8229,6 +8416,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1-375.jpg": {
 		"ft": 16384,
 		"iS": 23648,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-375.jpg",
 		"oF": 0,
@@ -8239,6 +8427,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1-480.jpg": {
 		"ft": 16384,
 		"iS": 34414,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-480.jpg",
 		"oF": 0,
@@ -8249,6 +8438,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1.jpg": {
 		"ft": 16384,
 		"iS": 91130,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1.jpg",
 		"oF": 0,
@@ -8259,6 +8449,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13-1600.jpg": {
 		"ft": 16384,
 		"iS": 129996,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-1600.jpg",
 		"oF": 0,
@@ -8269,6 +8460,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13-375.jpg": {
 		"ft": 16384,
 		"iS": 22812,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-375.jpg",
 		"oF": 0,
@@ -8279,6 +8471,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13-480.jpg": {
 		"ft": 16384,
 		"iS": 35693,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-480.jpg",
 		"oF": 0,
@@ -8289,6 +8482,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13.jpg": {
 		"ft": 16384,
 		"iS": 124149,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13.jpg",
 		"oF": 0,
@@ -8299,6 +8493,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2-1600.jpg": {
 		"ft": 16384,
 		"iS": 187925,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-1600.jpg",
 		"oF": 0,
@@ -8309,6 +8504,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2-375.jpg": {
 		"ft": 16384,
 		"iS": 30307,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-375.jpg",
 		"oF": 0,
@@ -8319,6 +8515,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2-480.jpg": {
 		"ft": 16384,
 		"iS": 48290,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-480.jpg",
 		"oF": 0,
@@ -8329,6 +8526,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2.jpg": {
 		"ft": 16384,
 		"iS": 326478,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2.jpg",
 		"oF": 0,
@@ -8339,6 +8537,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4-1600.jpg": {
 		"ft": 16384,
 		"iS": 153989,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-1600.jpg",
 		"oF": 0,
@@ -8349,6 +8548,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4-375.jpg": {
 		"ft": 16384,
 		"iS": 18396,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-375.jpg",
 		"oF": 0,
@@ -8359,6 +8559,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4-480.jpg": {
 		"ft": 16384,
 		"iS": 25839,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-480.jpg",
 		"oF": 0,
@@ -8369,6 +8570,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4.jpg": {
 		"ft": 16384,
 		"iS": 70944,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4.jpg",
 		"oF": 0,
@@ -8379,6 +8581,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-1.jpg": {
 		"ft": 16384,
 		"iS": 68187,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-1.jpg",
 		"oF": 0,
@@ -8389,6 +8592,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-13.jpg": {
 		"ft": 16384,
 		"iS": 76594,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-13.jpg",
 		"oF": 0,
@@ -8399,6 +8603,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-2.jpg": {
 		"ft": 16384,
 		"iS": 92856,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-2.jpg",
 		"oF": 0,
@@ -8409,6 +8614,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-4.jpg": {
 		"ft": 16384,
 		"iS": 53719,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-4.jpg",
 		"oF": 0,
@@ -10562,7 +10768,8 @@
 	"creationDate": 499797547,
 	"displayValue": "Matthew Emvin Taylor",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "\/assets\/favicons\/apple-touch-icon.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -12365,6 +12572,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
