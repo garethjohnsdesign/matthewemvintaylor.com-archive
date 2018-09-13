@@ -1,5 +1,5 @@
 ---
-title: Skepta — No Security
+title: Skepta - No Security
 date: 2017-02-28 00:00:00 Z
 position: 26
 image: "/uploads/skepta-no-security-wide.jpg"
