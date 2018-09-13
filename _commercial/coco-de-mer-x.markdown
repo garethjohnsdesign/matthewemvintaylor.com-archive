@@ -1,5 +1,5 @@
 ---
-title: Coco de Mer — X
+title: Coco de Mer - X
 date: 2015-03-12 00:00:00 Z
 position: 43
 image: "/uploads/coco-de-mer-x-wide-9d05dc.jpg"

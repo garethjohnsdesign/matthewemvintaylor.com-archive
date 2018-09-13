@@ -1,5 +1,5 @@
 ---
-title: Adidas — Boss Old Trafford
+title: Adidas - Boss Old Trafford
 date: 2016-01-06 00:00:00 Z
 position: 41
 image: "/uploads/adidas-boss-old-trafford-wide.jpg"

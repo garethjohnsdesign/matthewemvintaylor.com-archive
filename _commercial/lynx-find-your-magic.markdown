@@ -1,5 +1,5 @@
 ---
-title: Lynx — Find Your Magic
+title: Lynx - Find Your Magic
 date: 2017-06-14 00:00:00 Z
 tags:
 - home

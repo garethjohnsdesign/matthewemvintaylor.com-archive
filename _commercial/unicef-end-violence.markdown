@@ -1,5 +1,5 @@
 ---
-title: Unicef — End Violence
+title: Unicef - End Violence
 date: 2016-09-14 00:00:00 Z
 position: 39
 image: "/uploads/unicef-end-violence-wide-02.jpg"
