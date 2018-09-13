@@ -1,5 +1,5 @@
 ---
-title: Selfridges — Potency
+title: Selfridges - Potency
 date: 2015-06-11 00:00:00 Z
 position: 44
 image: "/uploads/selfridges-potency-wide.jpg"
