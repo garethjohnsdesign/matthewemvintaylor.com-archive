@@ -1,5 +1,5 @@
 ---
-title: Ghetts - Black Rose
+title: Ghetts ft Kojey Radical- Black Rose
 date: 2018-09-01 16:25:00 Z
 tags:
 - home
