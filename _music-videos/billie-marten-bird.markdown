@@ -1,5 +1,5 @@
 ---
-title: Billie Marten — Bird
+title: Billie Marten - Bird
 date: 2015-09-16 00:00:00 Z
 position: 28
 image: "/uploads/billie-marten-bird-wide.jpg"
