@@ -1,5 +1,5 @@
 ---
-title: Junior Empire — Decide
+title: Junior Empire - Decide
 date: 2017-05-17 00:00:00 Z
 tags:
 - home

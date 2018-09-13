@@ -1,5 +1,5 @@
 ---
-title: Tei Shi — Say You Do
+title: Tei Shi - Say You Do
 date: 2017-08-09 00:00:00 Z
 tags:
 - home
