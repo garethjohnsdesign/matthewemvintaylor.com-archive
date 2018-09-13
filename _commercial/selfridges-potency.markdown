@@ -1,7 +1,7 @@
 ---
 title: Selfridges — Potency
 date: 2015-06-11 00:00:00 Z
-position: 39
+position: 44
 image: "/uploads/selfridges-potency-wide.jpg"
 vimeo: 132857269
 director: Elisha Smith-Leverock

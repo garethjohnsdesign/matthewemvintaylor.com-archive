@@ -1,7 +1,7 @@
 ---
 title: Lululemon - This is Yoga
 date: 2017-04-19 12:27:00 Z
-position: 6
+position: 11
 director: Hector Dockrill
 production-company: Pulse Films
 equipment: Arri Alexa
