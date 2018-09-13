@@ -1,5 +1,5 @@
 ---
-title: Mumford and Sons — Ditmas (London Shoot)
+title: Mumford and Sons - Ditmas (London Shoot)
 date: 2015-06-10 00:00:00 Z
 position: 32
 image: "/uploads/mumford-and-sons-ditmas-wide.jpg"
