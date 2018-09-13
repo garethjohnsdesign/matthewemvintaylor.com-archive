@@ -1,5 +1,5 @@
 ---
-title: Glass Animals — Hazey
+title: Glass Animals - Hazey
 date: 2014-07-15 00:00:00 Z
 tags:
 - home
