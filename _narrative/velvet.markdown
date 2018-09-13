@@ -6,6 +6,7 @@ images:
 - "/uploads/velvet-2-wide.jpg"
 - 
 director: Iggy LDN
+production-company: Lush Film Fund
 equipment: Arri Alexa
 is-shown: true
 ---
