@@ -14,4 +14,3 @@ equipment: Arri Alexa
 is-shown: true
 ---
 
-Coming soon
