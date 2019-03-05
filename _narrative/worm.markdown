@@ -3,7 +3,7 @@ title: Worm
 date: 2016-01-30 10:49:00 Z
 tags:
 - home
-position: 3
+position: 5
 image: "/uploads/worm-wide-home-01.jpg"
 images:
 - "/uploads/worm-wide-01.jpg"
