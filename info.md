@@ -9,7 +9,8 @@ clients-text: Apple, Beats, Lenovo, Hewlett Packard, Asos, Unicef, Lynx, Adidas,
   Coke, Lululemon, Santander, Aberlour, Nicorette, Coutts, Essie, Givenchy, Leerdammer,
   Cadbury, Canon, Lidl, Sky, Marks & Spencer, Betsson, Ted Baker, Longmorn, Betsson,
   Pepsi, Selfridges, Aperol, Carlsberg, Geox, Now TV, British Royal Navy, BP, Danone,
-  Yahoo, Lego, Microsoft, Jo Malone, Visa, Galaxy, Jeep, The Guardian
+  Yahoo, Lego, Microsoft, Jo Malone, Visa, Galaxy, Jeep, The Guardian, GHD, EE, Vevo,
+  Lidl, Nicorette, Caterham, Under Armour
 personal-text: "[+44 (0) 7967 851359](tel:00447967851359)  \n[matthewemvintaylor@gmail.com](mailto:matthewemvintaylor@gmail.com)"
 colophon-text: Site by [Gareth Johns Design \+ Development](https://www.garethjohnsdesign.com)
 disclaimer-text: All artwork and photography are copyrighted and protected under international
