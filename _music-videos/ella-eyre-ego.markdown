@@ -1,7 +1,7 @@
 ---
 title: Ella Eyre - Ego
 date: 2017-07-12 18:54:00 Z
-position: 14
+position: 17
 director: Sophia Ray
 production-company: Partizan
 equipment: Arri Alexa
