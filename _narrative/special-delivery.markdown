@@ -1,6 +1,8 @@
 ---
 title: Special Delivery
 date: 2018-04-02 13:47:00 Z
+tags:
+- home
 position: 0
 image: "/uploads/special-delivery-wide.jpg"
 images:
