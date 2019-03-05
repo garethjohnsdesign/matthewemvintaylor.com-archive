@@ -2,11 +2,11 @@
 title: Home
 position: 0
 image: "/assets/img/og-image.png"
-layout: home
 pagination:
   enabled: true
-  collection: commercial, narrative, music-videos
+  collection: commercial, music-videos, narrative,
   sort_field: position
   tag: home
+layout: home
 ---
 
