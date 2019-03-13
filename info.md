@@ -8,7 +8,7 @@ representation-text: |-
   Barnaby Laws - Commercials & Promos
   [barnaby@wp-a.co.uk](mailto:barnaby@wp-a.co.uk)
 
-  Amber Thompson - Features & Drama\
+  Amber Thompson - Features & Drama
   [amber@wp-a.co.uk](mailto:amber@wp-a.co.uk)
 
   [\+44 (0)207 287 9564](tel:00442072879564)\
