@@ -1,7 +1,7 @@
 ---
 title: Info
 position: 4
-representation-text: "WPA | Worldwide Production Agency  \nBarnaby Laws - Commercials
+representation-text: "WPA | Worldwide Production Agency  \n\nBarnaby Laws - Commercials
   & Promos\n[barnaby@wp-a.co.uk](mailto:barnaby@wp-a.co.uk)\n   \nAmber Thompson -
   Features & Drama  \n[amber@wp-a.co.uk](mailto:amber@wp-a.co.uk)  \n\n[\\+44 (0)207
   287 9564](tel:00442072879564)  \n[www.wp-a.com](http://www.wp-a.com/)  "
