@@ -6,5 +6,6 @@ vimeo: 350287223
 director: Iggy LDN
 production-company: Iconoclast
 equipment: Arri Alexa Mini
+is-shown: true
 ---
 
