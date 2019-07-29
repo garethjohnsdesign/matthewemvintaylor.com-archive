@@ -1,5 +1,5 @@
 ---
-title: Jnr Williams - A Prayer
+title: JNR Williams - A Prayer
 date: 2019-02-12 13:46:00 Z
 tags:
 - home
