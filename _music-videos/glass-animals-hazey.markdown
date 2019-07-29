@@ -1,8 +1,6 @@
 ---
 title: Glass Animals - Hazey
 date: 2014-07-15 00:00:00 Z
-tags:
-- home
 position: 26
 image: "/uploads/glass-animals-hazey-wide.jpg"
 vimeo: 105112626
