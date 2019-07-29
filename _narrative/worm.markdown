@@ -1,8 +1,6 @@
 ---
 title: Worm
 date: 2016-01-30 10:49:00 Z
-tags:
-- home
 position: 4
 image: "/uploads/worm-wide-home-01.jpg"
 images:
