@@ -1,7 +1,7 @@
 ---
 title: The Boxer Rebellion - Keep Moving
 date: 2013-09-11 19:27:00 Z
-position: 19
+position: 26
 director: Rob + Rob
 production-company: Agile Films
 equipment: Arri Alexa
