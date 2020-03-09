@@ -1,0 +1,12 @@
+---
+title: Ashnikko ft Yung Baby Tate - Stupid
+date: 2020-03-09 14:23:00 Z
+tags:
+- home
+image: "/uploads/ashnikko-stupid-wide1-60.jpg"
+vimeo: 386435951
+director: Lucrecia Taormina
+production-company: Friend
+equipment: Arri Alexa Mini
+---
+
