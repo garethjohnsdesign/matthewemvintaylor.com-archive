@@ -3,7 +3,7 @@ title: Velvet
 date: 2018-09-12 16:29:00 Z
 tags:
 - home
-position: 1
+position: 4
 image: "/uploads/velvet-4-wide.jpg"
 images:
 - 

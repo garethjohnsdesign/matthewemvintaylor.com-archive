@@ -1,7 +1,7 @@
 ---
 title: Bold
 date: 2013-11-20 00:00:00 Z
-position: 11
+position: 13
 image: "/uploads/bold-wide-d54f41.jpg"
 vimeo: 87501446
 director: Davide Gentile
