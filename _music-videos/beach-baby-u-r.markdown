@@ -1,7 +1,7 @@
 ---
 title: Beach Baby - U R
 date: 2016-06-22 00:00:00 Z
-position: 39
+position: 46
 image: "/uploads/beach-baby-u-r-wide.jpg"
 vimeo: 174398025
 director: Eoin Glaister
