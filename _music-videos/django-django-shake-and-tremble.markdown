@@ -7,7 +7,7 @@ vimeo: 131570502
 director: Pete GD
 production-company: Agile Films + CPP
 equipment: Arri Alexa passed through VHS
-is-shown: true
+is-shown: false
 layout: project
 ---
 
