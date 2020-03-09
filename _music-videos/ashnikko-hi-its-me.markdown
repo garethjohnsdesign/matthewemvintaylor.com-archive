@@ -4,7 +4,7 @@ date: 2019-06-02 09:49:00 Z
 tags:
 - home
 position: 6
-image: "/uploads/ashnikko-wide-1.jpg"
+image: "/uploads/ashnikko-hi-its-me-wide-2.jpg"
 vimeo: 348439070
 director: Lucrecia Taormina
 production-company: Friend
