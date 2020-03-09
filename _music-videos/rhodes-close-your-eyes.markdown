@@ -7,7 +7,7 @@ vimeo: 128155983
 director: Yonatan Weisberg
 production-company: Chief Productions
 equipment: Arri Alexa Anamorphic
-is-shown: true
+is-shown: false
 layout: project
 ---
 
