@@ -2,9 +2,11 @@
 title: Olivia Dean - Crosswords
 date: 2020-02-20 16:05:00 Z
 position: 5
+image: "/uploads/olivia-dean-crosswords-wide-1.jpg"
+vimeo: 397611400
 director: Fiona Jane Burgess
 production-company: Lez Creative
 equipment: 'Arri Alexa Mini '
-is-shown: false
+is-shown: true
 ---
 
