@@ -7,7 +7,7 @@ vimeo: 134641283
 director: Alex Southam
 production-company: 'London Alley '
 equipment: Arri Alexa Anamorphic
-is-shown: true
+is-shown: false
 layout: project
 ---
 
