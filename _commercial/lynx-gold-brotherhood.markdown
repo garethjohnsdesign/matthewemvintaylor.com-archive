@@ -3,7 +3,7 @@ title: Lynx - Gold Brotherhood
 date: 2018-09-12 16:21:00 Z
 tags:
 - home
-position: 2
+position: 13
 image: "/uploads/lynx-gold-brotherhood-2-wide.jpg"
 vimeo: 288375096
 director: Paco Cruz
