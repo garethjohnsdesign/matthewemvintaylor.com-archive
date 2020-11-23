@@ -23,7 +23,8 @@ is-shown: true
 ---
 
 
-[Featured on Kodak Filmmaker Stories](https://www.kodak.com/en/motion/blog-post/sandpaper)
+
+[Link to feature on Kodak Filmmaker Stories](https://www.kodak.com/en/motion/blog-post/sandpaper)
 
 * Bolton Film Festival 2020 - **Winner Best UK short** 
 * Durban International Film Festival - September 2020
