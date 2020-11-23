@@ -23,11 +23,13 @@ is-shown: true
 ---
 
 
-Bolton Film Festival 2020 - **Winner Best UK short** 
-Durban International Film Festival - September 2020
-Raindance Film Festival 2020
-Aesthetica Film Festival 2020
-Cambridge Film Festival 2020
-SOUL Film Festival 2020
-Roundhouse Shorts Screening
-BFI South West Preview 
+* Bolton Film Festival 2020 - **Winner Best UK short** 
+* Durban International Film Festival - September 2020
+* Raindance Film Festival 2020
+* Aesthetica Film Festival 2020
+* Cambridge Film Festival 2020
+* SOUL Film Festival 2020
+* Roundhouse Shorts Screening
+* BFI South West Preview
+
+[Featured on Kodak Filmmaker Stories](https://www.kodak.com/en/motion/blog-post/sandpaper)
