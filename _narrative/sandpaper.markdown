@@ -31,3 +31,5 @@ is-shown: true
 * SOUL Film Festival 2020
 * Roundhouse Shorts Screening
 * BFI South West Preview
+
+[Featured on Kodak Filmmaker Stories](https://www.kodak.com/en/motion/blog-post/sandpaper)
