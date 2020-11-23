@@ -3,7 +3,7 @@ title: Bugzy Malone ft Dermot Kennedy ‘Don’t Cry’
 date: 2020-10-22 13:33:00 Z
 tags:
 - home
-image: "/uploads/bugzy-malone-dont-cry-wide-1-1.jpg"
+image: "/uploads/bugzy-malone-dont-cry-wide-2.jpg"
 vimeo: 482575042
 director: Myles Whittingham
 production-company: Elixir Pictures
