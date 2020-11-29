@@ -1,5 +1,5 @@
 ---
-title: Bugzy Malone ft Dermot Kennedy ‘Don’t Cry’
+title: Bugzy Malone ft Dermot Kennedy - Don’t Cry
 date: 2020-10-22 13:33:00 Z
 tags:
 - home
