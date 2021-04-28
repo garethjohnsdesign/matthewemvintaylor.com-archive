@@ -5,17 +5,7 @@ tags:
 - home
 position: 0
 image: "/uploads/sandpaper-wide-1-1.jpg"
-images:
-- "/uploads/sandpaper-7.jpg"
-- "/uploads/sandpaper-1.jpg"
-- "/uploads/sandpaper-10.jpg"
-- "/uploads/sandpaper-11.jpg"
-- "/uploads/sandpaper-18.jpg"
-- "/uploads/sandpaper-30.jpg"
-- "/uploads/sandpaper-54.jpg"
-- "/uploads/sandpaper-5.jpg"
-- "/uploads/sandpaper-48.jpg"
-- "/uploads/sandpaper-43.jpg"
+vimeo: 391196013
 director: Michael Mante
 production-company: 'LowKey Films + BFI '
 equipment: 35mm Kodak 5219 - 3 perf
