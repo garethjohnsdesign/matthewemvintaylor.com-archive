@@ -3,7 +3,7 @@ title: Ghetts ft Kojey Radical - Black Rose
 date: 2018-09-01 16:25:00 Z
 tags:
 - home
-position: 19
+position: 22
 image: "/uploads/ghetts-black-rose-wide.jpg"
 vimeo: 287644230
 director: Netti Hurley

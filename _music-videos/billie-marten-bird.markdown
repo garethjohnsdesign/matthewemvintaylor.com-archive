@@ -1,7 +1,7 @@
 ---
 title: Billie Marten - Bird
 date: 2015-09-16 00:00:00 Z
-position: 48
+position: 51
 image: "/uploads/billie-marten-bird-wide.jpg"
 vimeo: 143015938
 director: Peter Banks
