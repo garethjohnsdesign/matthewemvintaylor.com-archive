@@ -11,3 +11,4 @@ production-company: Biscuit Filmworks
 equipment: Arri Alexa Mini LF
 ---
 
+Kinsale Shark Awards 2021 Best Cinematography 
