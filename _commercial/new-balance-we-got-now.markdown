@@ -1,9 +1,8 @@
 ---
 title: New Balance 'We Got Now'
 date: 2021-08-25 12:41:00 Z
-tags:
-- home
-image: "/uploads/new-balance-wide2.jpg"
+position: 1
+image: "/uploads/new-balance-wide1.jpg"
 vimeo: 639432105
 director: Dan Henshaw
 production-company: Untold Studios
