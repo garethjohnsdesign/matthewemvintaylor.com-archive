@@ -1,7 +1,7 @@
 ---
 title: Gillette x Raheem Sterling
 date: 2021-06-16 10:23:00 Z
-position: 5
+position: 2
 image: "/uploads/gillette-raheem-wide-1.jpg"
 vimeo: 586667512
 director: Christopher Lewis Thomas
