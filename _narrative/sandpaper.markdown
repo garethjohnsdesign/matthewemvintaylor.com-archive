@@ -3,7 +3,7 @@ title: Sandpaper
 date: 2019-06-22 09:59:00 Z
 tags:
 - home
-position: 4
+position: 5
 image: "/uploads/sandpaper-wide-1-1.jpg"
 vimeo: 391196013
 director: Michael Mante
