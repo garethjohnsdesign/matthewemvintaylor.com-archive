@@ -7,6 +7,7 @@ vimeo: 259380120
 director: George Harvey
 production-company: 'Nowness + George Harvey Studio '
 equipment: Arri Amira
+is-shown: false
 ---
 
 Documentary
