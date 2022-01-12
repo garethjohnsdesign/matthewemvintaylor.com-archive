@@ -7,7 +7,7 @@ vimeo: 144877063
 director: Georgia Hudson
 production-company: Agile Films
 equipment: Arri Alexa Anamorphic
-is-shown: true
+is-shown: false
 layout: project
 ---
 
