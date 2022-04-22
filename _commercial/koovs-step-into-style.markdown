@@ -1,7 +1,7 @@
 ---
 title: Koovs - Step into Style
 date: 2017-05-17 00:00:00 Z
-position: 40
+position: 41
 image: "/uploads/koovs-step-into-style-wide.jpg"
 vimeo: 220608303
 director: Tom + Amar
