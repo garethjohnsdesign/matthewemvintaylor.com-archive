@@ -1,9 +1,9 @@
 ---
-title: Brewdog 'Beer For All'
+title: Brewdog 'Beer for All'
 date: 2021-07-13 09:26:00 Z
 tags:
 - home
-position: 0
+position: 1
 image: "/uploads/brewdog-wide-1.jpg"
 vimeo: 586671962
 director: Jeff Low
