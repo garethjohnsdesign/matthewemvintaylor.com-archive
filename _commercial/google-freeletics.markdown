@@ -1,7 +1,7 @@
 ---
 title: Google - Freeletics
 date: 2018-11-20 14:25:00 Z
-position: 31
+position: 32
 director: Wriggles & Robins
 production-company: Friend London
 equipment: Arri Alexa
