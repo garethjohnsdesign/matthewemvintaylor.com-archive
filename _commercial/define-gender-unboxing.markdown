@@ -1,8 +1,6 @@
 ---
 title: Define Gender - Unboxing
 date: 2017-05-17 00:00:00 Z
-tags:
-- home
 position: 27
 image: "/uploads/define-gender-unboxing-wide.jpg"
 vimeo: 225679917
