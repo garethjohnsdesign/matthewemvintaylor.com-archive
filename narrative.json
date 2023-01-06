@@ -1,0 +1,18 @@
+---
+layout: 
+---
+
+[
+{% for post in site.narrative %}
+		{
+			"title"    : "{{ post.title }}",
+			"date"     : "{{ post.date | date: "%B %d, %Y" }}",
+			"credit"     : "{{ post.credit }}",
+			"vimeo"     : "{{ post.vimeo }}",
+			"director"     : "{{ post.director }}",
+			"production-company"     : "{{ post.production-company }}",
+			"equipment"     : "{{ post.equipment }}",
+			"copy"  : "{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_newlines }}"
+		} {% if forloop.last %}{% else %},{% endif %}
+{% endfor %}
+] 
